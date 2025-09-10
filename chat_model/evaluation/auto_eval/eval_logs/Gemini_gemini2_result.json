@@ -1,0 +1,5402 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近又感到抑郁，工作压力很大，感觉无力。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你正在经历很大的压力，能否分享一下具体的情况？",
+        "Gemini_response_history_with_output": "听起来你现在很不好受，工作压力让你感到很沉重。",
+        "Gemini_response_history_with_label": "听起来你现在很不好受，工作压力让你感到很沉重。"
+      },
+      {
+        "role": "user",
+        "content": "我刚入职不久，面临很多挑战，感觉自己不适应。"
+      },
+      {
+        "role": "assistant",
+        "content": "适应新环境确实很不容易，你觉得这些挑战主要来自哪些方面呢？",
+        "Gemini_response_history_with_output": "刚开始工作确实不容易，适应需要时间，你觉得自己哪些方面不适应呢？",
+        "Gemini_response_history_with_label": "刚入职确实需要适应的过程，你觉得自己主要在哪些方面感到不适应呢？"
+      },
+      {
+        "role": "user",
+        "content": "我对同事的指责很敏感，工作量也很大，常常感到焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种敏感和焦虑可能与过去的经历有关，你能回忆起这些情绪的来源吗？",
+        "Gemini_response_history_with_output": "同事的指责和繁重的工作让你感到焦虑不安，是吗？",
+        "Gemini_response_history_with_label": "同事的指责和过大的工作量让你感到焦虑，这让你感觉很不好。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己很累，想逃避，但又担心错过机会。"
+      },
+      {
+        "role": "assistant",
+        "content": "你在行动与逃避之间挣扎，这很正常。你有没有想过把目标拆分成小步骤来应对呢？",
+        "Gemini_response_history_with_output": "你既想休息，又害怕错过，这种矛盾的心情让你很挣扎吧？",
+        "Gemini_response_history_with_label": "你似乎在逃避和抓住机会之间感到矛盾，这让你很为难。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以先设定一个小目标，比如今天休息一下，明天再考虑面试。给自己一些宽容，慢慢来。",
+        "Gemini_response_history_with_output": "我能理解你的茫然，你想从哪里开始呢？",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。你觉得目前最让你感到困扰的事情是什么？我们先从这里入手。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我总是回忆不好的经历，感觉现实和幻觉混淆，害怕别人想害我。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你正在经历很大的焦虑和不安。能否分享一下这些经历对你生活的影响？",
+        "Gemini_response_history_with_output": "听起来你现在很痛苦，过去的经历还在影响你，让你感到不安和恐惧。",
+        "Gemini_response_history_with_label": "听起来你现在很痛苦，这些想法让你感到不安和恐惧。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得这些回忆让我很难放松，常常怀疑周围的人。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种怀疑感可能源于过去的创伤经历。你能回忆起最早的那次经历吗？",
+        "Gemini_response_history_with_output": "我能感受到这种持续的警惕让你非常疲惫。",
+        "Gemini_response_history_with_label": "我能感受到你内心的紧张和不信任感。这种状态持续多久了呢？"
+      },
+      {
+        "role": "user",
+        "content": "我小时候经历过一些不愉快的事情，感觉一直没有被理解。"
+      },
+      {
+        "role": "assistant",
+        "content": "被忽视或不被理解的感觉确实会加深内心的不安全感。你觉得这些经历如何影响了你对他人的看法？",
+        "Gemini_response_history_with_output": "那些经历对你来说一定很难，而且没有被理解的感觉会让人更加孤单。",
+        "Gemini_response_history_with_label": "童年的经历对我们影响深远。你渴望被理解的心情，我听到了。"
+      },
+      {
+        "role": "user",
+        "content": "我开始觉得每个人都在对我不利，甚至连家人也不例外。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很痛苦。你有没有想过，或许这些想法是对你内心不安的反应，而不是现实的反映？",
+        "Gemini_response_history_with_output": "这种不信任感让你感到非常孤立无援吧。",
+        "Gemini_response_history_with_label": "这种不信任感让你感到孤立无援。你希望和家人建立什么样的关系呢？"
+      },
+      {
+        "role": "user",
+        "content": "我明白了，但我该如何改变这种想法呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试记录下你的想法，分析它们的真实性。同时，逐步建立与他人的信任关系，慢慢让自己感受到安全感。",
+        "Gemini_response_history_with_output": "这是一个很好的问题。我们或许可以一起探索，看看有哪些方法能帮助你应对这些想法。",
+        "Gemini_response_history_with_label": "这是一个很好的问题。我们可以一起探索一些方法，比如认知行为疗法，来帮助你识别和改变这些消极想法。你愿意尝试吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近情绪很压抑，不知道该怎么释放。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，情绪压抑会让人感到很痛苦。能否分享一下最近让你感到情绪冒出的事情？",
+        "Gemini_response_history_with_output": "听起来你现在感觉很不好受。能说说让你感到压抑的事情吗？",
+        "Gemini_response_history_with_label": "听起来你现在感觉很难受，能感觉到你很想摆脱这种压抑。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是因为工作压力太大，很多事情都让我感到焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "工作压力确实会影响情绪。你觉得在工作中，有哪些具体的事情让你感到特别焦虑呢？",
+        "Gemini_response_history_with_output": "工作压力让你感到焦虑，这确实让人很难承受。你觉得这种焦虑主要体现在哪些方面呢？",
+        "Gemini_response_history_with_label": "工作压力确实容易让人焦虑。听起来你承受了很多，能具体说说让你焦虑的事情吗？"
+      },
+      {
+        "role": "user",
+        "content": "有时候任务太多，我觉得自己无法应对，常常感到无力。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种无力感很常见，尤其是在面对繁重任务时。你有没有尝试过与同事或朋友讨论这些压力？",
+        "Gemini_response_history_with_output": "任务太多让你感到无力，这是很自然的反应。这种无力感会持续多久呢？",
+        "Gemini_response_history_with_label": "任务太多让你感到无力，这很常见。听起来你对自己要求很高，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我总是觉得自己不能表现出脆弱，害怕被别人看不起。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种担心很普遍，但情绪是人类正常的反应。你有没有想过，表达情绪可能会让你与他人建立更深的联系？",
+        "Gemini_response_history_with_output": "害怕表现出脆弱，这背后似乎有很多顾虑。我们来一起探索一下，好吗？",
+        "Gemini_response_history_with_label": "害怕暴露脆弱是很自然的，很多人都有类似的顾虑。这种害怕背后，可能藏着你对自己的期待和要求。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么开始表达我的情绪。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试写日记，记录你的感受，或者找一个信任的人倾诉。记住，允许自己有情绪是很重要的，慢慢来，给自己时间。",
+        "Gemini_response_history_with_output": "表达情绪对你来说可能有些困难。没关系，我们可以慢慢来，先从感受开始。你现在最强烈的情绪是什么？",
+        "Gemini_response_history_with_label": "这是一个很棒的开始。也许我们可以一起探索一些适合你的表达方式，你觉得呢？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近一直在思考死亡，感到非常恐惧和迷茫。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你正在经历一段非常艰难的时光，能否分享一下这种恐惧是如何影响你的日常生活的？",
+        "Gemini_response_history_with_output": "思考死亡的确会带来很多复杂的情绪，我能感受到你的恐惧和迷茫。能具体说说是什么让你开始思考死亡吗？",
+        "Gemini_response_history_with_label": "思考死亡确实会带来很多复杂的情绪。听起来你现在正经历着恐惧和迷茫，这让你感到很难受，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我发现自己每天傍晚都会感到特别强烈的虚无感，无法专注于其他事情。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种情绪似乎在特定的时间段更为明显，是否有一些特定的事件或想法引发了这种感受？",
+        "Gemini_response_history_with_output": "傍晚的虚无感让你很难受，听起来它已经影响到你的生活了。这种感觉通常在什么情况下会更强烈呢？",
+        "Gemini_response_history_with_label": "傍晚时分，虚无感会特别强烈，这让你很难专注。我能感受到这种感受带来的困扰。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己对死亡的恐惧源于对自我存在的执念，但我无法放下。"
+      },
+      {
+        "role": "assistant",
+        "content": "这表明你在努力理解生命的意义，是否有过尝试去探索这些执念背后的原因？",
+        "Gemini_response_history_with_output": "你意识到对自我存在的执念是恐惧的来源，这很不容易。尝试放下执念很难，你觉得最难的部分是什么呢？",
+        "Gemini_response_history_with_label": "你似乎已经意识到问题的根源，执念的背后，可能隐藏着你更深层的渴望或未满足的需求，你愿意探索一下吗？"
+      },
+      {
+        "role": "user",
+        "content": "我尝试过分析自己，但似乎越分析越迷茫，找不到出路。"
+      },
+      {
+        "role": "assistant",
+        "content": "或许可以尝试将注意力从分析转向体验，问问自己在生活中有哪些小事情能让你感到快乐或满足？",
+        "Gemini_response_history_with_output": "分析自己却更迷茫，这让你感到很受挫。也许换个角度，不执着于分析，而是去感受和体验，会有不同的发现。你觉得呢？",
+        "Gemini_response_history_with_label": "理解，自我分析有时会陷入困境。或许我们可以一起探索，看看能否找到新的视角。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何面对剩下的生命，感觉很无助。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以考虑寻找一个能够倾听你的人，比如心理咨询师，帮助你更深入地探索这些感受，并找到应对的方法。",
+        "Gemini_response_history_with_output": "对未来的茫然让你感到无助。也许我们可以一起探索，看看你能做些什么，让自己感觉更有力量。你愿意试试吗？",
+        "Gemini_response_history_with_label": "这种无助感是可以理解的，重要的是，你并不孤单。我们可以一起探索，找到一些让你感到更有掌控感的方法。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己可能有cptsd，过去的家暴经历让我很痛苦。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，这样的经历确实会对心理产生深远的影响。你愿意分享一下这些经历对你现在生活的具体影响吗？",
+        "Gemini_response_history_with_output": "过去的经历一定给你带来了很深的伤痛，能感受到你现在还在为此挣扎。",
+        "Gemini_response_history_with_label": "过去的经历确实给你带来了很深的痛苦，我能感受到你的不容易。"
+      },
+      {
+        "role": "user",
+        "content": "我常常感到焦虑，对人很敏感，特别是父母说话时，我会很不耐烦。"
+      },
+      {
+        "role": "assistant",
+        "content": "这听起来像是你内心深处的情绪在作祟。你觉得这些反应和你过去的经历有什么联系吗？",
+        "Gemini_response_history_with_output": "听起来你对父母的言语很敏感，这让你感到焦虑和不耐烦。",
+        "Gemini_response_history_with_label": "听起来你现在的生活中，这些过去的经历仍然在影响着你的人际关系和情绪状态。这让你感到很困扰，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我有时候会有解离的感觉，拖延症和网瘾也很严重，感觉自己很矛盾。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种矛盾感可能是因为你在努力应对内心的痛苦。你有没有想过这些行为背后的原因是什么？",
+        "Gemini_response_history_with_output": "解离、拖延和网瘾，这些都在让你感到矛盾和困扰，是吗？",
+        "Gemini_response_history_with_label": "这些感受和行为，似乎是你应对痛苦的方式。你觉得它们在保护你什么呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道，可能是想逃避现实吧，但又觉得自己很自恋。"
+      },
+      {
+        "role": "assistant",
+        "content": "逃避和自恋可能是你保护自己的方式。你有没有尝试过面对这些情绪，看看它们想告诉你什么？",
+        "Gemini_response_history_with_output": "你一方面想逃避，另一方面又觉得自己自恋，这两种感觉让你很困惑。",
+        "Gemini_response_history_with_label": "“逃避现实”和“自恋”这两种感觉似乎有些冲突，你觉得它们之间有什么关联吗？"
+      },
+      {
+        "role": "user",
+        "content": "我还没尝试过，感觉很难。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从小处着手，比如每天花几分钟反思自己的情绪，慢慢建立对自己的理解。记得给自己一些空间，允许自己不完美。",
+        "Gemini_response_history_with_output": "尝试让你感到困难，是吗？",
+        "Gemini_response_history_with_label": "我明白这不容易。也许我们可以一起探索一下，看看从哪里开始会让你感觉更安全一些。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己很丑，没自信，不想出门。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解您的感受，这种自我怀疑很痛苦。您愿意和我分享一下，是什么让您觉得自己变得不自信了吗？",
+        "Gemini_response_history_with_output": "听起来你对外貌的焦虑让你感到很痛苦，这影响了你的自信和生活。",
+        "Gemini_response_history_with_label": "听起来你对外貌的焦虑让你感到很困扰，影响了你的生活。"
+      },
+      {
+        "role": "user",
+        "content": "我住院休学了一年，体重增加让我觉得自己不再漂亮。"
+      },
+      {
+        "role": "assistant",
+        "content": "这段经历一定让您感到很孤独。您觉得住院期间的经历对您的自信心产生了怎样的影响呢？",
+        "Gemini_response_history_with_output": "住院休学一定经历了很多，体重增加让你对自己的评价降低了，是吗？",
+        "Gemini_response_history_with_label": "住院休学期间的经历，加上体重的变化，的确会对自信心造成影响。 听起来这一年对您来说并不容易。"
+      },
+      {
+        "role": "user",
+        "content": "我常常因为变胖而发脾气，情绪不稳定。"
+      },
+      {
+        "role": "assistant",
+        "content": "情绪波动是很正常的反应，尤其是在面对身体变化时。您有没有发现，哪些事情会让您的情绪更加低落呢？",
+        "Gemini_response_history_with_output": "体重变化似乎触动了你内心的不安，让你感到难以控制。",
+        "Gemini_response_history_with_label": "体重变化影响了您的情绪，这让您感到困扰。您希望自己能更好地控制情绪，对吗？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何改变这种状况，感觉很无助。"
+      },
+      {
+        "role": "assistant",
+        "content": "无助的感觉很常见，但我们可以从小处着手。您有没有想过，哪怕是每天做一件小事，比如拉开窗帘，可能会让您感到更好一些？",
+        "Gemini_response_history_with_output": "你渴望改变，但目前的困境让你感到无力。",
+        "Gemini_response_history_with_label": "听起来您现在很需要支持。您希望我能如何帮助您呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该做什么，感觉没有目标。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试每天花一点时间做些新鲜事，比如看一段有趣的视频或尝试新的爱好。这些小活动可能会帮助您找到新的兴趣和目标。",
+        "Gemini_response_history_with_output": "你现在感到迷茫，找不到方向，是吗？",
+        "Gemini_response_history_with_label": "缺乏目标感会让人迷茫。或许我们可以一起探索一下，您过去喜欢做的事情是什么？或者，您对什么事情感到好奇？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感觉自己自律性很差，常常在无聊或焦虑时想吃东西，导致体重增加。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，能理解你现在的困扰，这种情绪与饮食的循环一定让你感到很无力。",
+        "Gemini_response_history_with_output": "听起来你对自己的饮食习惯感到困扰，也觉察到了情绪和饮食之间的关联。",
+        "Gemini_response_history_with_label": "听起来你对自己的饮食习惯有些困扰，我们一起来看看，是什么时候、什么情况下，这种想吃东西的冲动最强烈？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道为什么情绪一来就控制不住这些欲望。"
+      },
+      {
+        "role": "assistant",
+        "content": "这其实是大脑在应对压力时的一种本能反应，寻找快速的舒适感。",
+        "Gemini_response_history_with_output": "情绪上来的时候，那种想吃的冲动确实很难抵抗，对吗？",
+        "Gemini_response_history_with_label": "听起来你很想了解，情绪和饮食之间到底发生了什么。"
+      },
+      {
+        "role": "user",
+        "content": "我总是因为自责和焦虑而想吃东西，之后又更自责。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种循环很常见，情绪触发欲望，满足后又回到负面情绪，确实很难打破。",
+        "Gemini_response_history_with_output": "这似乎形成了一个让你痛苦的循环。",
+        "Gemini_response_history_with_label": "听起来你陷入了一个恶性循环，自责反而加剧了你的焦虑。"
+      },
+      {
+        "role": "user",
+        "content": "我该如何打破这个循环呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试识别情绪信号，记录冲动发生的时刻，了解背后的情绪原因。",
+        "Gemini_response_history_with_output": "或许我们可以一起探索一下，当你感到自责和焦虑时，除了吃东西，还有哪些其他的应对方式？",
+        "Gemini_response_history_with_label": "或许我们可以一起探索，是什么样的情绪让你感到需要用食物来安慰自己？"
+      },
+      {
+        "role": "user",
+        "content": "我会试着记录我的情绪和冲动。"
+      },
+      {
+        "role": "assistant",
+        "content": "很好！同时可以用一些无害的替代品来满足咀嚼的需求，帮助你逐步调整。",
+        "Gemini_response_history_with_output": "很好，记录可以帮助你更好地了解自己的模式。",
+        "Gemini_response_history_with_label": "好的，这是一个很好的开始，或许下次我们可以一起看看记录，更深入地了解你的情绪模式。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我女儿最近总是感到恐慌，脑子里有奇怪的声音，我很担心她。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的担忧，这种情况确实需要关注。你能具体描述一下她的感受吗？",
+        "Gemini_response_history_with_output": "听起来您很担心女儿的状况，这很自然。她说的“奇怪的声音”具体是指什么呢？",
+        "Gemini_response_history_with_label": "您很担心女儿的状况，这让我感受到您作为母亲的爱和焦虑。您能详细说说那些“奇怪的声音”吗？"
+      },
+      {
+        "role": "user",
+        "content": "她说感觉有人在偷看她，晚上睡觉时也很害怕。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能与她即将进入初中带来的压力有关。你觉得她在学校的社交情况如何？",
+        "Gemini_response_history_with_output": "嗯，这听起来确实让人不安。您女儿有没有提到这些感觉是什么时候开始的，或者有没有什么特别的诱因？",
+        "Gemini_response_history_with_label": "“有人在偷看”的感觉让她很不安，对吗？这种害怕持续多久了？"
+      },
+      {
+        "role": "user",
+        "content": "她在学校有些孤单，交朋友不太容易，可能因此感到焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "孤独感确实会加重焦虑。你有没有和她谈过这些感受，了解她的想法？",
+        "Gemini_response_history_with_output": "这可能是一个重要的线索。社交孤立的确会加剧焦虑和不安。我会建议您带她去看专业的心理医生，以便更好地评估和帮助她。同时，您也可以多花时间陪伴她，倾听她的感受。",
+        "Gemini_response_history_with_label": "嗯，社交孤立的确会加剧焦虑。我会建议带她去看专业的儿童心理医生，同时，在家庭中给她更多的支持和理解。"
+      },
+      {
+        "role": "user",
+        "content": "我尝试过，但她不太愿意说话，似乎很封闭。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很常见，孩子可能需要时间。你可以试着用温和的方式告诉她，你会一直支持她，鼓励她表达感受。",
+        "Gemini_response_history_with_output": "这很常见。也许可以尝试一些非语言的方式，比如一起做她喜欢的事情，创造一个轻松的氛围，让她知道您就在她身边。专业的心理咨询师也能帮助她打开心扉。",
+        "Gemini_response_history_with_label": "嗯，这可能需要一些时间和耐心。或许我们可以一起想想，如何创造一个更安全、放松的环境，让她愿意敞开心扉。"
+      },
+      {
+        "role": "user",
+        "content": "我该如何帮助她呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "建议你带她去专业的心理医生那里进行评估，同时在家里创造一个安全、温馨的环境，给予她更多的陪伴和理解。",
+        "Gemini_response_history_with_output": "您现在能做的，就是继续保持耐心和支持，让她知道您是她可以依靠的人。同时，尽快寻求专业的心理评估和治疗，这能帮助她更好地应对这些困扰。",
+        "Gemini_response_history_with_label": "除了陪伴和倾听，寻求专业的心理评估和支持，或许能更有效地帮助她应对这些困扰。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近成绩下滑，感到很焦虑，尤其是上课时注意力不集中。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的焦虑，成绩下滑确实会让人感到压力。你能具体说说上课时注意力不集中的感觉吗？",
+        "Gemini_response_history_with_output": "成绩下滑和注意力不集中让你感到焦虑，这很能理解。",
+        "Gemini_response_history_with_label": "听起来成绩下滑和注意力不集中让你感到非常焦虑，这确实让人不好受。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得理科思维速度变慢，听不清老师讲的内容。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能和你的睡眠质量有关。你最近的睡眠情况怎么样？",
+        "Gemini_response_history_with_output": "听不清老师讲的内容，让你感觉理科思维变慢了，是吗？",
+        "Gemini_response_history_with_label": "听起来你很担心自己的理科学习能力。这种“听不清”的感觉，让你感到很无助吧？"
+      },
+      {
+        "role": "user",
+        "content": "我晚上睡不着，脑子里总是无端联想，早上起不来。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实会影响你的学习和注意力。你有没有尝试过一些放松的方法来改善睡眠？",
+        "Gemini_response_history_with_output": "睡眠问题让你很困扰，听起来像是思绪很活跃。",
+        "Gemini_response_history_with_label": "睡眠问题确实会影响思维和注意力。听起来你正处于一个恶性循环中。"
+      },
+      {
+        "role": "user",
+        "content": "我试过，但效果不明显，还是很焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "焦虑可能会形成恶性循环。你有没有想过是什么让你感到如此焦虑？找出根源可能会帮助你。",
+        "Gemini_response_history_with_output": "你尝试过一些方法，但焦虑感仍然存在，这让你感到沮丧，对吗？",
+        "Gemini_response_history_with_label": "看来你为此做了不少努力，但效果不理想让你感到更加困扰。这样吧，我们来一起探索一下，你觉得焦虑的时候，脑子里都在想些什么？"
+      },
+      {
+        "role": "user",
+        "content": "我不太确定，可能是对成绩的压力。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试调整心态，把注意力放在过程而非结果上。同时，考虑寻求专业帮助，进行身体和心理的全面检查。",
+        "Gemini_response_history_with_output": "成绩的压力可能是一个原因，你觉得还有其他的可能性吗？",
+        "Gemini_response_history_with_label": "成绩的压力确实是一个常见的焦虑来源。我们接下来可以一起探讨一下，如何更有效地应对这种压力，你觉得怎么样？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感到很焦虑和抑郁，学习上也很懈怠，想知道该怎么办。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受，能否分享一下这些情绪对你生活的具体影响？",
+        "Gemini_response_history_with_output": "听起来你现在很不好受，学习上的状态也让你感到困扰。想知道你具体在哪些方面感到焦虑和抑郁呢？",
+        "Gemini_response_history_with_label": "听起来你现在很不好受。学习上的懈怠可能也让你更加自责。我们来一起看看，是什么让你感到焦虑和抑郁，好吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得家庭因素和学业压力都让我很痛苦，之前休学也没能解决问题。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来家庭和学业的压力让你感到无力，能否谈谈这些因素是如何影响你的日常生活的？",
+        "Gemini_response_history_with_output": "看得出家庭和学业给你带来了很大的压力，即使休学也没有缓解。这让你感到很无力，是吗？",
+        "Gemini_response_history_with_label": "听起来你一直在努力寻找解决问题的方法，休学也尝试过了，这让你感到有些无力，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我现在逃避上课，甚至不想参加考试，感觉自己很迷茫。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种逃避可能是对压力的反应，能否反思一下你内心深处对未来的期待和恐惧？",
+        "Gemini_response_history_with_output": "你现在很想逃避，并且对未来感到迷茫。这种感觉一定让你很难熬。",
+        "Gemini_response_history_with_label": "我听到了你的迷茫，逃避可能是你应对压力的一种方式。你希望从这种状态中走出来吗？"
+      },
+      {
+        "role": "user",
+        "content": "我想休学去学跳舞，但又担心这样会影响我的毕业。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是一个重要的决定，休学是否能帮助你更好地调整自己？你觉得自己需要什么样的支持？",
+        "Gemini_response_history_with_output": "你想休学去追求自己喜欢的事情，但同时又对学业感到担忧。你现在很矛盾，对吗？",
+        "Gemini_response_history_with_label": "一方面想追求热爱，一方面又担心现实，这种矛盾让你很纠结，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我还是很纠结，不知道该不该休学。"
+      },
+      {
+        "role": "assistant",
+        "content": "建议你可以先申请短期病假，观察自己在减压环境中的变化，再决定是否休学。同时，考虑寻求专业的心理治疗帮助。",
+        "Gemini_response_history_with_output": "你现在很纠结，休学对你来说是一个重要的决定。我们可以一起探索一下，你对休学的顾虑具体是什么？",
+        "Gemini_response_history_with_label": "这个选择的确让你很为难。我们可以一起探索一下，休学和不休学的可能性，以及各自的利弊。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我梦到我喜欢的老师给我发遗言，感觉很害怕。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，能理解这个梦让你感到恐惧和不安，老师在梦中以虚弱的状态出现，确实会让人感到沉重。",
+        "Gemini_response_history_with_output": "这让你感到很害怕，可以理解。你对老师的关心和重视，在梦里以这种方式呈现了出来。",
+        "Gemini_response_history_with_label": "听起来这个梦让你很不安。你担心老师，也可能在害怕失去重要的人。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得这个梦可能和我去心理咨询有关，老师似乎不太愿意我去。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能反映了你内心的担忧，或许你在想老师是否觉得你是个麻烦，或者临近假期你是否不应该去咨询。",
+        "Gemini_response_history_with_output": "你觉得老师的态度可能影响了你的梦境，是吗？这让你感到有些困扰。",
+        "Gemini_response_history_with_label": "嗯，听起来你觉得老师的态度可能影响了你的梦境，是这样吗？"
+      },
+      {
+        "role": "user",
+        "content": "我害怕失去老师的支持，感觉假期后会很孤单。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种对失去的恐惧很正常，老师给你带来的安全感让你依赖，而假期的到来让你感到不安。",
+        "Gemini_response_history_with_output": "你害怕失去支持，也担心假期后的孤单，这些感受都很真实。",
+        "Gemini_response_history_with_label": "听起来你很重视老师的支持，也担心假期会失去这份支持，让你感到孤单。"
+      },
+      {
+        "role": "user",
+        "content": "我真的很在乎这段关系，梦让我意识到这一点。"
+      },
+      {
+        "role": "assistant",
+        "content": "是的，承认自己的感受很重要。你可以思考一下，除了依赖老师，你还有哪些方式来应对自己的情绪？",
+        "Gemini_response_history_with_output": "梦让你更加清晰地看到了这段关系对你的重要性。",
+        "Gemini_response_history_with_label": "梦境帮助你看到了这段关系的重要性，以及你对它的重视程度。"
+      },
+      {
+        "role": "user",
+        "content": "我该怎么做才能缓解这种恐惧呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试和信任的人聊聊，把你的害怕表达出来，或者和心理老师讨论这个梦，帮助你更深入地理解自己的情感。照顾好自己，慢慢消化这些情绪。",
+        "Gemini_response_history_with_output": "你想要找到方法来缓解这种恐惧，这是一个很好的开始。我们可以一起探索一下。",
+        "Gemini_response_history_with_label": "你希望在哪些方面得到支持呢？是希望找到独立应对的方式，还是想改善和老师的关系？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己很痛苦，爸妈不理解我，感觉活着没有意义。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，这种孤独和无助让人很难承受。你愿意和我分享更多吗？",
+        "Gemini_response_history_with_output": "听起来你现在很不好受，被父母不理解让你感到很无助，对吗？",
+        "Gemini_response_history_with_label": "听起来你现在很不好受，被不理解和迷茫感笼罩着。你想聊聊具体发生了什么吗？"
+      },
+      {
+        "role": "user",
+        "content": "我从小就有压力，成绩不好，家里孩子多，爸妈常吵架。"
+      },
+      {
+        "role": "assistant",
+        "content": "这些压力确实很大，尤其在家庭环境中。你觉得这些因素对你的情绪影响最大的是哪一个？",
+        "Gemini_response_history_with_output": "从小到大，你都在一个充满压力的环境中长大，这让你感到很疲惫，是吗？",
+        "Gemini_response_history_with_label": "听起来你从小就背负了很多，这些经历一定让你感到很疲惫。"
+      },
+      {
+        "role": "user",
+        "content": "我晚上睡不着，胃疼，感觉越来越糟糕。"
+      },
+      {
+        "role": "assistant",
+        "content": "这些身体上的不适可能是情绪的反映。你有没有尝试过一些放松的方法来缓解这些症状？",
+        "Gemini_response_history_with_output": "身体已经开始发出信号了，睡眠和胃都在提醒你，你需要好好照顾自己了。",
+        "Gemini_response_history_with_label": "听起来你的身心都在发出信号，需要好好照顾自己了。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何调整自己，感觉很无力。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的无力感。或许可以从小的事情开始，比如每天记录一下自己的感受，慢慢找到情绪的出口。",
+        "Gemini_response_history_with_output": "这种无力感让你感到很困扰，对吗？也许我们可以一起探索一下，看看有没有可以尝试的突破口。",
+        "Gemini_response_history_with_label": "这种无力感是可以理解的。也许我们可以一起探索一些方法，看看哪些对你来说是可行的。"
+      },
+      {
+        "role": "user",
+        "content": "我真的不知道该怎么做。"
+      },
+      {
+        "role": "assistant",
+        "content": "试着给自己设定小目标，比如每天做一件让自己开心的事。记住，照顾好自己是最重要的，慢慢来，我们一起努力。",
+        "Gemini_response_history_with_output": "我能感受到你的茫然。没关系，我们可以一起慢慢来。",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。重要的是，你已经开始寻求帮助了。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我总是在睡觉前想起之前的失败，感觉很尴尬，影响了我的睡眠。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受，反复回想失败的经历确实会让人感到不安。你能告诉我，这些想法是从什么时候开始变得频繁的吗？",
+        "Gemini_response_history_with_output": "听起来睡前回忆失败让你感到困扰。我们可以一起探索一下，看看这些想法背后是什么，以及如何更好地应对。",
+        "Gemini_response_history_with_label": "听起来，那些失败的回忆让你感到很不舒服，影响了你的休息。"
+      },
+      {
+        "role": "user",
+        "content": "大概是最近一段时间，工作上遇到了一些挫折，心情一直不好。"
+      },
+      {
+        "role": "assistant",
+        "content": "工作上的挫折确实会对情绪产生很大影响。你觉得这些失败的经历对你有什么特别的意义吗？",
+        "Gemini_response_history_with_output": "工作上的挫折确实会影响心情。能感受到你这段时间的不容易。",
+        "Gemini_response_history_with_label": "工作上的挫折确实容易影响情绪。听起来，你正在经历一段比较困难的时期。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得这些失败让我很失落，常常怀疑自己的能力。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种怀疑是很常见的，尤其是在经历挫折后。你有没有想过，这些想法是否有可能是对自己过于苛刻的表现？",
+        "Gemini_response_history_with_output": "这些失败让你开始怀疑自己了，是吗？这让你感觉很不好受。",
+        "Gemini_response_history_with_label": "听起来你对自己的能力产生了一些怀疑。这种自我怀疑让你感到很沮丧，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "是的，我有时候会觉得自己太严格了，但又控制不住这些想法。"
+      },
+      {
+        "role": "assistant",
+        "content": "认识到这一点很重要。你愿意尝试一些方法来帮助自己放松和转变思维吗？",
+        "Gemini_response_history_with_output": "你一方面对自己要求很高，另一方面又为此感到困扰，是吗？ 这两者之间似乎有些矛盾。",
+        "Gemini_response_history_with_label": "我明白这种感受。我们之后可以一起探索如何调整你的自我评价，以及学习一些放松技巧，帮助你更好地应对睡前的焦虑。"
+      },
+      {
+        "role": "user",
+        "content": "可以的，我想试试。"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以尝试在睡前记录三件当天的好事，帮助自己关注积极的方面。同时，练习正念，专注于呼吸，帮助自己回到当下。这样可以减轻反刍的思维。",
+        "Gemini_response_history_with_output": "好的，那我们接下来可以一起探索一下，看看如何找到更适合你的方式。",
+        "Gemini_response_history_with_label": "好的，我们可以一起探索一些方法，比如记录想法、放松训练等。首先，我们来聊聊你通常会想起哪些具体的失败经历？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近感觉很虚无，做什么都提不起劲。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你现在的感受，虚无和疲惫常常是内心在呼唤关注和休息的信号。",
+        "Gemini_response_history_with_output": "听起来你现在正经历一段比较迷茫和缺乏动力的时间，这让你感到有些困扰，是吗？",
+        "Gemini_response_history_with_label": "听起来你现在感觉很空虚，好像失去了前进的动力。可以详细说说是什么让你有这种感觉吗？"
+      },
+      {
+        "role": "user",
+        "content": "家里的亲戚总是对我有成见，特别是小姨的话让我很难受。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实很让人沮丧，亲戚的评价可能让你感到不被理解和支持，这种感觉会加重你的疲惫感。",
+        "Gemini_response_history_with_output": "亲戚的成见，特别是小姨的话，让你感到受伤，这很能理解。",
+        "Gemini_response_history_with_label": "听起来你在亲戚关系中感到受伤，小姨的话让你特别难受，这让你很不好受吧？"
+      },
+      {
+        "role": "user",
+        "content": "我知道我应该用行动证明自己，但现在真的很累。"
+      },
+      {
+        "role": "assistant",
+        "content": "你内心有明确的方向和目标，但外界的压力让你感到无力，这种矛盾的状态会让人更加疲惫。",
+        "Gemini_response_history_with_output": "你想用行动证明自己，但同时感到疲惫，这让你感到很矛盾。",
+        "Gemini_response_history_with_label": "你一方面想努力改变现状，一方面又感到力不从心，这种矛盾让你更加辛苦了。"
+      },
+      {
+        "role": "user",
+        "content": "我总是想吃东西来缓解情绪，还有容貌焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "这些都是内心不安的表现，可能是对自我价值的怀疑和对外界评价的敏感，值得你去关注和反思。",
+        "Gemini_response_history_with_output": "你想通过食物来应对情绪，同时对外貌感到焦虑，这些都让你感到压力。",
+        "Gemini_response_history_with_label": "情绪性进食和容貌焦虑，都是我们应对压力的方式，它们背后可能隐藏着更深层的情绪需要被看见。"
+      },
+      {
+        "role": "user",
+        "content": "我该怎么做才能缓解这些情绪呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "试着给自己一些时间，倾听内心的声音，和信任的朋友聊聊，建立一个支持你的环境，慢慢找到内心的平静。",
+        "Gemini_response_history_with_output": "想要缓解这些情绪，你希望我能提供一些方向，是吗？",
+        "Gemini_response_history_with_label": "这是一个很好的问题。或许我们可以一起探索一下，看看哪些方法可能更适合你。你想从哪里开始呢？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感觉自己长期压抑，情绪很复杂，现在意识到这些问题，但不知道该如何面对。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受，面对压抑的情绪确实很困难。能否分享一下这些情绪给你带来了哪些具体的影响？",
+        "Gemini_response_history_with_output": "你意识到压抑的情绪需要被面对，这本身就是一个重要的开始。我们可以一起探索，看看如何安全地释放和处理这些情绪。",
+        "Gemini_response_history_with_label": "我听到了你的困扰。意识到是改变的开始，现在感觉不知所措也很正常。我们可以一起探索，看看这些复杂的情绪里都有些什么，你觉得怎么样？"
+      },
+      {
+        "role": "user",
+        "content": "我有时手抖，感觉肚子里像要爆炸，甚至会有自虐的想法。"
+      },
+      {
+        "role": "assistant",
+        "content": "这些身体反应和情绪的冲突可能是长期压抑的结果。你觉得是什么让你开始压抑自己的情绪呢？",
+        "Gemini_response_history_with_output": "听到你这么说，我很担心。这些身体反应和想法让你很不好受吧？我们一起深入了解一下，看看是什么引发了这些感受。",
+        "Gemini_response_history_with_label": "听到你这么说，我很担心。这些身体反应和想法让你非常痛苦，对吗？ 它们出现的频率和强度是怎样的呢？"
+      },
+      {
+        "role": "user",
+        "content": "我总是想要取悦别人，害怕被拒绝，所以不敢表达真实的自己。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种取悦他人的需求可能让你忽视了自己的感受。你有没有想过，真正的自己是什么样的？",
+        "Gemini_response_history_with_output": "你很在意别人对你的看法，害怕被拒绝。这种害怕让你感到很辛苦，是吗？",
+        "Gemini_response_history_with_label": "害怕被拒绝，想要取悦别人，这让你很辛苦。这种模式是从什么时候开始的呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道如何去发现真实的自己，感觉很迷茫。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试记录下你的感受和经历，慢慢观察自己在不同环境中的反应。这样有助于你更好地理解自己。",
+        "Gemini_response_history_with_output": "探索真实的自己需要时间，这确实会让人感到迷茫。我们可以一起尝试一些方法，帮你更好地认识自己。",
+        "Gemini_response_history_with_label": "探索自我的过程需要时间和耐心。也许我们可以一起看看，你有哪些可以尝试的小步骤，来更好地了解自己？"
+      },
+      {
+        "role": "user",
+        "content": "我会试试这个方法，但我还是很害怕。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是正常的，面对自己需要勇气。你可以考虑找专业的咨询师聊聊，他们能提供支持和指导。",
+        "Gemini_response_history_with_output": "尝试新事物，感到害怕是很正常的。我们可以一起看看，这份害怕背后是什么，以及如何一步步克服它。",
+        "Gemini_response_history_with_label": "害怕是很正常的。改变需要时间，也需要勇气。我们一起慢慢来，好吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感觉自己在过去十年里停滞不前，现在恢复后却不知道该如何面对未来。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，经历了这样的痛苦，重新开始确实会让人感到无措。你最担心的是什么呢？",
+        "Gemini_response_history_with_output": "这十年对你来说一定很艰难，现在你想重新开始，但又有些迷茫，是吗？",
+        "Gemini_response_history_with_label": "听起来你经历了一段艰难的时期，现在重新开始，迷茫是很自然的。我们一起看看，你对未来的期待是什么？"
+      },
+      {
+        "role": "user",
+        "content": "我担心自己与同龄人之间的差距，社交能力几乎为零，学业也中断了。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很正常，很多人经历过类似的阶段。你觉得是什么原因导致你在这十年里没有成长呢？",
+        "Gemini_response_history_with_output": "你很在意自己与同龄人的差距，这让你感到焦虑。你提到社交和学业，这些方面让你觉得压力很大吗？",
+        "Gemini_response_history_with_label": "看得出你很在意这些差距，以及它们对你生活的影响。我们来一起看看，有哪些小的事情可以让你开始重新建立联结，好吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是因为抑郁和狂躁的情绪，让我无法专注于学习和人际关系。"
+      },
+      {
+        "role": "assistant",
+        "content": "情绪对我们的生活影响很大。你有没有想过，如何逐步改善这些情绪呢？",
+        "Gemini_response_history_with_output": "看来情绪对你的影响很大，让你在学习和社交上都感到无力。",
+        "Gemini_response_history_with_label": "听起来，情绪的波动对你的影响很大。现在，你觉得这些情绪对你的影响还像过去那么强烈吗？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道从哪里开始，感觉一切都很复杂。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以试着从小目标开始，比如每天与一个人交流，或者学习一项新技能。你觉得这样可行吗？",
+        "Gemini_response_history_with_output": "我能感受到你现在的心情很复杂，不知从何下手。我们可以一起试着梳理一下，看看有没有更清晰的方向。",
+        "Gemini_response_history_with_label": "慢慢来，我们可以一起梳理。现在，如果只能选择一件事情开始，你觉得会是什么？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可以试试，但我还是很害怕失败。"
+      },
+      {
+        "role": "assistant",
+        "content": "失败是成长的一部分，重要的是勇敢尝试。给自己一些时间和空间，慢慢来，你会找到适合自己的节奏。",
+        "Gemini_response_history_with_output": "害怕失败是很自然的。你愿意尝试，这已经是很勇敢的一步了。我们一起面对。",
+        "Gemini_response_history_with_label": "害怕失败是很自然的，重要的是我们如何看待它。失败是学习的机会，而不是终点。你同意吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感到很孤独，楼下孩子的声音让我更加意识到自己没有家庭，情感脆弱。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能感受到你内心的孤独和脆弱，这种情感是很真实的。你愿意分享一下这些感受是从什么时候开始的吗？",
+        "Gemini_response_history_with_output": "听起来，你现在的情绪很复杂，孤独感被孩子的声音放大了，是吗？",
+        "Gemini_response_history_with_label": "听起来你现在很渴望一份归属感，这种孤独感让你觉得很难受，对吗？"
+      },
+      {
+        "role": "user",
+        "content": "我一直渴望婚姻和孩子，但似乎总是无望，特别是听到孩子的声音时。"
+      },
+      {
+        "role": "assistant",
+        "content": "这让我想到你对婚姻和家庭的渴望与现实之间的落差。你觉得这种落差对你生活的影响有多大呢？",
+        "Gemini_response_history_with_output": "渴望家庭的愿望没有实现，让你感到很失落，是吗？",
+        "Gemini_response_history_with_label": "渴望拥有家庭是很自然的想法。听到孩子的声音会让你感到无望，这让你很不好受吧？"
+      },
+      {
+        "role": "user",
+        "content": "我常常感到无助，觉得自己不够坚强，想要逃避现实。"
+      },
+      {
+        "role": "assistant",
+        "content": "逃避可能是为了保护自己，但长此以往会让你更加孤独。你有没有想过，面对这些情感会对你有什么帮助？",
+        "Gemini_response_history_with_output": "你觉得自己不够坚强，想要逃避，这让你感到很无助，对吗？",
+        "Gemini_response_history_with_label": "无助感和逃避的念头，都是应对压力的自然反应。你过去有没有用什么方法让自己感觉好一些呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何面对这些情感，感觉很迷茫。"
+      },
+      {
+        "role": "assistant",
+        "content": "迷茫是很正常的，或许你可以尝试接受自己的渴望和脆弱，问问自己：我能否允许自己有这样的感受？",
+        "Gemini_response_history_with_output": "这种迷茫的感觉让你不知所措，是吗？",
+        "Gemini_response_history_with_label": "迷茫是很正常的，特别是面对复杂的情感时。也许我们可以一起探索一下，看看你能找到哪些应对这些情感的资源和方法。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可以，但我不知道该如何改变现状。"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以从小处着手，比如每天找一点点积极的事情来关注，或者尝试与他人分享你的感受。这样逐步建立自信，可能会帮助",
+        "Gemini_response_history_with_output": "你想要改变，但苦于没有方向，对吗？",
+        "Gemini_response_history_with_label": "允许自己有这些感受是很好的第一步。改变现状可能需要时间和耐心，我们可以一起探索一些小步骤，你觉得怎么样？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近会不自觉地拍自己，像是姥爷拍我入睡的那样，但现在感觉没有意义。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，感谢你分享这个经历。听起来这个动作对你有特别的回忆和情感联系，我们可以一起探讨一下。",
+        "Gemini_response_history_with_output": "听起来你可能在寻求一种安慰，但这种方式现在让你感到困惑，是吗？",
+        "Gemini_response_history_with_label": "听起来，你似乎在用一种熟悉的方式寻求安慰，但同时也意识到它可能不再适合你现在的需求。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得这个动作可能是因为我最近有些焦虑，可能是压力大或者孤独。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很正常，尤其在成长的过程中，面对变化和责任时，很多人都会感到焦虑。你觉得这种焦虑是从哪里来的呢？",
+        "Gemini_response_history_with_output": "焦虑和孤独让你想起了小时候被呵护的感受，这很能理解。",
+        "Gemini_response_history_with_label": "嗯，你已经开始觉察到这个动作背后的可能原因了。压力和孤独感确实可能让人寻求安慰，你想更深入地了解这些感觉吗？"
+      },
+      {
+        "role": "user",
+        "content": "可能是因为我在适应新的环境，感觉有些失落，尤其是失去姥爷后。"
+      },
+      {
+        "role": "assistant",
+        "content": "失去亲人是非常痛苦的经历，尤其是你和姥爷的关系如此亲密。你觉得这个拍打动作是否在某种程度上帮助你回忆起和他在一起的时光？",
+        "Gemini_response_history_with_output": "适应新环境本身就需要时间和精力，加上失去姥爷的悲伤，难免会感到失落。",
+        "Gemini_response_history_with_label": "失去亲人，适应新环境，这确实会带来很大的失落感。允许自己感受这份失落，是很重要的。"
+      },
+      {
+        "role": "user",
+        "content": "是的，刚开始拍的时候会有踏实感，但后来就变得没有感觉了。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能反映了你在努力寻找安全感，但同时也在经历情感的变化。你有没有想过如何更积极地处理对姥爷的思念呢？",
+        "Gemini_response_history_with_output": "起初的踏实感可能只是暂时的，现在你可能需要寻找更有效的方式来应对失落。",
+        "Gemini_response_history_with_label": "嗯，一开始的踏实感可能来自于对过去美好时光的怀念和安全感的重建。现在没有感觉，可能说明你需要寻找新的方式来应对失落和焦虑了。"
+      },
+      {
+        "role": "user",
+        "content": "我没有特别的想法。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以试试赋予这个动作一些仪式感，比如在拍打时轻声说出对姥爷的思念，",
+        "Gemini_response_history_with_output": "没关系，我们慢慢来，一起探索。",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。允许自己去感受这份思念，或许能帮助你找到新的应对方式。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我从小就对自己和别人有很多疑问，尤其是学习方面。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你对自己和周围人的思考能力有很深的观察，这种思考是很重要的。你能具体说说这些疑问吗？",
+        "Gemini_response_history_with_output": "听起来你从小就对学习这件事有很多思考和困惑，是这样吗？",
+        "Gemini_response_history_with_label": "看来你从小就对学习和人际关系充满了好奇和思考。"
+      },
+      {
+        "role": "user",
+        "content": "我在八年级时受到一个同学的影响，开始努力学习，但后来却感到很痛苦。"
+      },
+      {
+        "role": "assistant",
+        "content": "这位同学对你产生了很大的影响，似乎让你对学习有了新的动力。你觉得是什么原因让你从努力学习转变为痛苦呢？",
+        "Gemini_response_history_with_output": "因为受到同学影响而努力学习，结果却感到痛苦，这让你很困扰，是吗？",
+        "Gemini_response_history_with_label": "因为努力学习而感到痛苦，这其中一定发生了什么。能多说说当时的情况吗？"
+      },
+      {
+        "role": "user",
+        "content": "我考了好成绩，但在调座位后感到自己掉进了深渊，失去了方向。"
+      },
+      {
+        "role": "assistant",
+        "content": "调座位的瞬间对你造成了很大的冲击，似乎让你感到失去了自我。你能回忆一下当时的感受吗？",
+        "Gemini_response_history_with_output": "考了好成绩，但调座位后却感觉跌入深渊，这让你感到迷失了方向。",
+        "Gemini_response_history_with_label": "考了好成绩是值得肯定的，但调座位后让你感觉像掉进深渊，这两种体验的反差很大。看来这个座位变动对你影响很深，能详细说说吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己一直在模仿别人，失去了自己的想法和方向。"
+      },
+      {
+        "role": "assistant",
+        "content": "模仿他人可能让你感到安全，但也会让你迷失自我。你有没有想过，真正的你想要成为什么样的人？",
+        "Gemini_response_history_with_output": "你感觉自己一直在模仿，这让你觉得失去了自我，是吗？",
+        "Gemini_response_history_with_label": "你意识到自己可能在模仿别人，这需要很大的勇气。这种感觉让你感到迷茫和无助，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么找到自己。"
+      },
+      {
+        "role": "assistant",
+        "content": "建议你尝试探索自己的兴趣和目标，找到适合自己的学习方式。同时，别忘了与信任的人分享你的感受，释放情绪",
+        "Gemini_response_history_with_output": "找不到自己让你感到很茫然，对吗？",
+        "Gemini_response_history_with_label": "“找到自己”是一个重要的课题，也是一个过程。或许我们可以一起探索，从你感兴趣的事情开始，慢慢认识自己。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我现在非常恐惧，看到和我父亲有关的东西就会感到焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解您的感受，这种恐惧感一定很痛苦。您能告诉我，是什么让您对父亲产生了这样的恐惧吗？",
+        "Gemini_response_history_with_output": "听起来这让你非常难受。这种恐惧和焦虑，具体是什么时候开始的呢？",
+        "Gemini_response_history_with_label": "听起来你现在很不好受，和父亲有关的事物会引发你强烈的情绪。 你能具体说说，这些恐惧和焦虑是什么时候开始的吗？"
+      },
+      {
+        "role": "user",
+        "content": "小时候他骂我很凶，还摔了我的玩具，这让我对他很疏远。"
+      },
+      {
+        "role": "assistant",
+        "content": "这段经历对您造成了很大的伤害。您觉得这次事件对您与父亲的关系产生了怎样的影响？",
+        "Gemini_response_history_with_output": "小时候的经历让你感到受伤和疏远，现在依然影响着你。",
+        "Gemini_response_history_with_label": "听起来那些经历对你影响很深，让你现在依然感到害怕和疏远。"
+      },
+      {
+        "role": "user",
+        "content": "我对他的喜怒无常感到害怕，现在看到他就会胸闷。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种身体反应很常见，尤其是当过去的创伤被触发时。您有没有想过，这种恐惧感背后可能隐藏着哪些未表达的情绪？",
+        "Gemini_response_history_with_output": "可以感受到，你依然在努力应对过去经历带来的影响。",
+        "Gemini_response_history_with_label": "看来您当时的无助感依然存在。这种胸闷的感觉，是否也让您想回避与父亲相关的一切？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得我既恨他又怕他，想和他交流又害怕被骂。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种矛盾的情感很复杂，您是否愿意尝试去理解这些情绪的来源，或许能帮助您更好地面对它们？",
+        "Gemini_response_history_with_output": "这种矛盾的心情，让你感到很挣扎吧？",
+        "Gemini_response_history_with_label": "这两种情感的拉扯一定让您很煎熬。您觉得，现在最需要的是什么呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么做才能缓解这种恐惧。"
+      },
+      {
+        "role": "assistant",
+        "content": "您可以尝试逐步接触让您感到恐惧的事物，比如先在父亲不在时待在客厅，慢慢适应这种环境。同时，",
+        "Gemini_response_history_with_output": "想要摆脱恐惧，是很自然的想法。或许我们可以一起探索，看看有什么方法能帮助你更好地应对。",
+        "Gemini_response_history_with_label": "这是一个很重要的开始。我们一起探索，看看有哪些方法可以帮助您应对这种恐惧，您觉得怎么样？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我在工作中被同事语言攻击，反击不了，压力很大，状态不好。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，这种情况确实让人很痛苦。你觉得这种攻击主要是针对你的哪些方面呢？",
+        "Gemini_response_history_with_output": "听起来你现在很不好受，被攻击却无法反击，这种无力感让你压力很大。",
+        "Gemini_response_history_with_label": "听起来你现在很不好受，被同事攻击却无力反击，这让你感到压力很大。我们来一起看看，是什么让你觉得无法反击，以及这种压力具体体现在哪些方面？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得他们可能是因为我工作中的一些小错误而故意挑刺。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实可能是一个原因。你觉得这些小错误是因为缺乏经验，还是其他什么原因呢？",
+        "Gemini_response_history_with_output": "所以，你觉得他们的攻击，可能源于你工作中的小失误？",
+        "Gemini_response_history_with_label": "听起来你认为他们是在抓住你的小错误不放，这让你感到很委屈。是这样吗？"
+      },
+      {
+        "role": "user",
+        "content": "我想可能是因为我性格比较内向，不太敢和他们争辩。"
+      },
+      {
+        "role": "assistant",
+        "content": "内向的性格在这种情况下确实会让你感到无力。你有没有尝试过用其他方式来表达自己的观点呢？",
+        "Gemini_response_history_with_output": "内向的性格让你在争辩时感到困难，是吗？",
+        "Gemini_response_history_with_label": "看得出来，你很清楚自己的性格特点。那么，你觉得如果能够更自信地表达自己，情况会有所不同吗？"
+      },
+      {
+        "role": "user",
+        "content": "我没有太多尝试，通常只是默默忍受。"
+      },
+      {
+        "role": "assistant",
+        "content": "忍受虽然可以暂时避免冲突，但长远来看对你并不好。你有没有想过如何更好地维护自己的权益？",
+        "Gemini_response_history_with_output": "你习惯了默默忍受，很少尝试去改变这种状况，是吗？",
+        "Gemini_response_history_with_label": "我明白。默默忍受会让你感到更加压抑。你觉得如果能更自信地表达自己，情况会有所不同吗？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么做。"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以尝试在面对指责时保持冷静，提出具体问题，或者用幽默的方式回应。这样可以帮助你更好地应对，同时保护自己的情绪。",
+        "Gemini_response_history_with_output": "面对这种情况，你感到很茫然，不知道从何下手。",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。你觉得如果能更有底气地表达自己，对你来说意味着什么？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我现在很难过，感觉自己被逼着去做不喜欢的工作。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，这种被迫的选择确实让人感到无奈和痛苦。",
+        "Gemini_response_history_with_output": "听起来你现在很痛苦，这份工作让你感到很大的压力和不快乐。你想聊聊具体是什么让你这么难受吗？",
+        "Gemini_response_history_with_label": "听起来这让你感到很压抑，能感受到你内心的挣扎。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得我本来可以有更好的选择，但现在却只能接受这个专科的计划。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实是一个艰难的决定，似乎在兴趣和现实之间产生了矛盾。",
+        "Gemini_response_history_with_output": "你似乎对现在的选择感到遗憾，并且对未来的发展有些担忧。",
+        "Gemini_response_history_with_label": "听起来你对现在的处境感到有些不甘心，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我担心别人会怎么看我，专科学历让我觉得很自卑。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种担心很常见，但其实学历并不能完全定义一个人的价值和能力。",
+        "Gemini_response_history_with_output": "你在意别人的评价，学历让你感到自我价值感降低了，是吗？",
+        "Gemini_response_history_with_label": "你很在意别人的看法，同时也在为自己的未来感到担忧，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何面对这个现实，感觉很迷茫。"
+      },
+      {
+        "role": "assistant",
+        "content": "不妨试着思考一下，专科学历是否真的会阻碍你的发展，或许能找到新的视角。",
+        "Gemini_response_history_with_output": "这种迷茫感可以理解，我们接下来可以一起探索一下，看看你能做些什么来应对这种感觉。",
+        "Gemini_response_history_with_label": "迷茫是很正常的，也许我们可以一起探索一下，看看有没有其他的可能性。"
+      },
+      {
+        "role": "user",
+        "content": "我该怎么做才能调整心态呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试运动、写日记或与朋友倾诉，逐步接受现状，同时继续学习新知识，提升自己。",
+        "Gemini_response_history_with_output": "调整心态需要时间，我们可以先从了解你的想法和感受开始，看看有什么是你觉得可以尝试改变的。",
+        "Gemini_response_history_with_label": "也许我们可以一起探索，看看有哪些资源和支持可以帮助你更好地适应和成长。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己经历了很多，但依然在努力生活。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，能感受到你内心的坚韧和勇气，这很重要。你能分享一下你最困扰的事情吗？",
+        "Gemini_response_history_with_output": "听起来你真的很不容易，能感受到你的坚韧。",
+        "Gemini_response_history_with_label": "看得出你很不容易，也感受到了你的坚韧。"
+      },
+      {
+        "role": "user",
+        "content": "我有很多疤痕，家庭关系也很复杂，父母不理解我。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你在面对身体和情感上的双重挑战。你觉得这些经历对你自我认同产生了怎样的影响？",
+        "Gemini_response_history_with_output": "这让你感到很受伤，是吗？",
+        "Gemini_response_history_with_label": "这些经历听起来确实很不容易。不被理解的感觉一定让你很受伤。"
+      },
+      {
+        "role": "user",
+        "content": "我常常感到孤独，尤其在家庭中，沟通很困难。"
+      },
+      {
+        "role": "assistant",
+        "content": "孤独感确实很痛苦，尤其是在需要支持的时候。你有没有尝试过与父母进行更深入的沟通？",
+        "Gemini_response_history_with_output": "孤独感一定很难熬，尤其是在本该感到温暖的地方。",
+        "Gemini_response_history_with_label": "孤独感的确会让人感到无助。你希望家庭关系变成什么样子？"
+      },
+      {
+        "role": "user",
+        "content": "我尝试过，但总是以争吵结束，感觉无能为力。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的无奈。也许你可以尝试在情绪平稳时，选择一个合适的时机，表达你的感受和需求。",
+        "Gemini_response_history_with_output": "你已经尽力了，这种无力感可以理解。",
+        "Gemini_response_history_with_label": "我理解你的挫败感。也许我们可以一起探索一些新的沟通方式，或者寻找其他支持来源，你觉得怎么样？"
+      },
+      {
+        "role": "user",
+        "content": "我会试试，但我还是觉得很难。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是一个过程，慢慢来。你可以先从小的沟通开始，逐步建立信任。同时，记得照顾好自己，寻找可以倾诉的朋友或老师。",
+        "Gemini_response_history_with_output": "我能感受到你的顾虑，慢慢来，好吗？",
+        "Gemini_response_history_with_label": "这确实不容易，改变需要时间和耐心。我们可以在咨询中一起探索更有效的沟通方式，你觉得怎么样？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我总感觉自己很难融入环境，尤其是对权威人士有恐惧感。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你在工作中感到孤立和不安，这种感觉很常见，我们可以一起探讨一下。",
+        "Gemini_response_history_with_output": "我听到了你的困扰，感受到你内心的不安。这种恐惧感，让你感觉很孤立无助吧？",
+        "Gemini_response_history_with_label": "我听到了你的困扰，这让你感到很不舒服吧？能感觉到你为此付出了很多努力。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得这可能和我成长的家庭环境有关，父母的关系一直不好。"
+      },
+      {
+        "role": "assistant",
+        "content": "家庭环境确实会影响我们的心理状态，能否分享一下你在家庭中经历的具体事情？",
+        "Gemini_response_history_with_output": "原生家庭对我们的影响确实很深远。你认为父母的关系如何影响了你呢？",
+        "Gemini_response_history_with_label": "原生家庭对我们的影响确实很深远，这可能是你人际关系模式的根源。"
+      },
+      {
+        "role": "user",
+        "content": "我父亲曾经对我和弟弟施加过暴力，这让我对权威产生了恐惧。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种经历会让你对权威产生负面联想，导致你在职场中感到不安和焦虑。",
+        "Gemini_response_history_with_output": "那一定是很痛苦的经历。你愿意多分享一些当时的感受吗？",
+        "Gemini_response_history_with_label": "那一定是很痛苦的经历。你愿意更详细地谈谈这些经历吗？我会在这里倾听。"
+      },
+      {
+        "role": "user",
+        "content": "我知道不能完全怪父母，但我现在很难摆脱这种心理状态。"
+      },
+      {
+        "role": "assistant",
+        "content": "理解你的感受，面对过去的创伤确实不容易。你有没有尝试过反思这些感受的来源？",
+        "Gemini_response_history_with_output": "你能这样反思，已经很不容易了。想要改变现状，需要时间和耐心。",
+        "Gemini_response_history_with_label": "理解你的感受，这需要时间和努力。你想做些什么来改善现状呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何开始改变。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试记录每天的小成就，慢慢建立自信。同时，参加兴趣小组，寻找共同爱好，可能会帮助你更好地融入环境。",
+        "Gemini_response_history_with_output": "改变并非一蹴而就。我们可以一起探索，从小处着手，你觉得怎么样？",
+        "Gemini_response_history_with_label": "改变需要时间和耐心，我们可以一起探索一些方法，从小处着手。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我在高中成绩下滑，失去了自信，感到焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，成绩的变化确实会影响自信心。你觉得最让你焦虑的是什么呢？",
+        "Gemini_response_history_with_output": "听起来你现在正经历一段比较艰难的时期，成绩下滑和自信的丧失让你感到焦虑。这种感觉是可以理解的。",
+        "Gemini_response_history_with_label": "成绩下滑和自信的丧失让你感到焦虑，这很不容易。能说说具体是什么让你最焦虑吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是因为班里的同学都很优秀，而我变得很差。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种比较常常会让人感到压力。你有没有想过，是什么原因导致你在这个环境中感到不适应呢？",
+        "Gemini_response_history_with_output": "你觉得周围同学的优秀让你感到自己变差了，是这样吗？",
+        "Gemini_response_history_with_label": "听起来你很在意和同学们的比较。这种比较让你感到压力很大，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得我不太融入班级，交不到朋友，也不喜欢班主任的态度。"
+      },
+      {
+        "role": "assistant",
+        "content": "人际关系的困难确实会加重你的焦虑。你能分享一下，和同学交往时遇到的具体困难吗？",
+        "Gemini_response_history_with_output": "班级氛围和人际关系让你感到孤立和不舒服，这让你感觉更加困难了。",
+        "Gemini_response_history_with_label": "听起来你面临着多方面的压力。人际关系和师生关系对你的影响很大。我们先来聊聊你和班主任之间发生了什么，好吗？"
+      },
+      {
+        "role": "user",
+        "content": "我总是担心自己表现不好，害怕被拒绝，所以不敢主动接触别人。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种担心很常见，但它可能会让你错过建立友谊的机会。你有没有想过，尝试主动与人交流会有什么样的感受？",
+        "Gemini_response_history_with_output": "害怕被拒绝让你不敢主动，这让你很被动和焦虑吧。",
+        "Gemini_response_history_with_label": "害怕被拒绝是很常见的。你之前有过类似的经历吗？或者，你觉得如果主动接触，最糟糕的情况会是什么？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从小事做起，比如在课间和同学聊聊共同的兴趣，或者参与班级活动。逐步建立信心，你会发现交朋友并不难。",
+        "Gemini_response_history_with_output": "面对这些困难，你感到无从下手，是吗？",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索一些方法。你觉得迈出第一步最困难的是什么？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我高考落榜，感觉前途被毁了，心里很痛苦。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，这样的经历确实很难承受。你能告诉我，最让你感到痛苦的是什么吗？",
+        "Gemini_response_history_with_output": "高考结果让你很受打击，能感受到你对未来的担忧和失落。",
+        "Gemini_response_history_with_label": "我听到了你的痛苦，高考结果让你对未来感到迷茫和绝望。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是因为舅舅的干预，让我填报了不适合的志愿。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实会影响你的选择。你觉得舅舅的建议是出于关心，还是其他原因呢？",
+        "Gemini_response_history_with_output": "听起来你认为舅舅的建议对你的志愿选择产生了负面影响，这让你感到很委屈和不满。",
+        "Gemini_response_history_with_label": "听起来你对舅舅的干预感到很愤怒和无奈。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得他根本不理解我，导致我在学校很不适应，变成了差生。"
+      },
+      {
+        "role": "assistant",
+        "content": "这让你感到失落和无助，对吗？你能回忆一下，是什么让你对自己的能力产生了怀疑？",
+        "Gemini_response_history_with_output": "你感觉舅舅并不真正了解你，这让你在学习上遇到了困难，是吗？",
+        "Gemini_response_history_with_label": "听起来你觉得他没有真正理解你，这让你很失望。"
+      },
+      {
+        "role": "user",
+        "content": "我一直觉得自己不如别人，尤其是和堂哥比。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种比较常常会让我们感到压力。你有没有想过，如何才能重新认识自己的价值呢？",
+        "Gemini_response_history_with_output": "和堂哥比较让你感到压力，觉得自己不够好，对吗？",
+        "Gemini_response_history_with_label": "你一直在和堂哥比较，这种比较让你感到压力很大，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我希望能放下对家人的怨念，但不知道怎么做。"
+      },
+      {
+        "role": "assistant",
+        "content": "放下怨念需要时间，可以尝试写下你的感受，慢慢理解他们的出发点。同时，关注自己的成长和目标，给自己设定小的可实现的目标，逐步前进。",
+        "Gemini_response_history_with_output": "你想放下对家人的怨念，这表明你希望改善和他们的关系，同时也想让自己更轻松。",
+        "Gemini_response_history_with_label": "想要放下怨念需要时间和努力。你愿意尝试一些方法，慢慢地与他们和解吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我这次期末成绩退步了，真的很难过，我想去实验班，但现在的成绩进不了。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的失落感，努力却没有得到想要的结果，确实让人沮丧。你能告诉我，除了成绩之外，还有什么让你感到担忧吗？",
+        "Gemini_response_history_with_output": "听起来你对这次成绩很失望，也对进不了实验班感到焦虑。",
+        "Gemini_response_history_with_label": "听起来你对这次的成绩很失望，也对进不了实验班感到焦虑。"
+      },
+      {
+        "role": "user",
+        "content": "我担心如果留在平行班，未来的机会会变少，可能会影响我的大学选择。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实是一个很重要的考虑。你觉得自己对成绩的渴望，更多是出于对未来的担忧，还是来自于内心的期望呢？",
+        "Gemini_response_history_with_output": "你很看重未来的发展，所以现在为自己感到担忧。",
+        "Gemini_response_history_with_label": "你很重视未来的发展，担心这次的挫折会影响长远目标。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是因为我不想让父母失望，他们总是希望我能考好。"
+      },
+      {
+        "role": "assistant",
+        "content": "明白了，父母的期望对你来说很重要。那么，你觉得这种压力是否让你在考试时感到更紧张，从而影响了发挥呢？",
+        "Gemini_response_history_with_output": "你感受到来自父母的期待，这让你倍感压力。",
+        "Gemini_response_history_with_label": "听起来你很在意父母的期望。那么，你自己的真实想法是什么呢？你真正想要的是什么？"
+      },
+      {
+        "role": "user",
+        "content": "是的，我在考试时会很紧张，常常担心出错。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，考试的压力会影响表现。你有没有想过，如何在考试前调整自己的心态，减轻这种紧张感呢？",
+        "Gemini_response_history_with_output": "考试的压力让你感到焦虑和不安。",
+        "Gemini_response_history_with_label": "看来紧张情绪确实影响了你的表现。我们或许可以一起探讨一下，如何更好地应对考试焦虑，减轻你的压力。你觉得怎么样？"
+      },
+      {
+        "role": "user",
+        "content": "我还没想好，有什么建议吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试一些放松技巧，比如深呼吸或正念冥想，帮助自己在考试前保持冷静。同时，记得关注自己的",
+        "Gemini_response_history_with_output": "我听到了你的困惑，或许我们可以一起探索，看看你能做些什么。",
+        "Gemini_response_history_with_label": "与其说建议，不如一起探索。下次咨询时，我们可以一起聊聊一些应对考试焦虑的方法，看看哪些适合你，好吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得学习是唯一的出路，但我想追求自己的兴趣，特别是唱歌。"
+      },
+      {
+        "role": "assistant",
+        "content": "你有这样的想法是很正常的，追求兴趣和面对学习压力之间的矛盾确实让人感到困惑。",
+        "Gemini_response_history_with_output": "你似乎在“应该”和“想要”之间感到挣扎，是吗？",
+        "Gemini_response_history_with_label": "你既看到了学习的重要性，也渴望追求内心的热爱，这让你感到有些矛盾，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我从小只上补习班，没时间发展兴趣，父母总是强调学习。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能让你感到被束缚，父母的担忧也许源于他们对未来的不安，他们希望你能有一个稳定的未来。",
+        "Gemini_response_history_with_output": "听起来，你一直都在为了满足父母的期待而努力。",
+        "Gemini_response_history_with_label": "听起来，你一直以来都在为了满足父母的期望而努力学习，这让你感到有些压抑。"
+      },
+      {
+        "role": "user",
+        "content": "我努力学习，但总是学不进去，心里很烦躁。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种状态可能是因为内心的渴望与现实的压力产生了冲突，导致你感到无助和焦虑。",
+        "Gemini_response_history_with_output": "这种烦躁，会不会是因为你觉得自己在做一些并非真正想做的事情？",
+        "Gemini_response_history_with_label": "学习的压力和对兴趣的渴望都在拉扯你，这种烦躁是内心冲突的体现。"
+      },
+      {
+        "role": "user",
+        "content": "我该怎么和父母沟通我的想法呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以试着先表达你理解他们的苦心，然后分享唱歌对你的意义和具体计划，逐步引导他们理解你的追求。",
+        "Gemini_response_history_with_output": "你想尝试表达，这很好。你希望这次沟通达到什么样的效果呢？",
+        "Gemini_response_history_with_label": "这是一个很好的问题。也许我们可以一起探索一些沟通的策略，帮助你更清晰地表达你的想法和感受，也更好地理解你的父母。"
+      },
+      {
+        "role": "user",
+        "content": "我会试试这样做，但我还想继续唱歌。"
+      },
+      {
+        "role": "assistant",
+        "content": "在不影响学习的情况下，参加一些文艺活动或分享你的歌声，探索你的兴趣是非常重要的，记住你的梦想同样值得追求。",
+        "Gemini_response_history_with_output": "唱歌这件事，对你来说很重要，是吗？",
+        "Gemini_response_history_with_label": "很好，即使困难，也愿意坚持自己的热爱，这很重要。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己的工号很不吉利，常常被同事嫌弃，心里很难受。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，这样的情况确实让人沮丧。你觉得工号和同事的态度对你影响很大，是吗？",
+        "Gemini_response_history_with_output": "听起来工号这件事让你感觉很困扰，被同事嫌弃更是让你心里不好受。",
+        "Gemini_response_history_with_label": "听起来，工号这件事让你感到很困扰，甚至影响到了你的情绪。"
+      },
+      {
+        "role": "user",
+        "content": "是的，我觉得工号让我在同事面前显得很差，影响了我的自信。"
+      },
+      {
+        "role": "assistant",
+        "content": "这让我想到你对自己能力的看法。你觉得这些负面评价是因为工号，还是因为你对自己能力的怀疑呢？",
+        "Gemini_response_history_with_output": "所以，你觉得工号影响了你在同事眼中的形象，进而影响了你的自信心，是吗？",
+        "Gemini_response_history_with_label": "听起来，你很在意这个工号对你形象的影响，并且它让你对自己产生了怀疑。"
+      },
+      {
+        "role": "user",
+        "content": "可能是我自己做事比较慢，容易被批评，工号只是加重了这种感觉。"
+      },
+      {
+        "role": "assistant",
+        "content": "明白了，你的自我评价和工作表现确实会相互影响。你觉得在工作中有哪些具体的困难让你感到压力呢？",
+        "Gemini_response_history_with_output": "听起来，工号可能只是一个导火索，真正让你困扰的，是觉得自己做事慢，容易被批评这件事？",
+        "Gemini_response_history_with_label": "听起来，你对自己的工作表现有些担忧。我们可以一起探讨一下，看看如何提升你的工作效率和自信心。"
+      },
+      {
+        "role": "user",
+        "content": "我总是担心别人怎么看我，特别是同事的评价让我很焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种焦虑感很常见。你有没有想过，别人的看法并不完全代表你的价值？你可以尝试关注自己的努力和进步。",
+        "Gemini_response_history_with_output": "你很在意同事对你的看法，这种在意让你感到焦虑。",
+        "Gemini_response_history_with_label": "“担心别人怎么看” 这份焦虑感一定让你很疲惫。你觉得这种担心从何而来呢？"
+      },
+      {
+        "role": "user",
+        "content": "我该怎么做才能缓解这种焦虑呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以试着设定小目标，逐步提高自己的工作效率。同时，练习自我肯定，提醒自己每个人都有成长的空间。",
+        "Gemini_response_history_with_output": "想要缓解这种焦虑，我们或许可以一起探索一下，你担心同事评价背后，更深层的需求是什么？",
+        "Gemini_response_history_with_label": "这是一个很好的问题。我们可以在接下来的时间里，一起探讨一些具体的应对方法，比如调整认知，或者学习放松技巧，你觉得怎么样？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我复读这一年很努力，但高考还是没考好，感到很沮丧。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，努力却没有得到想要的结果，确实很难受。你觉得最让你困扰的是什么呢？",
+        "Gemini_response_history_with_output": "看得出来你对自己期望很高，这次的结果让你很失望，是吗？",
+        "Gemini_response_history_with_label": "看得出来你为此付出了很多努力，结果不如意，沮丧是很自然的。想知道你现在最需要的是什么？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是父母的期望和我自己的失落感，让我很迷茫。"
+      },
+      {
+        "role": "assistant",
+        "content": "父母的期望有时会给我们很大的压力，你觉得这种压力对你的学习和情绪影响有多大呢？",
+        "Gemini_response_history_with_output": "父母的期望和自己的失落感交织在一起，让你感到不知所措，对吗？",
+        "Gemini_response_history_with_label": "听起来你同时背负着来自外界和内心的双重压力，这让你感到很迷茫。我们来一起看看，能不能先理清你内心的想法？"
+      },
+      {
+        "role": "user",
+        "content": "我总是觉得自己不够好，看到别人考得比我好，心里很不甘。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种比较让你感到不安是很正常的。你有没有想过，除了分数，还有哪些方面可以展示你的价值呢？",
+        "Gemini_response_history_with_output": "你似乎对自己要求很高，总是拿自己和别人比较，这让你感到压力很大，是吗？",
+        "Gemini_response_history_with_label": "这种不甘心背后，是不是也藏着你对自己更高的期待呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道，感觉只有高考才是唯一的出路。"
+      },
+      {
+        "role": "assistant",
+        "content": "高考确实重要，但它不是唯一的选择。你有没有考虑过其他的职业道路或学习方向呢？",
+        "Gemini_response_history_with_output": "你觉得高考是唯一的出路，这让你感到很焦虑，对吗？我们可以一起探索其他的可能性。",
+        "Gemini_response_history_with_label": "“唯一”这个词听起来压力很大。或许我们可以一起探索一下，除了高考，还有哪些其他的可能性？"
+      },
+      {
+        "role": "user",
+        "content": "我还没有想清楚，感觉很迷茫。"
+      },
+      {
+        "role": "assistant",
+        "content": "不妨先列出你感兴趣的领域和职业，逐步探索。记住，人生的道路有很多条，找到适合自己的才是最重要的。",
+        "Gemini_response_history_with_output": "没关系，允许自己迷茫。我们可以一起慢慢探索，找到方向。",
+        "Gemini_response_history_with_label": "迷茫是很正常的，尤其是在人生的重要转折点。或许我们可以一起探索一下，你对什么感兴趣，或者擅长什么？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近公司降薪30%，感觉生活压力很大，找工作也很难，心态很低落。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，降薪带来的压力确实很大。你觉得目前最让你困扰的是什么呢？",
+        "Gemini_response_history_with_output": "降薪这么多，确实会让人感到压力和沮丧。听起来你现在正面临一个很大的挑战。",
+        "Gemini_response_history_with_label": "降薪这么多，生活压力确实会很大，找工作又遇到困难，难免会感到低落。能理解你现在的心情。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是对未来的不确定感，之前的工作也因为疫情受影响，现在又降薪，感觉运气很差。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很正常，很多人都在经历类似的情况。你有没有想过，除了运气，可能还有其他因素在影响你的工作状况？",
+        "Gemini_response_history_with_output": "不确定感和之前的经历，让你现在感到很无力，是吗？",
+        "Gemini_response_history_with_label": "听起来你对未来的不确定性感到焦虑，并且觉得过去的一些经历让你感到沮丧。是这样吗？"
+      },
+      {
+        "role": "user",
+        "content": "我想可能是行业整体不景气，加上我也没有太多的技能提升，竞争力不足。"
+      },
+      {
+        "role": "assistant",
+        "content": "对，行业变化确实会影响你的机会。你觉得自己在技能和经验上有哪些可以提升的地方吗？",
+        "Gemini_response_history_with_output": "你开始反思行业和自身技能的问题了，这是一种积极的应对方式。",
+        "Gemini_response_history_with_label": "你能够这样分析，已经很棒了。接下来，你觉得可以从哪些方面着手，提升自己的竞争力呢？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得我需要学习一些新技术，但总是觉得时间不够，心态也不太好。"
+      },
+      {
+        "role": "assistant",
+        "content": "保持学习是很重要的，尤其在这样的环境中。你有没有考虑过制定一个小目标，逐步提升自己的技能？",
+        "Gemini_response_history_with_output": "想提升技能是好事，但同时又感到时间和心态上的阻碍，这让你有些矛盾。",
+        "Gemini_response_history_with_label": "听起来你已经意识到需要提升技能了，但时间和心态是目前的阻碍。我们可以一起看看如何更好地管理时间和调整心态，你觉得怎么样？"
+      },
+      {
+        "role": "user",
+        "content": "我可以试试，但我还是担心找工作的问题。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以理解。建议你多利用人脉，主动联系以前的同事或朋友，看看有没有推荐的机会。同时，保持积极的心态，给自己一些耐心。",
+        "Gemini_response_history_with_output": "你愿意尝试，但对结果仍然感到担忧。",
+        "Gemini_response_history_with_label": "担心是正常的，很多人都会有这样的焦虑。我们下次可以具体聊聊你的求职策略，看看有没有可以调整的地方。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感觉自己一直在迷茫，不知道该如何选择工作方向。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的困惑，经历了这么多变化后，确实很难做出决定。你最担心的是什么呢？",
+        "Gemini_response_history_with_output": "听起来你现在对未来的职业方向感到困惑。我们可以一起探索一下，看看是什么让你感到迷茫。",
+        "Gemini_response_history_with_label": "听起来你现在对未来的职业发展感到困惑，这很常见。我们一起来探索一下，看看是什么让你感到迷茫，好吗？"
+      },
+      {
+        "role": "user",
+        "content": "我担心找不到合适的工作，或者简历变得不太好看。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种担忧很常见，尤其是在经历了多次变动后。你觉得这些经历对你未来的职业发展有什么影响吗？",
+        "Gemini_response_history_with_output": "你很在意简历和未来的职业发展，担心找不到理想的工作。",
+        "Gemini_response_history_with_label": "听起来你很在意这次选择对未来的影响，担心会留下遗憾。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得这些经历让我对未来失去了信心，尤其是经济压力很大。"
+      },
+      {
+        "role": "assistant",
+        "content": "经济压力确实会加重心理负担。你有没有考虑过，哪些因素是你最希望在新工作中得到满足的？",
+        "Gemini_response_history_with_output": "经济压力加上对未来的不确定感，让你感到失去了信心。这确实会让人感到沮丧。",
+        "Gemini_response_history_with_label": "经济压力和对未来的不确定性，这两种感觉交织在一起，确实会让人感到很沉重。你目前有在做些什么来应对这些压力吗？"
+      },
+      {
+        "role": "user",
+        "content": "我希望能有稳定的收入，同时也能照顾家庭。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很重要。你觉得现在的状态是否能支持你实现这些需求？有没有什么小步骤可以帮助你缓解压力？",
+        "Gemini_response_history_with_output": "你渴望稳定和家庭的平衡，这很自然。",
+        "Gemini_response_history_with_label": "稳定收入和照顾家庭，这两点对你来说都很重要。你觉得这两者之间是否存在冲突？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该从哪里开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以考虑先找一份稳定的工作，减轻经济压力，同时继续关注你感兴趣的领域。这样可以为你未来的选择留出空间。",
+        "Gemini_response_history_with_output": "不确定从哪里开始，这让你感到无力。或许我们可以先从小处着手，一起梳理一下你的想法？",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。你觉得哪个方面是你现在最想理清的？是技能、方向，还是心态？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感觉工作压力很大，身心疲惫，甚至影响了我的健康。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你现在的感受，工作和生活的压力让你感到无力。能否分享一下，是什么让你觉得特别疲惫呢？",
+        "Gemini_response_history_with_output": "听起来你现在正经历一段非常艰难的时期，工作压力已经严重影响到你的生活质量和健康了。",
+        "Gemini_response_history_with_label": "听起来你现在很辛苦，工作压力已经严重影响到你的生活了。我们来一起看看，具体是什么让你感到这么大的压力，好吗？"
+      },
+      {
+        "role": "user",
+        "content": "工作量太大，领导又不加薪，感觉没有出路。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实很让人沮丧。你觉得这种压力主要来自于工作本身，还是人际关系的影响呢？",
+        "Gemini_response_history_with_output": "这让你感到付出与回报不成正比，看不到希望，是吗？",
+        "Gemini_response_history_with_label": "听起来你对现在的工作状态感到不满，一方面是工作量大，另一方面是付出与回报不成正比，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "人际关系也很复杂，同事之间的沟通不太顺畅。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你在工作中感到孤立。有没有想过尝试主动与同事沟通，改善这种关系呢？",
+        "Gemini_response_history_with_output": "复杂的人际关系让你感到沟通困难，这让你更加疲惫。",
+        "Gemini_response_history_with_label": "看来职场人际关系也给你带来了不少困扰。你觉得在沟通方面，最让你感到困难的是什么？"
+      },
+      {
+        "role": "user",
+        "content": "我试过，但总觉得对方不理解我。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，沟通需要时间和耐心。或许可以尝试在轻松的环境中交流，比如组织一次小聚会，增进了解。",
+        "Gemini_response_history_with_output": "你尝试过努力，但结果却让你感到不被理解，这一定让你很受挫。",
+        "Gemini_response_history_with_label": "被误解的感觉很难受。你希望得到怎样的理解呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么做才能改善现状。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以考虑从小处着手，比如制定合理的工作计划，利用科技工具提升效率。同时，给自己一些放松的时间，保持身心健康。",
+        "Gemini_response_history_with_output": "你现在感到迷茫，不知道如何改变目前的困境。",
+        "Gemini_response_history_with_label": "我明白你现在的困惑。或许我们可以一起探索一些应对压力和改善沟通的方法，你觉得怎么样？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近对工资感到很焦虑，原本计划年底买车，现在觉得很难实现。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，工资不如预期确实会让人感到失落和焦虑。你希望通过买车来提升生活质量，对吗？",
+        "Gemini_response_history_with_output": "听起来你对目前的经济状况感到有些压力和失望。",
+        "Gemini_response_history_with_label": "听起来你对买车计划受阻感到失望和压力，我们来一起看看，是什么让你特别在意这件事？"
+      },
+      {
+        "role": "user",
+        "content": "是的，我觉得工资不够，无法实现自己的计划。"
+      },
+      {
+        "role": "assistant",
+        "content": "这让你感到挫败，能否分享一下你对工资的期待和目前的实际情况？",
+        "Gemini_response_history_with_output": "你觉得工资不够，这让你感到受挫。",
+        "Gemini_response_history_with_label": "听起来你对现状有些无力感，觉得自己被困住了。"
+      },
+      {
+        "role": "user",
+        "content": "我希望能有更多的收入，但现在的工作让我觉得很难。"
+      },
+      {
+        "role": "assistant",
+        "content": "明白了，工作带来的压力和收入不匹配让你感到无力。你有没有考虑过其他的收入来源或发展方向？",
+        "Gemini_response_history_with_output": "你想增加收入，但目前的工作似乎让你感到局限。",
+        "Gemini_response_history_with_label": "“很难”是指哪些方面呢？是晋升机会有限，还是行业整体薪资水平不高？"
+      },
+      {
+        "role": "user",
+        "content": "我想过，但不知道从哪里开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，尝试思考一下你擅长的领域或兴趣，是否有可能转化为收入的机会？",
+        "Gemini_response_history_with_output": "想改变，但感觉无从下手，是吗？",
+        "Gemini_response_history_with_label": "开始时感到迷茫是很正常的。或许我们可以一起探索一下，看看有哪些可能性适合你？"
+      },
+      {
+        "role": "user",
+        "content": "我会考虑的，但还是有些迷茫。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从小处着手，比如学习新技能或寻找兼职机会，逐步增加收入，缓解焦虑。你觉得这样可行吗？",
+        "Gemini_response_history_with_output": "迷茫是很自然的，或许我们可以一起探索一下，看看有哪些可能性？",
+        "Gemini_response_history_with_label": "迷茫的时候，我们可以一起梳理一下你的优势和资源，看看有没有新的发现。你愿意尝试吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近总是做梦，梦到自己被关在监狱里，感觉很害怕。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，感谢你分享这个梦。能告诉我这个梦让你感到害怕的具体原因吗？",
+        "Gemini_response_history_with_output": "听起来这些梦让你感到非常不安。被困在监狱的意象，可能暗示着你现实生活中感到某种束缚或限制。",
+        "Gemini_response_history_with_label": "听起来这个梦让你感到非常不安。被困住的感觉可能象征着你生活中某种受限的处境，或者内心的压力。"
+      },
+      {
+        "role": "user",
+        "content": "我担心这个梦和我报考国家单位或入伍有关，害怕影响我的资格。"
+      },
+      {
+        "role": "assistant",
+        "content": "明白了，这种担忧可能反映了你内心的压力。你觉得这种担忧是从哪里来的呢？",
+        "Gemini_response_history_with_output": "你担心梦境会影响你的资格，这让你感到焦虑。我们来一起看看，这份担心背后更深层的含义是什么？",
+        "Gemini_response_history_with_label": "听起来你很担心这个梦会影响你的未来发展，是吗？这种担心让你感到焦虑。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是因为我对自己的能力不自信，常常怀疑自己能否通过考核。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种自我怀疑确实会加剧焦虑。你有没有经历过类似的情况，让你感到不够自信？",
+        "Gemini_response_history_with_output": "不自信和自我怀疑，这是许多人在面对重要考核时都会经历的情绪。你愿意进一步谈谈，这些不自信的想法是从哪里来的吗？",
+        "Gemini_response_history_with_label": "听起来你对自己要求很高。这种不自信的感觉，在你生活中其他方面也会出现吗？"
+      },
+      {
+        "role": "user",
+        "content": "我在学校时总是觉得自己不如别人，特别是在竞争激烈的环境中。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，很多人都会有这样的感觉。你有没有想过如何改变这种对自己的看法？",
+        "Gemini_response_history_with_output": "看来过去的一些经历，让你形成了“不如别人”的信念，这影响了你现在的自我评价。",
+        "Gemini_response_history_with_label": "听起来，过去的经历可能影响了你现在的自我认知。我们或许可以一起探索如何调整这种认知，你觉得怎么样？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该从哪里开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试设定小目标，逐步提升自信。同时，记录自己的成就，帮助你看到自己的进步。",
+        "Gemini_response_history_with_output": "理解。面对根深蒂固的信念，一下子理清头绪确实不容易。或许我们可以先尝试识别并挑战那些“不如别人”的想法，你觉得如何？",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。先从小处着手，比如，尝试列出你认为自己擅长的事情？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我对麻醉学有些迷茫，感觉未来不确定，心里很焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，能理解你的焦虑。面对未来的不确定性，很多人都会感到不安。你能具体说说让你最担心的是什么吗？",
+        "Gemini_response_history_with_output": "听起来你对未来的方向感到困惑和焦虑，这很正常。我们一起探索一下，看看这份不确定感从何而来，好吗？",
+        "Gemini_response_history_with_label": "听起来你对未来的方向感到困惑和担忧，这让你感到焦虑。能理解这种不确定感带来的压力。"
+      },
+      {
+        "role": "user",
+        "content": "我担心考研和工作压力，还有别人生命掌握在我手里。"
+      },
+      {
+        "role": "assistant",
+        "content": "这些担忧很正常，尤其是医学专业的责任感很重。你觉得这些压力主要来自哪里？是外界的期待还是自我的要求？",
+        "Gemini_response_history_with_output": "你同时在担心考研、工作压力以及肩负的责任，这些压力确实不小。我们先聚焦一下，哪个方面让你现在感觉最难以承受？",
+        "Gemini_response_history_with_label": "听起来你肩上的担子很重，既有学业的压力，也有对职业责任的担忧。这让你感到很有压力，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是来自自我要求，想要做好，但又害怕失败。"
+      },
+      {
+        "role": "assistant",
+        "content": "自我要求是动力，但过高的期望可能会让你感到压迫。你有没有想过，失败也是学习的一部分，能帮助你成长？",
+        "Gemini_response_history_with_output": "你对自己要求很高，既想做到最好，又害怕失败，这种矛盾的心情可以理解。我们来具体聊聊，你害怕失败会带来什么后果呢？",
+        "Gemini_response_history_with_label": "想要做好是好事，但害怕失败也可能成为阻碍。我们来一起看看，如何平衡这种想要做好和害怕失败的心情，好吗？"
+      },
+      {
+        "role": "user",
+        "content": "我明白这个道理，但还是很难放下这种焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试将焦虑视为一种信号，提醒你需要采取行动。你有没有什么方法可以帮助自己放松，缓解这种情绪？",
+        "Gemini_response_history_with_output": "明白道理和真正放下焦虑，确实是两回事。这需要一个过程，我们一起看看，有没有什么方法能让你在实践中慢慢靠近放下焦虑的状态？",
+        "Gemini_response_history_with_label": "这需要时间。也许我们可以一起探索一下，如何调整你的自我期待，让你在追求卓越的同时，也能更好地照顾自己。"
+      },
+      {
+        "role": "user",
+        "content": "我不太确定，有什么建议吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以试试定期休息，做一些自己喜欢的事情，或者与朋友交流。同时，设定小目标，逐步适应专业，给自己积极的心理暗示。",
+        "Gemini_response_history_with_output": "我理解你希望得到一些建议。不过，与其直接给你建议，不如我们一起探索，找到更适合你的方法。你过去有没有尝试过什么方法，能稍微缓解这种焦虑？",
+        "Gemini_response_history_with_label": "每个人放松的方式不同，可以尝试一些你感兴趣的事情，比如运动、听音乐或者和朋友聊天。或者，我们也可以一起探索一些更适合你的方法。你愿意试试吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我在工作中很喜欢独立完成技术性任务，但最近被要求做更多的沟通工作，我感到很抗拒。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解您的感受，面对不擅长的工作产生抗拒是很正常的。您能分享一下具体让您感到最痛苦的沟通任务吗？",
+        "Gemini_response_history_with_output": "听起来你很珍视独立工作的掌控感，现在需要更多沟通让你感到不适应，是这样吗？",
+        "Gemini_response_history_with_label": "我听到了，你喜欢独立工作，而现在需要更多沟通让你感到有些抵触，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "主要是与客户和销售的沟通，我曾经尝试过销售工作，但感觉压力很大，所以放弃了。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很能理解，销售工作确实需要很强的沟通能力和适应能力。您觉得是什么让您在销售工作中感到特别的压力呢？",
+        "Gemini_response_history_with_output": "你之前的销售经历让你对现在的沟通工作有些顾虑，担心重蹈覆辙，是吗？",
+        "Gemini_response_history_with_label": "看来过去的一些经历影响了您现在对沟通工作的看法。这份压力感，您能具体描述一下吗？"
+      },
+      {
+        "role": "user",
+        "content": "我总是担心沟通不顺利，像最近给同事发信息后没回复，我就很焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种焦虑很常见，尤其是在需要协调多方时。您是否考虑过调整对沟通结果的预期呢？",
+        "Gemini_response_history_with_output": "未得到及时回复会让你感到焦虑，这让你很在意人际互动的结果。",
+        "Gemini_response_history_with_label": "看来您很在意沟通的结果，并且对不确定性感到焦虑。这种焦虑感是否影响了您的工作效率和心情呢？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己在沟通上很努力，但总是感到不够好，甚至会自责。"
+      },
+      {
+        "role": "assistant",
+        "content": "您对自己的要求很高，这说明您有责任感。试着把沟通看作一个过程，而不是单一的结果，您觉得这样会有帮助吗？",
+        "Gemini_response_history_with_output": "你对自己有很高的期待，同时也承受着不小的压力，这让你感到疲惫。",
+        "Gemini_response_history_with_label": "我听到了您对自己沟通能力的自我怀疑和自责。也许我们可以一起探讨一下，您对“沟通好”的标准是什么？"
+      },
+      {
+        "role": "user",
+        "content": "我想尝试改变，但不知道从哪里开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从小目标开始，比如每天与一个客户沟通，关注每次",
+        "Gemini_response_history_with_output": "想要改变是很好的开始，也许我们可以一起探索，看看哪些方面可以先尝试着调整。",
+        "Gemini_response_history_with_label": "改变需要时间和耐心。我们可以一起探索一些具体的小步骤，让您在沟通中感到更舒适，您愿意试试吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近因为工作变动裸辞了，现在找工作很不顺利，心里很焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，裸辞后面对新工作的不确定性确实会让人感到焦虑。你能具体说说现在的困扰吗？",
+        "Gemini_response_history_with_output": "听起来你现在压力很大。裸辞后的求职不顺确实容易让人焦虑，这很正常。",
+        "Gemini_response_history_with_label": "听起来你现在压力很大。裸辞后的求职不顺确实会让人焦虑，这很正常。你想聊聊具体是什么让你感到最焦虑吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得每份新工作都不如之前的，常常后悔，心里很烦躁。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很正常，失去原来的工作会让我们放大新工作的缺点。你觉得是什么让你对新工作如此失望呢？",
+        "Gemini_response_history_with_output": "听起来你对现在的工作机会不太满意，并且沉浸在对过去工作的怀念中。",
+        "Gemini_response_history_with_label": "听起来你对之前的选择有些后悔，这种落差感让你感到烦躁。是这样吗？"
+      },
+      {
+        "role": "user",
+        "content": "我总是担心找不到合适的工作，导致我在工作中也很不开心。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种担忧会让你陷入焦虑的循环。你有没有尝试过分析一下自己对工作的具体期望和需求？",
+        "Gemini_response_history_with_output": "你似乎被找不到合适工作的担忧困扰着，这影响了你目前的工作状态。",
+        "Gemini_response_history_with_label": "听起来你很害怕找不到合适的工作，这种担心影响了你的工作状态。我们来一起看看，这种担心背后是什么？"
+      },
+      {
+        "role": "user",
+        "content": "我没有认真想过这些，只是觉得很迷茫。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以试着写下你最看重的工作因素，比如薪资、环境等，这样能帮助你更清晰地认识自己的需求。",
+        "Gemini_response_history_with_output": "迷茫是很常见的感受，尤其是在经历变化的时候。",
+        "Gemini_response_history_with_label": "迷茫是很常见的，尤其是在职业生涯的过渡期。或许我们可以一起探索一下，帮你理清方向？"
+      },
+      {
+        "role": "user",
+        "content": "我会试试这个方法，但我还是很焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "很棒！同时，给自己一些小奖励，比如完成一项任务后吃点喜欢的东西，也能帮助缓解焦虑。如果需要，专业咨询也可以提供支持。",
+        "Gemini_response_history_with_output": "我理解，改变需要时间。即使尝试新方法，焦虑也可能暂时存在。",
+        "Gemini_response_history_with_label": "我明白，改变需要时间。当你感到焦虑时，可以尝试一些放松技巧，比如深呼吸或冥想，来缓解情绪。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己学习压力太大，脑雾严重，心情也很低落。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，学习压力确实会影响心理状态。你能告诉我，是什么让你感到如此焦虑吗？",
+        "Gemini_response_history_with_output": "听起来你现在真的很不好受，学习压力让你身心俱疲。能具体说说，这种“脑雾”和低落的情绪，对你的学习和生活造成了哪些影响吗？",
+        "Gemini_response_history_with_label": "听起来你现在真的很辛苦，压力、脑雾和低落情绪同时困扰着你。"
+      },
+      {
+        "role": "user",
+        "content": "我总是想要达到完美的学习状态，但现实总是让我失望。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能是因为你对自己的期望过高，受到周围环境的影响。你觉得这些期望来自哪里呢？",
+        "Gemini_response_history_with_output": "追求完美让你感到失望，这让你很沮丧。是不是可以试着调整一下目标，看看会发生什么？",
+        "Gemini_response_history_with_label": "追求完美是种动力，但也会带来压力。你对“完美”的标准是什么呢？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是家长和老师的期待让我感到压力，尤其是我妈妈。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很常见，家长的期待有时会让我们感到被束缚。你有没有想过，如何与她沟通你的感受？",
+        "Gemini_response_history_with_output": "来自妈妈的期待让你倍感压力。这种压力具体体现在哪些方面呢？",
+        "Gemini_response_history_with_label": "看来你感受到了来自妈妈的压力。这让你觉得很难受，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道怎么说，我怕她不理解我。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试用“我”开头的句子表达，比如“我感到压力很大，希望能有更多的理解和支持”。这样可能更容易让她理解你的感受。",
+        "Gemini_response_history_with_output": "你担心妈妈不理解，这让你难以开口。这份担心我可以理解。",
+        "Gemini_response_history_with_label": "害怕不被理解是很自然的。或许我们可以一起想想，怎样表达才能让她更容易接受？"
+      },
+      {
+        "role": "user",
+        "content": "我会试试的，但我还是很担心。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是正常的，建议你在学习中适当放松，找到适合自己的学习节奏。记得给自己一些休息时间，保持身心健康。",
+        "Gemini_response_history_with_output": "尝试改变让你感到担忧，这很正常。我们可以在这里一起探索这份担忧。",
+        "Gemini_response_history_with_label": "担心是正常的。记住，改变需要时间，给自己多一些耐心。如果你需要，我在这里支持你。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得和朋友分享我的大学选择时，她们不理解我，甚至质疑我。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你很在意朋友们的看法，这让你感到困扰。能否分享一下你对这段友谊的期待呢？",
+        "Gemini_response_history_with_output": "听起来你感到很受伤，因为朋友的反应让你觉得不被支持。",
+        "Gemini_response_history_with_label": "听起来你感到有些受伤和孤单，因为朋友的反应和你期待的不一样。"
+      },
+      {
+        "role": "user",
+        "content": "我希望她们能理解我的选择，但她们似乎只看到我家里的经济条件。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能反映出你对她们的期望与现实之间的差距。你觉得这种差距源于什么呢？",
+        "Gemini_response_history_with_output": "你渴望被理解，但感觉她们只关注了物质层面，这让你很失望。",
+        "Gemini_response_history_with_label": "你希望被理解，而不是被简化成经济条件的标签。这让你感到失望和不被尊重，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得她们可能对我的努力和选择缺乏理解，甚至有些嫉妒。"
+      },
+      {
+        "role": "assistant",
+        "content": "嫉妒确实会影响人际关系。你是否觉得这种情绪让你在交流中感到不自在？",
+        "Gemini_response_history_with_output": "这让你开始怀疑她们是否真的了解你，以及她们的动机。",
+        "Gemini_response_history_with_label": "“缺乏理解”和“嫉妒”让你感到受伤和孤单。你希望她们如何回应你，会让你感觉被支持呢？"
+      },
+      {
+        "role": "user",
+        "content": "是的，我越来越觉得和她们聊天很别扭，甚至想要疏远。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是一种自我保护的反应。你觉得疏远她们会对你有怎样的影响呢？",
+        "Gemini_response_history_with_output": "你现在感到一种疏离感，这让你想要拉开距离。",
+        "Gemini_response_history_with_label": "这种疏远感让你感到难过吗？允许自己感受这种情绪是很重要的。"
+      },
+      {
+        "role": "user",
+        "content": "我想我可以尝试慢慢减少联系，专注于自己的未来。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是一个不错的选择。你可以把精力放在新的学习和交友上，寻找更理解你的人。",
+        "Gemini_response_history_with_output": "你似乎正在考虑一种保护自己的方式，并将精力放在更重要的事情上。",
+        "Gemini_response_history_with_label": "这听起来像是一个积极的尝试。在减少联系的同时，你打算如何支持自己呢？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得我的生活就是个死循环，每次都遇到人际交往的问题，真的很累。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，面对这样的困扰确实很不容易。你能告诉我，最近让你最烦恼的事情是什么吗？",
+        "Gemini_response_history_with_output": "听起来你感到很疲惫，人际关系的问题让你感到困扰和无力。",
+        "Gemini_response_history_with_label": "听起来你对目前的人际关系感到很疲惫，似乎一直在重复类似的困境。"
+      },
+      {
+        "role": "user",
+        "content": "我刚当上学委，但总觉得自己不够好，担心表达不好。"
+      },
+      {
+        "role": "assistant",
+        "content": "这说明你对自己的期望很高，也很在意他人的看法。你觉得这种担心是从哪里来的呢？",
+        "Gemini_response_history_with_output": "你对学委这个新角色感到有些焦虑，担心自己无法胜任。",
+        "Gemini_response_history_with_label": "听起来你对自己要求很高，刚开始担任新的角色，有压力是很正常的。"
+      },
+      {
+        "role": "user",
+        "content": "我总是想要被认可，但每次都感觉自己很孤独，别人对我的评价让我很受伤。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你在追求友谊时感到很挫败，这可能和你过去的经历有关。你能回忆起一些让你感到被忽视的时刻吗？",
+        "Gemini_response_history_with_output": "你渴望被接纳，但同时又因为在意别人的评价而感到受伤和孤单。",
+        "Gemini_response_history_with_label": "渴望被认可和感受到孤独，这两种感觉同时存在，一定让你很矛盾。你有没有想过，除了别人的评价，你也可以试着认可自己呢？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己很难被理解，常常感到孤独。"
+      },
+      {
+        "role": "assistant",
+        "content": "孤独感确实很痛苦，但这也可能是你渴望被看见的表现。你有没有想过，如何才能更好地展现自己呢？",
+        "Gemini_response_history_with_output": "听起来你感觉很孤单，渴望被理解的心情我能感受到。",
+        "Gemini_response_history_with_label": "我能感受到你的孤独。被理解是很重要的，你觉得是什么阻碍了你被理解呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么做才能交到朋友。"
+      },
+      {
+        "role": "assistant",
+        "content": "尝试从小处着手，比如主动和同学交流一些简单的话题，慢慢建立联系。同时，记得照顾好自己的情绪，给自己一些空间去",
+        "Gemini_response_history_with_output": "交朋友这件事让你感到困惑，是吗？",
+        "Gemini_response_history_with_label": "交朋友确实需要一些技巧，但更重要的是真诚。你觉得自己在和别人相处时，最困难的地方是什么呢？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感觉大学宿舍的关系很尴尬，想融入却总是被排除在外。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，融入一个群体确实不容易。你觉得最让你困扰的是什么呢？",
+        "Gemini_response_history_with_output": "听起来你为此感到很苦恼和孤单，是吗？",
+        "Gemini_response_history_with_label": "听起来你为此感到很困扰和孤单，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得她们一开始就不邀请我，导致我一直无法融入。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实很让人失落。你有没有想过她们为什么会这样呢？",
+        "Gemini_response_history_with_output": "你觉得被排除在外让你感觉很受伤，是吗？",
+        "Gemini_response_history_with_label": "听起来你为此感到受伤和沮丧，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我反思过自己的行为，可能是因为我有些话多，影响了她们的感觉。"
+      },
+      {
+        "role": "assistant",
+        "content": "你能意识到这一点很重要。你觉得这种情况对你们的关系有什么影响？",
+        "Gemini_response_history_with_output": "你很用心地在思考这个问题，并尝试理解她们的感受。",
+        "Gemini_response_history_with_label": "你能主动反思，这很棒。你觉得可以尝试做些什么改变呢？"
+      },
+      {
+        "role": "user",
+        "content": "我有时候觉得自己很尴尬，不知道该怎么主动去接触她们。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很正常。你有没有想过尝试一些小的方式来打破这种尴尬呢？",
+        "Gemini_response_history_with_output": "所以，主动接触对你来说，现在是一个挑战。",
+        "Gemini_response_history_with_label": "主动接触确实需要勇气。你有没有尝试过一些比较轻松的方式，比如从简单的问候开始？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么做，可能还是会被拒绝。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以试着主动邀请她们一起做一些简单的活动，或者发展自己的兴趣，寻找志同道合的人。记得保持自信，朋友会在合适的时候出现的。",
+        "Gemini_response_history_with_output": "害怕被拒绝让你有些犹豫，是吗？",
+        "Gemini_response_history_with_label": "害怕被拒绝是很自然的。但如果一直不尝试，可能就一直维持现状了。你想不想一起探索一些可以尝试的方法，看看哪个更适合你？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得室友对我很不公平，晚上打游戏不管别人，反而对我上床的声音很敏感。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，似乎你觉得被忽视和不被尊重了，这让你很生气，对吗？",
+        "Gemini_response_history_with_output": "这让你感到委屈和不被尊重，是吗？",
+        "Gemini_response_history_with_label": "这让你感觉很委屈和不被尊重，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "是的，我觉得她只在意自己的感受，完全不考虑其他人。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能反映出她对环境的敏感度不同，是否有可能她并不知道自己的行为影响到了你？",
+        "Gemini_response_history_with_output": "我能理解你这种感觉。你希望你的感受也能被她看见和重视。",
+        "Gemini_response_history_with_label": "听起来你觉得她很自私，这让你感到很失望。"
+      },
+      {
+        "role": "user",
+        "content": "我想她可能不在意，但我真的很困扰，感觉自己被针对了。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很正常，尤其是当你觉得自己的需求没有被重视时。你有没有尝试和她沟通过这些感受？",
+        "Gemini_response_history_with_output": "这种被针对的感觉让你很不好受，你想做些什么来改变这种状况吗？",
+        "Gemini_response_history_with_label": "“被针对”让你感到委屈和愤怒，对吗？我们可以一起探索一下，看看有没有其他角度来看待这件事。"
+      },
+      {
+        "role": "user",
+        "content": "我没有，可能是怕她不理解我。"
+      },
+      {
+        "role": "assistant",
+        "content": "理解你的顾虑，但沟通是解决问题的关键。你觉得如果你表达自己的感受，她会有什么反应？",
+        "Gemini_response_history_with_output": "你担心表达自己的需求反而会适得其反。",
+        "Gemini_response_history_with_label": "担心沟通无果是可以理解的。也许我们可以一起想想，怎样表达你的感受，让她更容易理解？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道，但我想试试。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是个好主意！你可以选择一个合适的时机，平静地告诉她你的感受和需求，这样有助于改善你们的关系。",
+        "Gemini_response_history_with_output": "很好，你愿意尝试。我们可以一起想想，怎样表达可能更有效。",
+        "Gemini_response_history_with_label": "这是一个好的开始。我们可以一起探讨一下，如何更有效地表达你的感受，让她更容易理解。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我对一个朋友的朋友有好感，但我知道我们不可能在一起，心里很矛盾。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，这种单方面的好感常常让人感到困惑。你能分享一下是什么吸引了你吗？",
+        "Gemini_response_history_with_output": "听起来你正经历着一段复杂的情感，既有心动，又有理智的阻碍。这种矛盾的感觉让你感到困扰，是吗？",
+        "Gemini_response_history_with_label": "听起来你正经历着一段复杂的情感，一方面被吸引，另一方面又感到无力。这种矛盾的心情让你感到困扰，对吗？"
+      },
+      {
+        "role": "user",
+        "content": "我欣赏对方的能力和人品，但我们并不熟悉，距离也很远。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，吸引力往往源于我们对某些特质的欣赏。你觉得这种吸引是因为你对他的理想化吗？",
+        "Gemini_response_history_with_output": "所以，你欣赏他的特质，但现实的距离让你感到无力。",
+        "Gemini_response_history_with_label": "听起来你很欣赏对方的优秀品质，但现实的距离让你感到无力。这让你感到很遗憾，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "是的，我觉得自己可能在给他加上滤镜，担心对方的行为会打碎我的好感。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种担心反映了你对失望的恐惧。你能否想象一下，如果对方的行为真的让你失望，你会如何应对？",
+        "Gemini_response_history_with_output": "你担心理想化的期待，与真实的相处之间会产生落差，这让你感到不安。",
+        "Gemini_response_history_with_label": "你很敏锐，能意识到理想化的可能。担心幻灭是很自然的，那你会怎么做呢？"
+      },
+      {
+        "role": "user",
+        "content": "我可能会感到很沮丧，但我也知道这只是我的想象。"
+      },
+      {
+        "role": "assistant",
+        "content": "很棒，你已经意识到这一点。试着把这份好感看作一种情感体验，而不是负担。你愿意尝试接纳这种情感吗？",
+        "Gemini_response_history_with_output": "你觉察到这可能只是想象，同时也在预想可能的失望，这让你很纠结。",
+        "Gemini_response_history_with_label": "你已经意识到这只是想象，这很好。允许自己体验这种沮丧，也许能帮助你更好地接受现实。"
+      },
+      {
+        "role": "user",
+        "content": "我会努力去接纳，但有时候真的很难。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试给自己一些空间，允许自己感受这些情绪，而不是压抑它们。记住，你的价值并不取决于",
+        "Gemini_response_history_with_output": "接纳现实确实需要时间和努力，允许自己去感受这份难，也是很重要的一步。",
+        "Gemini_response_history_with_label": "这需要时间和耐心，对自己宽容一些。记住，允许自己感受，也是一种成长。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近很迷茫，做了一些让媳妇伤心的事情，不知道该怎么办。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的困惑和痛苦，能否分享一下具体发生了什么事情？",
+        "Gemini_response_history_with_output": "听起来你现在很内疚，也很想弥补，是吗？",
+        "Gemini_response_history_with_label": "听起来你现在很内疚也很困惑，想修复关系但又不知从何下手，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我在工作中接触了一些不好的地方，导致媳妇发现了我的隐瞒，她很伤心。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实是一个很大的冲击，能否回忆一下你当时为什么会选择去那些地方？",
+        "Gemini_response_history_with_output": "我听到了你的困境，工作中遇到的问题影响了你和妻子的关系，这让你感到很为难。",
+        "Gemini_response_history_with_label": "听起来你很在意她的感受，也意识到隐瞒对你们关系的影响。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是因为工作压力大，想寻找一些新鲜感，但没想到会伤害到她。"
+      },
+      {
+        "role": "assistant",
+        "content": "压力和新鲜感的追求是常见的，但你是否意识到这些行为对你们关系的影响？",
+        "Gemini_response_history_with_output": "所以，你是想通过其他方式来缓解工作压力，但结果却事与愿违，是这样吗？",
+        "Gemini_response_history_with_label": "压力大，寻求新鲜感，结果却伤害了你爱的人，这让你很内疚，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我现在很后悔，想挽回她，但她似乎不再相信我了。"
+      },
+      {
+        "role": "assistant",
+        "content": "挽回信任需要时间和真诚，你是否考虑过如何向她表达你的悔意和决心？",
+        "Gemini_response_history_with_output": "这让你感到很无助和焦虑，对吗？ 重新建立信任需要时间和耐心。",
+        "Gemini_response_history_with_label": "失去信任确实让人难受，你希望重新建立信任，对吗？"
+      },
+      {
+        "role": "user",
+        "content": "我想好好对待她，但不知道从哪里开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从日常的小事做起，比如多关心她的情绪，保持沟通，逐步重建信任。",
+        "Gemini_response_history_with_output": "你能有这样的想法，说明你很重视这段关系。 也许我们可以一起探讨一下，你认为哪些方面是她最需要的？",
+        "Gemini_response_history_with_label": "尝试从小事做起，比如主动关心她的感受，认真倾听她的想法。重要的是让她感受到你的改变。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "今天又吵架了，外卖没整理好，她觉得烦，我觉得不公平。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，生活琐事确实容易引发争吵。你觉得这次争吵的核心问题是什么？",
+        "Gemini_response_history_with_output": "听起来你为这件事感到委屈和不被理解。",
+        "Gemini_response_history_with_label": "听起来你感到委屈，因为你觉得她对你的要求不公平。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得她对我期望太高，很多事情都让我来做。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能反映了你们之间的分工和沟通问题。你们之前是如何分配这些家务的呢？",
+        "Gemini_response_history_with_output": "你感觉肩上的担子很重，是吗？",
+        "Gemini_response_history_with_label": "听起来你感到压力很大，觉得承担了过多的责任。"
+      },
+      {
+        "role": "user",
+        "content": "其实我们从来没有明确分工，都是随意的。"
+      },
+      {
+        "role": "assistant",
+        "content": "没有明确的分工确实容易导致误解和不满。你觉得她对家务的期待和你自己的想法有什么不同？",
+        "Gemini_response_history_with_output": "所以，这种“随意”反而让你们之间产生了困扰？",
+        "Gemini_response_history_with_label": "嗯，缺乏明确的分工，确实容易产生不平衡感。"
+      },
+      {
+        "role": "user",
+        "content": "她希望我能主动去做，而我觉得应该是共同的责任。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很重要，双方的期望需要沟通。你有没有尝试过和她谈谈你们的想法和感受？",
+        "Gemini_response_history_with_output": "你希望被认可你的主动性，同时也希望责任能更公平地分配。",
+        "Gemini_response_history_with_label": "“主动”和“共同责任”之间存在差异，这可能就是矛盾所在。你希望如何与她沟通你的想法呢？"
+      },
+      {
+        "role": "user",
+        "content": "还没有，我有点担心她会生气。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以试着选择一个合适的时机，温和地表达你的感受，并提出共同分工的建议。这样有助于缓解紧张关系。",
+        "Gemini_response_history_with_output": "你担心表达需求会引发冲突？",
+        "Gemini_response_history_with_label": "担心她的反应是可以理解的。也许我们可以一起想想，怎样表达你的想法，能让她更容易接受。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己经历了很多痛苦，内心很压抑。"
+      },
+      {
+        "role": "assistant",
+        "content": "听到你的经历，我能感受到你内心的挣扎和痛苦。你希望我们一起探讨一下这些感受吗？",
+        "Gemini_response_history_with_output": "听起来你承受了很多，想必这段时间你过得很不容易。",
+        "Gemini_response_history_with_label": "听起来你现在很难受，想抱抱你。能具体说说是什么让你感到这么压抑吗？"
+      },
+      {
+        "role": "user",
+        "content": "我从小缺乏父爱，母亲的强势让我很压抑。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种缺乏和压抑的感觉一定很难受。你觉得这些经历对你现在的生活和人际关系有什么影响呢？",
+        "Gemini_response_history_with_output": "从小在这样的家庭环境中长大，一定给你带来了很多影响。",
+        "Gemini_response_history_with_label": "缺乏父爱和母亲的强势，这让你从小就背负了很多。这种压抑感现在还在影响你吗？"
+      },
+      {
+        "role": "user",
+        "content": "我总是担心幸福会消失，感觉很焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种对幸福的担忧可能源于你过去的经历。你能回忆起具体的时刻，是什么让你感到这种不安吗？",
+        "Gemini_response_history_with_output": "害怕失去美好的事物，这让你感到不安。",
+        "Gemini_response_history_with_label": "害怕失去美好的事物，这是一种很常见的焦虑。我们能一起探索一下这种焦虑背后的原因吗？"
+      },
+      {
+        "role": "user",
+        "content": "我希望能过得简单平淡，但总是感到不安。"
+      },
+      {
+        "role": "assistant",
+        "content": "你对简单生活的渴望很真实。也许可以试着思考一下，什么样的生活状态会让你感到安心和满足？",
+        "Gemini_response_history_with_output": "简单平淡的生活是你所向往的，但内心的不安似乎在阻碍你。",
+        "Gemini_response_history_with_label": "渴望平静却又感到不安，这两种感受在你心中并存，一定让你感到很矛盾。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何面对这些情绪。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试记录下你的感受，特别是在感受到幸福时的想法。同时，和医生讨论你的焦虑情况，寻找合适的应对方式。",
+        "Gemini_response_history_with_output": "面对这些情绪，你感到有些无助，是吗？",
+        "Gemini_response_history_with_label": "面对这些情绪确实不容易。我们可以一起探索一些方法，让你更好地理解和处理它们，好吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近轧死了我三个月的小猫，心里很内疚和伤心。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，这种突如其来的失去让人很难承受。你愿意分享一下当时的情景吗？",
+        "Gemini_response_history_with_output": "这确实是很令人难过的事情，失去小猫让你感到内疚和伤心，我能理解你现在的心情。",
+        "Gemini_response_history_with_label": "这一定让你非常难过，失去小猫的内疚和伤心，我能感受到。"
+      },
+      {
+        "role": "user",
+        "content": "当时我停车的时候没开灯，没看到小猫，结果就轧上了。"
+      },
+      {
+        "role": "assistant",
+        "content": "这真是一个意外，很多人都可能在瞬间犯错。你觉得这件事情对你来说最难接受的是什么呢？",
+        "Gemini_response_history_with_output": "所以，你是因为没有及时注意到小猫，导致了意外的发生，这让你更加自责，是吗？",
+        "Gemini_response_history_with_label": "听起来像是意外，你当时一定非常震惊和自责。现在这种自责的感觉还在吗？"
+      },
+      {
+        "role": "user",
+        "content": "我很内疚，觉得是我害死了它，想到它的样子就很难受。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种内疚感很常见，尤其是对我们深爱的宠物。你有没有想过，猫咪的生命是有它自己的轨迹的？",
+        "Gemini_response_history_with_output": "你现在被强烈的内疚感笼罩着，小猫的样子让你感到痛苦。这是很自然的反应，允许自己感受这份悲伤。",
+        "Gemini_response_history_with_label": "你对小猫的离去感到深深的自责和痛苦，这可以理解。这种内疚感让你感到非常难受。"
+      },
+      {
+        "role": "user",
+        "content": "我知道，但我还是觉得自己应该能做得更好。"
+      },
+      {
+        "role": "assistant",
+        "content": "你对小猫的爱是显而易见的，能否试着把这份爱转化为对它的美好回忆，而不是自责呢？",
+        "Gemini_response_history_with_output": "你对自己要求很高，认为本可以避免这场悲剧的发生。我们都会有“如果当初…”的想法。",
+        "Gemini_response_history_with_label": "“应该”这个词里，是不是也包含着对自己的责备？我们先来试着理解这份责备，好吗？"
+      },
+      {
+        "role": "user",
+        "content": "我会试着这样做，但还是很难。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以考虑写下你和小猫的美好时光，或者做一个小纪念。这样可以帮助你更好地处理这些情绪。也许寻求专业的心理咨询会对你有帮助。",
+        "Gemini_response_history_with_output": "嗯，我知道这不容易。允许自己慢慢来，这份悲伤需要时间去消化。如果你需要，我在这里支持你。",
+        "Gemini_response_history_with_label": "允许自己慢慢来，悲伤需要时间。记住，允许自己悲伤，也是爱的一部分。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得朋友们总是在炫耀自己的成就，我对此感到很不舒服。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受，炫耀的交流方式确实会让人感到压力。你能具体说说是什么让你觉得不舒服吗？",
+        "Gemini_response_history_with_output": "听起来你对朋友们的炫耀感到有些压力和不舒服，这很正常。",
+        "Gemini_response_history_with_label": "听起来你对朋友们的“炫耀”感到有些受伤和压力。"
+      },
+      {
+        "role": "user",
+        "content": "我总是觉得他们在比较，而我没有什么值得分享的，感觉自己很失败。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种比较的感觉很常见，尤其是在社交场合。你觉得这种感觉是从什么时候开始的呢？",
+        "Gemini_response_history_with_output": "你感到自己在和朋友们比较，并且觉得自己不如他们，这让你觉得自己很失败，是吗？",
+        "Gemini_response_history_with_label": "听起来你很在意这种比较，并且这种比较让你对自己产生了负面评价。"
+      },
+      {
+        "role": "user",
+        "content": "我想可能是因为我最近的生活不太顺利，看到他们的成就就更觉得自己不够好。"
+      },
+      {
+        "role": "assistant",
+        "content": "生活中的挫折确实会影响我们的自信心。你有没有尝试过和他们分享你的真实感受呢？",
+        "Gemini_response_history_with_output": "最近生活不太顺利，让你更容易关注到自己的不足，是吗？",
+        "Gemini_response_history_with_label": "听起来你对自己最近的状态不太满意，这让你更容易受到他人成就的影响。我们来聊聊你觉得“不够好”具体体现在哪些方面，好吗？"
+      },
+      {
+        "role": "user",
+        "content": "我没有，通常只是淡淡回应，想要避免这种比较。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，但也许你可以试着表达自己的感受，或许会让你们的交流更真实、更轻松。",
+        "Gemini_response_history_with_output": "你选择淡淡回应，是为了避免让自己陷入比较之中，是吗？",
+        "Gemini_response_history_with_label": "我明白。回避虽然可以暂时缓解不适，但也许也错失了更深入交流的机会。你觉得，如果尝试表达，最担心的是什么呢？"
+      },
+      {
+        "role": "user",
+        "content": "那我该怎么开始呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以选择一个合适的时机，简单地说出你最近的感受，或者提议一起做些轻松的活动，转移话题，慢慢建立更舒适的交流方式。",
+        "Gemini_response_history_with_output": "你想做些什么来改变这种状况呢？",
+        "Gemini_response_history_with_label": "你可以先尝试和其中一位你觉得比较信任的朋友坦诚地谈谈，表达你真实的感受。重点是表达自己，而不是指责对方。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我从小就感到孤独，父母也不太关心我。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，孤独的经历会让人感到无助和渴望被关注。",
+        "Gemini_response_history_with_output": "听起来你从小就缺少被关爱的感觉，这让你感到很孤单，是吗？",
+        "Gemini_response_history_with_label": "听起来你从小就缺少情感上的支持，这让你感到很孤单。"
+      },
+      {
+        "role": "user",
+        "content": "我总是担心别人会伤害我，习惯性想最坏的结果。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能和你童年时缺乏回应有关，是否有过类似的经历让你感到不被理解？",
+        "Gemini_response_history_with_output": "你似乎一直处于一种自我保护的状态，这让你感到很不安，对吗？",
+        "Gemini_response_history_with_label": "听起来你很没有安全感，这种担忧一定让你很疲惫。"
+      },
+      {
+        "role": "user",
+        "content": "我对朋友的期待总是落空，渐渐不想主动了。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种失望感很正常，或许是因为你在关系中感到不平等，能否分享一下你的想法？",
+        "Gemini_response_history_with_output": "你对友情感到失望，开始保护自己，是这样吗？",
+        "Gemini_response_history_with_label": "你对朋友的期待落空，让你感到失望和退缩，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我知道孤独是我必须面对的，但有时我真的想逃避。"
+      },
+      {
+        "role": "assistant",
+        "content": "面对孤独时，试着与它对话，了解它的来源，或许能帮助你更好地接纳自己。",
+        "Gemini_response_history_with_output": "你既想面对孤独，又渴望逃离，这让你感到很矛盾，对吗？",
+        "Gemini_response_history_with_label": "是的，想要逃避是人之常情。允许自己有这样的想法，然后我们一起看看可以做些什么。"
+      },
+      {
+        "role": "user",
+        "content": "我该如何改善这种状态呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试记录自己的情感，逐步表达出来，同时在与朋友互动时，降低期待，享受分享的过程。",
+        "Gemini_response_history_with_output": "你想做出改变，这很好。我们可以一起探索，看看有哪些可能性。",
+        "Gemini_response_history_with_label": "这是一个很好的开始，你愿意主动寻求改变。我们一起探索，看看哪些方法可能适合你。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得我跟我妈说话总是得不到尊重，她总是忙着，不愿意听我说。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，这样的情况确实让人感到失落。你能告诉我，这种情况对你产生了什么影响吗？",
+        "Gemini_response_history_with_output": "听起来你和妈妈沟通时感到很受伤，好像你的声音没有被她听见。",
+        "Gemini_response_history_with_label": "听起来你和妈妈沟通时感到很沮丧和不被重视。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己很少被倾听，常常感到孤独和不被重视。"
+      },
+      {
+        "role": "assistant",
+        "content": "这让我想到你母亲的成长环境，可能她也没有学会如何倾听。你觉得她的态度和她的家庭背景有关系吗？",
+        "Gemini_response_history_with_output": "我能感受到你内心的孤单，渴望被看见和理解。",
+        "Gemini_response_history_with_label": "被忽视的感觉一定很不好受。我能感受到你内心的孤独和渴望被重视的心情。"
+      },
+      {
+        "role": "user",
+        "content": "是的，我觉得她可能是从小就这样，习惯了这种沟通方式。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实可能是代际传递的问题。你有没有尝试过和她沟通你的感受，或者表达你希望被倾听的需求？",
+        "Gemini_response_history_with_output": "这让你开始理解她的行为模式了，对吗？",
+        "Gemini_response_history_with_label": "这让你对她多了一份理解，也让你更清楚问题的根源了，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我尝试过，但她总是忙着，没时间听我说。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很困难。也许你可以考虑在她比较放松的时候，找一个合适的时机，慢慢表达你的感受和需求。",
+        "Gemini_response_history_with_output": "你尝试过了，这很难，是吗？",
+        "Gemini_response_history_with_label": "嗯，你已经尝试过了，这需要很大的勇气。现在，我们来想想，除了直接沟通，还有没有其他的方式，能让你感受到被重视和被倾听？"
+      },
+      {
+        "role": "user",
+        "content": "我会试试的，但我还是很担心她不会理解。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以先从小的事情开始，逐步建立沟通的信任。记得关注自己的感受，给自己一些积极的肯定。你值得被倾听。",
+        "Gemini_response_history_with_output": "担心她不理解，这让你有些犹豫，是吗？",
+        "Gemini_response_history_with_label": "担心是自然的。我们可以一起探讨一些更有效的沟通方式，以及应对她可能不理解的策略。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己很孤独，虽然在努力提升自己，但还是渴望一段美好的恋爱。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受，孤独感常常伴随着追求自我提升的过程。你希望在爱情中找到什么样的体验呢？",
+        "Gemini_response_history_with_output": "你渴望连接，也在积极行动，这很难得。 loneliness 让你觉得有些沮丧，是吗？",
+        "Gemini_response_history_with_label": "你渴望亲密关系，同时也在积极行动，这很棒。孤独的感觉，我能体会。"
+      },
+      {
+        "role": "user",
+        "content": "我希望能有自然的相识，而不是通过相亲这种目的性强的方式。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，很多人都希望通过自然的方式建立关系。你觉得目前的生活方式是否限制了你接触异性的机会？",
+        "Gemini_response_history_with_output": "你更希望关系是自然发生的，这让你感觉更舒服、更真实。",
+        "Gemini_response_history_with_label": "你渴望的是一种更轻松、随缘的相遇，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "是的，我的生活主要围绕科研和个人兴趣，接触异性的机会确实不多。"
+      },
+      {
+        "role": "assistant",
+        "content": "那么你觉得在这样的情况下，是否有可能调整一下自己的社交方式，增加与异性接触的机会呢？",
+        "Gemini_response_history_with_output": "科研和个人兴趣占据了你大部分时间，所以拓展社交圈可能需要一些额外的努力。",
+        "Gemini_response_history_with_label": "我明白了。那么，有没有考虑过在科研或兴趣之外，拓展一些新的社交圈子呢？"
+      },
+      {
+        "role": "user",
+        "content": "我有考虑过，但总觉得不太容易。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的顾虑。或许可以从小的改变开始，比如主动向朋友提起你的想法，看看他们是否能帮你介绍一些朋友。",
+        "Gemini_response_history_with_output": "听起来，你已经意识到问题所在，但实际行动起来可能存在一些阻力。",
+        "Gemini_response_history_with_label": "我听到了你的顾虑。改变确实需要时间和勇气，你觉得最大的困难是什么呢？"
+      },
+      {
+        "role": "user",
+        "content": "这样做我可能会觉得更自然一些。"
+      },
+      {
+        "role": "assistant",
+        "content": "很好！同时也可以考虑参加一些兴趣活动或社交团体，这样能更轻松地接触到志同道合的人。你觉得呢？",
+        "Gemini_response_history_with_output": "所以，找到一个让你觉得自然的方式很重要。",
+        "Gemini_response_history_with_label": "是的，选择让自己感到舒适的方式很重要。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得父母对我的期望让我很有压力，我想要按照自己的方向去努力。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，父母的期望确实会让人感到沉重。你希望能有一个平和的状态，这很重要。",
+        "Gemini_response_history_with_output": "我听到了你的压力和渴望，你希望为自己的人生做主。",
+        "Gemini_response_history_with_label": "我听到了你的压力和渴望。你希望为自己而活，这很重要。"
+      },
+      {
+        "role": "user",
+        "content": "我知道他们的期望是出于关心，但我还是觉得很难应对。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，父母的期望往往是他们对自己的未实现愿望的投射。你能否分享一下这些期望具体是什么？",
+        "Gemini_response_history_with_output": "你理解他们的好意，但同时也感到难以承受，这让你很矛盾。",
+        "Gemini_response_history_with_label": "是的，感受和理解有时并不一致。这让你感到很为难，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "他们希望我能在学业上取得很高的成就，但我有时觉得这不是我想要的。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你在努力平衡自己的愿望和他们的期望，这确实很困难。你有没有想过，是什么让你觉得必须满足这些期望？",
+        "Gemini_response_history_with_output": "你对“成功”有自己的定义，这和父母的期望可能不太一样。",
+        "Gemini_response_history_with_label": "听起来，你对“成就”有自己的定义，和父母的有所不同。"
+      },
+      {
+        "role": "user",
+        "content": "我害怕自己做不到，害怕失望。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种恐惧很常见，但重要的是要意识到，你的价值并不取决于他人的期待。你能否尝试把注意力放在自己的目标上，而不是别人的期望？",
+        "Gemini_response_history_with_output": "害怕失败和让父母失望，这让你感到焦虑。",
+        "Gemini_response_history_with_label": "害怕让他们失望，也害怕自己让自己失望，对吗？ 这种害怕，我们接下来可以好好探索一下。"
+      },
+      {
+        "role": "user",
+        "content": "我会试着这样做，但有时真的很难。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从小处着手，设定一些符合自己内心的目标，并逐步实现。同时，记得给自己一些空间，不必过于",
+        "Gemini_response_history_with_output": "尝试改变很难，这需要时间和勇气。",
+        "Gemini_response_history_with_label": "当然，改变需要时间。重要的是，你已经开始意识到并尝试改变。也许我们可以一起探讨一下，如何更好地应对这种压力，一步一步地朝着自己的方向前进。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得整牙和学习美甲之间很纠结，想请教一下。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的困扰，整牙和学习美甲都是重要的决定。你能告诉我，整牙对你来说最重要的是什么吗？",
+        "Gemini_response_history_with_output": "听起来你在这两件事上有些犹豫，可以具体说说让你纠结的点是什么吗？",
+        "Gemini_response_history_with_label": "听起来你对这两件事都很感兴趣，但目前只能选择一个，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得整牙能让我更自信，但花掉所有积蓄让我很不安。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种不安很正常。你觉得整牙对你生活的影响有多大呢？",
+        "Gemini_response_history_with_output": "一方面渴望自信，另一方面又担心经济压力，这两种感受同时存在，让你感到很矛盾，是吗？",
+        "Gemini_response_history_with_label": "听起来，自信对你很重要，但经济压力也让你担忧。我们来一起看看，有没有办法平衡这两方面的需求？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得牙齿问题让我在人际交往中很自卑，影响了我的学习。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实会影响你的自信和学习状态。你有没有考虑过整牙后可能带来的积极变化？",
+        "Gemini_response_history_with_output": "牙齿问题对你的人际交往和学习都造成了困扰，这让你感到很受挫。",
+        "Gemini_response_history_with_label": "听起来牙齿问题对你的影响比你想象的要大。那么，美甲对你来说意味着什么呢？"
+      },
+      {
+        "role": "user",
+        "content": "我想过，但还是担心钱花得不值得。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以理解。试着想想，如果不整牙，长期来看对你的生活和学习会有什么影响？",
+        "Gemini_response_history_with_output": "所以你担心的是，即使花了钱，也无法达到你期望的效果，对吗？",
+        "Gemini_response_history_with_label": "你担心的是投入和回报不成正比。除了经济上的考量，还有其他让你犹豫的因素吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可能会一直不自信。"
+      },
+      {
+        "role": "assistant",
+        "content": "那么，建议你多咨询几家诊所，了解不同方案，做出最适合自己的选择。同时，利用课余时间学习美甲，逐步提升技能，可能会帮助你缓解经济压力。",
+        "Gemini_response_history_with_output": "这种不自信的感觉让你感到很无力，仿佛看不到改变的希望。",
+        "Gemini_response_history_with_label": "嗯，听起来自信对你来说很重要。除了整牙，还有没有其他方法可以提升自信呢？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我女儿现在对家里人都很反感，成绩也下滑，我很担心她的状态。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的担忧。女儿的这种情绪变化一定有原因，我们可以先探讨一下她最近的感受和经历。",
+        "Gemini_response_history_with_output": "看得出来，你很担心女儿现在的状况，想必心里也很不好受吧？",
+        "Gemini_response_history_with_label": "听起来你很担心女儿现在的状况，她对家人的反感和成绩下滑让你感到不安。"
+      },
+      {
+        "role": "user",
+        "content": "她从上高中开始就变得很消极，之前成绩很好，现在却很差。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能是她适应新环境的困难。你觉得她在学校有没有遇到什么特别的事情，比如和同学的关系或者老师的教学方式？",
+        "Gemini_response_history_with_output": "高中对她来说，可能是一个比较大的挑战，成绩下滑只是表象，背后可能有很多原因。",
+        "Gemini_response_history_with_label": "成绩的落差，加上消极情绪，对她来说一定压力很大。 你觉得可能是什么原因导致她这样的变化呢？"
+      },
+      {
+        "role": "user",
+        "content": "她提到过对老师和校长的不满，感觉学校不适合她。"
+      },
+      {
+        "role": "assistant",
+        "content": "这说明她对学校的期待和现实之间有很大的落差。你觉得她是否有表达自己需求的机会，或者她的声音是否被听见？",
+        "Gemini_response_history_with_output": "听起来，她对学校环境有很多负面情绪，这可能影响了她的学习动力。",
+        "Gemini_response_history_with_label": "听起来，学校环境对她影响很大。我们可以一起想想，除了转学，有没有其他方法可以改善她在学校的体验？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得她在家里也不愿意沟通，大家都很压抑。"
+      },
+      {
+        "role": "assistant",
+        "content": "家庭沟通很重要。或许可以找个合适的时机，鼓励她分享自己的感受，让她知道家人是支持她的。",
+        "Gemini_response_history_with_output": "家庭氛围的压抑，可能让她更不愿意敞开心扉。",
+        "Gemini_response_history_with_label": "家庭氛围的压抑可能会加剧她的负面情绪。你觉得家里是否可以尝试创造一些更轻松、开放的沟通方式？"
+      },
+      {
+        "role": "user",
+        "content": "我该怎么做才能帮助她呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "建议你考虑寻求专业心理咨询的帮助，同时多关注她的兴趣爱好，鼓励她参与一些活动，帮助她找到快乐和成就感。",
+        "Gemini_response_history_with_output": "你很想帮助她，这是一个很好的开始。或许我们可以一起探讨，如何创造一个更开放的沟通环境。",
+        "Gemini_response_history_with_label": "先试着去理解她，而不是急于改变她。让她感受到你的支持和理解，这会是改善关系的第一步。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我对环境的不安全感让我很困扰，尤其是和家人相处时。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，家庭关系有时会带来压力。你觉得这种不安全感主要来源于哪些方面呢？",
+        "Gemini_response_history_with_output": "听起来你在家庭环境中感到不安，这让你很困扰。能具体说说是什么让你感到不安全吗？",
+        "Gemini_response_history_with_label": "听起来你在家庭环境中感到很不安，这让你感到困扰。你能具体说说是什么让你感到不安全吗？"
+      },
+      {
+        "role": "user",
+        "content": "我婆婆和婆姐的态度让我感到不安，尤其是她们对孩子的看法。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你对她们的看法很在意，这可能影响了你的情绪。你觉得这种影响是从什么时候开始的呢？",
+        "Gemini_response_history_with_output": "婆婆和婆姐对孩子的看法让你感到不安，这让你很在意。你担心她们的看法会带来什么影响呢？",
+        "Gemini_response_history_with_label": "听起来你很在意她们对孩子的看法，这让你感到焦虑。是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己总是被困住，尤其是面对孩子和家庭的责任时。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很常见，尤其是在压力大的时候。你有没有想过，这种困扰是否和你早期的经历有关？",
+        "Gemini_response_history_with_output": "被困住的感觉让你很难受。孩子和家庭责任让你觉得失去了自由，是吗？",
+        "Gemini_response_history_with_label": "承担这些责任确实不容易，你感到被困住，这让你感到很无力吧？"
+      },
+      {
+        "role": "user",
+        "content": "我想改变自己的心态，但总是很难做到。"
+      },
+      {
+        "role": "assistant",
+        "content": "改变心态确实需要时间和练习。你有没有尝试过一些方法来帮助自己更好地应对这些情绪？",
+        "Gemini_response_history_with_output": "想要改变心态却感到困难，这让你有些受挫。你之前尝试过哪些方法呢？",
+        "Gemini_response_history_with_label": "改变心态确实需要时间和努力。你觉得目前最大的阻碍是什么？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试每天花一点时间进行自我关怀，比如冥想或写日记，关注自己的感受。这样能帮助你建立内在的安全感。",
+        "Gemini_response_history_with_output": "不确定从何开始是很常见的。也许我们可以一起探索一下，看看有没有适合你的方法。你愿意尝试吗？",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。你希望从哪个方面开始改变呢？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我在家里总是感到紧绷和压抑，无法做真实的自己。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，家庭本应是温暖的港湾，但你却感到像个客人，这让你很痛苦。",
+        "Gemini_response_history_with_output": "听起来你在家里感到很不舒服，好像戴着面具一样。能具体说说是什么让你有这种感觉吗？",
+        "Gemini_response_history_with_label": "我听到了你的难处，在家里感到不自在，这让你很不好受吧？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道为什么会这样，我从小就习惯了压抑自己。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能与成长环境有关，父母的期待让你觉得必须迎合他们，而忽视了自己的需求。",
+        "Gemini_response_history_with_output": "从小就习惯了压抑自己，这让你现在感到很困扰。你愿意和我一起探索一下，这种压抑从何而来吗？",
+        "Gemini_response_history_with_label": "你从小就习惯了压抑自己... 这种习惯让你感到很疲惫吧？"
+      },
+      {
+        "role": "user",
+        "content": "我总是担心表达真实的自己会失去他们的爱。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种担心很常见，很多人因为害怕失去爱而压抑自己的真实感受，导致内心的矛盾。",
+        "Gemini_response_history_with_output": "担心表达真实的自己会失去爱，这让你很害怕。这种害怕让你感到很无力，对吗？",
+        "Gemini_response_history_with_label": "你很害怕失去这份爱，所以小心翼翼，这让你很辛苦。"
+      },
+      {
+        "role": "user",
+        "content": "我想亲近他们，但每次都退缩。"
+      },
+      {
+        "role": "assistant",
+        "content": "亲近的渴望与恐惧之间的拉锯让你感到困扰，试着反思一下，是什么让你感到害怕？",
+        "Gemini_response_history_with_output": "想亲近但又退缩，这让你很矛盾。你渴望被爱，但又害怕受伤，是吗？",
+        "Gemini_response_history_with_label": "渴望亲近却又退缩，这让你很纠结。你觉得是什么让你无法靠近他们？"
+      },
+      {
+        "role": "user",
+        "content": "我该如何改变这种状况？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从小事开始，尝试表达自己的需求和感受，逐步建立自信，记住，真实的自己是有价值的。",
+        "Gemini_response_history_with_output": "想要改变现状是很棒的想法。或许我们可以一起看看，是什么阻碍了你表达真实的自己，以及如何慢慢地、安全地打破这些阻碍。你觉得呢？",
+        "Gemini_response_history_with_label": "这是一个很好的开始，想要改变现状。也许我们可以一起探索，如何一步步地表达真实的自己，同时也能维护与家人的关系。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我总是觉得自己不合群，内心很敏感，想知道我这样正常吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，感谢你分享这些感受。你提到的孤独和敏感确实很常见，我们可以一起探讨一下你的内心世界。",
+        "Gemini_response_history_with_output": "感觉到不合群和敏感让你感到困扰了，是吗？这很常见，很多人都有类似的感受。能具体说说，在哪些情况下你会有这样的感觉吗？",
+        "Gemini_response_history_with_label": "“感觉不合群和内心敏感，这让你感到困扰了。想知道这样的感受是否正常，对吗？”"
+      },
+      {
+        "role": "user",
+        "content": "我在小学时渴望朋友，但总是被忽视，这让我很困扰。"
+      },
+      {
+        "role": "assistant",
+        "content": "这段经历可能对你现在的人际关系产生了影响。你觉得这些早期的经历如何塑造了你对友谊的看法？",
+        "Gemini_response_history_with_output": "小时候的经历对你影响挺大的，被忽视的感受一定很难受。",
+        "Gemini_response_history_with_label": "嗯，小时候的经历对我们影响很大。被忽视的感受一定让你很难过，对吗？"
+      },
+      {
+        "role": "user",
+        "content": "我在班里有宿敌，冷战后再也没说过话，我觉得自己总是被排斥。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很痛苦，似乎你在关系中感到了一种无力感。你觉得是什么让你不愿意主动去修复这些关系呢？",
+        "Gemini_response_history_with_output": "班里的关系让你感到紧张和孤立，是吗？你觉得这种排斥感，跟之前的冷战有关系吗？",
+        "Gemini_response_history_with_label": "被排斥的感觉一定不好受。听起来你和“宿敌”的关系让你感到很孤立。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己很孤傲，不想争取朋友，内心又很矛盾。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种矛盾感很正常，或许你在保护自己不受伤害，但同时也渴望连接。你有没有想过，如何能在保护自己的同时，尝试建立新的联系？",
+        "Gemini_response_history_with_output": "一方面渴望连接，一方面又选择疏离，这种矛盾让你很挣扎。",
+        "Gemini_response_history_with_label": "你的内心似乎在渴望连接，但又有什么在阻止你主动靠近呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何改变这种状况。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试从小的步骤开始，比如主动与同学打招呼，或者参加一些集体活动。逐渐地，你会发现自己在关系中变得",
+        "Gemini_response_history_with_output": "想要改变现状，这本身就是一个积极的信号。你希望做出哪些改变呢？",
+        "Gemini_response_history_with_label": "这是一个勇敢的开始。改变需要时间和尝试，我们可以一起探索一些小步骤，看看哪些适合你。你觉得现在最想改变的是什么？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得和她的关系让我很困扰，她不主动联系我，我也不知道该怎么办。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的困扰，建立信任和沟通是友谊的重要部分。你希望她能主动联系你，这让你感到失落。",
+        "Gemini_response_history_with_output": "听起来你很在意这段关系，并且她的行为让你感到无所适从。",
+        "Gemini_response_history_with_label": "听起来你很在意这段关系，并且为她不主动联系你而感到困惑和焦虑。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得我对她的期待很高，但她似乎并不在意。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实很让人失望。你能回忆一下，是什么让你对她产生了这样的期待吗？",
+        "Gemini_response_history_with_output": "你似乎感到失望，因为你希望她也能像你一样重视这段关系。",
+        "Gemini_response_history_with_label": "听起来你对这段关系投入了很多，而她的反应让你感到失望。也许我们可以一起探索一下，你对她的期待具体是什么？"
+      },
+      {
+        "role": "user",
+        "content": "她身上有我喜欢的特质，但我总觉得自己不被重视。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能让你感到被忽视。你觉得这种感觉和你过去的经历有关系吗？比如和其他朋友或家人的关系？",
+        "Gemini_response_history_with_output": "你欣赏她，但同时也渴望被她看见和认可。",
+        "Gemini_response_history_with_label": "你欣赏她的特质，同时渴望被她重视，这两种感受同时存在，让你感到很矛盾，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我想过，可能我对她的期待是因为我对某些人的投射。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是一个很好的反思。认识到这些投射可以帮助你更清晰地理解自己的感受。你觉得这对你放下这段关系有帮助吗？",
+        "Gemini_response_history_with_output": "这是一个很有洞察力的想法，也许值得我们更深入地探讨。",
+        "Gemini_response_history_with_label": "听起来你已经开始自我反思了，这很好。你觉得是对哪些人的投射呢？"
+      },
+      {
+        "role": "user",
+        "content": "我希望能放下，但又舍不得。"
+      },
+      {
+        "role": "assistant",
+        "content": "放下并不容易，或许你可以尝试逐渐减少对她的期待，专注于自己的生活和兴趣。你觉得这样做可行吗？",
+        "Gemini_response_history_with_output": "你正处在想放手和想抓住的矛盾之中。",
+        "Gemini_response_history_with_label": "放手确实不容易，尤其是对你重视的人。允许自己感受这份不舍，也是疗愈的一部分。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近因为一个同事的行为感到很困扰，心里很恶心和愤怒。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你经历了让人不舒服的事情，能否分享一下具体的情况？",
+        "Gemini_response_history_with_output": "听起来你现在的情绪非常强烈，这件事让你感到很不舒服。",
+        "Gemini_response_history_with_label": "听起来你现在的情绪很强烈，这件事对你影响很大。"
+      },
+      {
+        "role": "user",
+        "content": "他对我有很多不尊重的行为，比如开黄腔和肢体接触，我感到很矛盾。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种矛盾的感觉很正常，你既想建立关系，又被他的行为所困扰。你觉得这些行为是出于什么原因呢？",
+        "Gemini_response_history_with_output": "这些行为让你感到矛盾，是因为你一方面感到不舒服，另一方面可能也在顾虑其他什么吗？",
+        "Gemini_response_history_with_label": "这让你感到矛盾，一方面可能觉得难以接受，另一方面又不知如何应对，是这样吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得他可能是想追我，但他的方式让我很反感，我不喜欢这样的接触。"
+      },
+      {
+        "role": "assistant",
+        "content": "你对他的行为有明确的拒绝感受，这说明你对自己的界限有清晰的认知。你有没有尝试过直接表达你的感受？",
+        "Gemini_response_history_with_output": "你认为他可能在追求你，但这种方式让你感到反感，可以理解。不喜欢这样的接触是很正常的。",
+        "Gemini_response_history_with_label": "所以，你感受到追求，但方式让你不舒服，是吗？这让你很为难。"
+      },
+      {
+        "role": "user",
+        "content": "我尝试过，但他似乎不太在意我的拒绝，反而觉得我在矜持。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很令人沮丧。你需要更加坚定地维护自己的边界，确保他明白你的真实想法。你觉得有什么方法可以更有效地表达你的拒绝？",
+        "Gemini_response_history_with_output": "你尝试表达拒绝，但他没有认真对待，这让你感到更加无力和愤怒吧？",
+        "Gemini_response_history_with_label": "他的反应让你感到更加无力和愤怒，是吗？你觉得接下来怎么做才能更好地保护自己？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道，可能需要更直接的方式。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以考虑在公共场合明确告诉他你的感受，并且避免单独见面。同时，保护好自己，必要时寻求他人的支持。记住，你的",
+        "Gemini_response_history_with_output": "也许是这样。考虑一下，对你来说，怎样的表达方式既能更直接地拒绝他，又能让你感到更安全和舒服？",
+        "Gemini_response_history_with_label": "或许我们可以一起探讨一下，如何用更直接的方式表达你的拒绝，同时保护好自己。你愿意试试吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己被家人评价为“太单纯，不成熟”，心里很困惑。"
+      },
+      {
+        "role": "assistant",
+        "content": "听到这样的评价让你感到不舒服，这很正常。你希望能更成熟一些吗？",
+        "Gemini_response_history_with_output": "听起来你对家人的评价感到有些在意和不解，想知道他们这样说的原因，是吗？",
+        "Gemini_response_history_with_label": "听起来你对家人的评价感到困扰，想更了解他们为什么这么说，以及这是否真的符合你的自我认知，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "是的，我想知道自己为什么会被这样评价。"
+      },
+      {
+        "role": "assistant",
+        "content": "可能是因为你对某些事物的看法和处理方式与他们不同。你能分享一下具体的例子吗？",
+        "Gemini_response_history_with_output": "你想更深入地了解在家人眼中，你的哪些行为或想法让你显得“单纯”或“不成熟”，以便更好地理解他们，对吗？",
+        "Gemini_response_history_with_label": "你想了解被评价的原因，这能帮助你更好地认识自己，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "比如我喜欢收藏二次元周边，妈妈觉得这很幼稚。"
+      },
+      {
+        "role": "assistant",
+        "content": "这表明你有自己的兴趣和爱好，但妈妈可能更关注的是社会的普遍看法。你觉得这影响了你们的沟通吗？",
+        "Gemini_response_history_with_output": "“喜欢二次元周边”这件事，让你感觉到妈妈的评价让你觉得不被理解，是吗？",
+        "Gemini_response_history_with_label": "你喜欢二次元周边，这是一种个人爱好。妈妈觉得幼稚，这代表了她的一种观点。爱好本身没有对错，重要的是你如何看待它。你觉得呢？"
+      },
+      {
+        "role": "user",
+        "content": "是的，我觉得她不理解我，我也不知道怎么表达自己的感受。"
+      },
+      {
+        "role": "assistant",
+        "content": "尝试用平和的方式告诉她这些东西对你有多重要，同时也理解她的担忧，这样可以促进你们的沟通。",
+        "Gemini_response_history_with_output": "你一方面希望得到妈妈的理解，另一方面又觉得难以表达，这让你感到有些无力，是吗？",
+        "Gemini_response_history_with_label": "你渴望被理解，但又觉得难以表达。这让你感到有些无助，对吗？"
+      },
+      {
+        "role": "user",
+        "content": "我该如何更好地处理这些问题呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以多观察身边成熟的人，学习他们如何处理冲突。同时，保持自己的兴趣，理解他人的观点，这样你会逐渐变得更成熟。",
+        "Gemini_response_history_with_output": "你希望能找到一种方法，既能让妈妈理解你，又能让你表达自己的感受，对吗？",
+        "Gemini_response_history_with_label": "先试着理解她的角度，然后清晰地表达你的感受和想法。一个小小的进步，或许就能带来改变。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感觉大学课程很水，没什么帮助，最近也经常出错，有点迷茫。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，迷茫和挫败是成长的一部分。你希望从大学中获得什么呢？",
+        "Gemini_response_history_with_output": "听起来你对大学课程的实用性有些失望，并且最近的状态让你感到困惑。",
+        "Gemini_response_history_with_label": "听起来你对现状有些失望和困惑，想一起看看能做些什么吗？"
+      },
+      {
+        "role": "user",
+        "content": "我希望能学到有用的知识，找到自己的方向，但现在感觉很失落。"
+      },
+      {
+        "role": "assistant",
+        "content": "失落的感觉很正常，能否分享一下你参加省赛和社团的经历，是什么让你感到挫败？",
+        "Gemini_response_history_with_output": "你渴望成长和找到方向，但现在的失落感让你感到受挫。",
+        "Gemini_response_history_with_label": "“有用的知识”和“找到方向”对你来说很重要。失落感让你感到困扰。"
+      },
+      {
+        "role": "user",
+        "content": "一开始都很顺利，但后来总是出错，感觉自己不够好。"
+      },
+      {
+        "role": "assistant",
+        "content": "出错的经历虽然让人沮丧，但它们也能帮助你发现自己的不足。你觉得这些错误背后有什么可以学习的地方吗？",
+        "Gemini_response_history_with_output": "从顺利到出错的转变，让你开始自我怀疑了。",
+        "Gemini_response_history_with_label": "“不够好”让你感到很沮丧，对吗？我们一起来看看，这个“不够好”具体指的是什么。"
+      },
+      {
+        "role": "user",
+        "content": "我想我可能对成功的定义太狭隘了，只关注结果。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是一个很好的反思。成功不仅在于结果，更在于过程中的成长。你愿意尝试从过程中的经验中找到价值吗？",
+        "Gemini_response_history_with_output": "你开始反思自己对成功的定义，并意识到可能过于关注结果。",
+        "Gemini_response_history_with_label": "意识到这一点很棒！也许我们可以一起探索一下，除了结果，成功还可以包含哪些其他方面？"
+      },
+      {
+        "role": "user",
+        "content": "我愿意，但不知道该怎么做。"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以主动寻找课外学习资源，尝试不同的活动，甚至做一些小项目。每一次尝试都是一次探索，帮助你更接近自己的兴趣和目标。",
+        "Gemini_response_history_with_output": "你愿意做出改变，只是目前还不清楚从哪里入手。",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。下次参加活动时，试着记录下你的感受、遇到的困难以及如何克服的，怎么样？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得咨询师很重要，但现在找不起，心里很纠结。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的困扰，寻找合适的咨询师确实不容易，但我们可以探索其他自我成长的方式。",
+        "Gemini_response_history_with_output": "我理解你想要专业的帮助，但经济上的压力让你很为难。这确实会让人感到纠结。",
+        "Gemini_response_history_with_label": "我理解你既需要咨询，又面临经济上的困难，这让你感到很为难。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己需要重新养育内在的小孩，但不知道从何开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "重新养育内在小孩的过程可以通过自我觉察和关怀来实现，关键是找到适合自己的方法。",
+        "Gemini_response_history_with_output": "想要照顾内在小孩的想法很好，感觉到迷茫也很正常，可以试着先从小事开始，比如关注自己的情绪和需求。",
+        "Gemini_response_history_with_label": "“内在小孩”需要关爱，你愿意探索这份关爱可以从哪里开始吗？"
+      },
+      {
+        "role": "user",
+        "content": "我对视频课程不感兴趣，觉得学习效果低下。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，每个人的学习方式不同，或许你可以尝试通过阅读来获取知识和灵感。",
+        "Gemini_response_history_with_output": "听起来你更喜欢互动性更强的学习方式。",
+        "Gemini_response_history_with_label": "听起来你更喜欢互动性更强的学习方式，也许我们可以一起探索更适合你的学习资源。"
+      },
+      {
+        "role": "user",
+        "content": "我想用自己的方式，但又不够坚定。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以试着给自己一些空间，慢慢探索，观察自己的感受，找到最适合自己的节奏。",
+        "Gemini_response_history_with_output": "你既想坚持自我，又有些不确定，对吗？",
+        "Gemini_response_history_with_label": "我听到了你渴望自主，但又有些犹豫。 也许我们可以一起看看，是什么让你不够坚定？"
+      },
+      {
+        "role": "user",
+        "content": "我希望能有一些具体的建议。"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以尝试每天进行自我反思，记录自己的情绪和想法，同时加入一些互助小组，分享和倾听他人的经历。",
+        "Gemini_response_history_with_output": "想要一些具体的建议，是希望能够更清晰地行动吗？",
+        "Gemini_response_history_with_label": "我明白你希望得到指导，但更重要的是了解你的具体情况，才能给出更贴切的建议。能多分享一些吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "您好，我最近感到很压抑，不喜欢呆在单位和家里。"
+      },
+      {
+        "role": "assistant",
+        "content": "谢谢你分享这些感受，能告诉我是什么让你感到压抑吗？",
+        "Gemini_response_history_with_output": "听起来你现在的心情很不好，似乎这两个你常待的地方都让你感到不舒服。",
+        "Gemini_response_history_with_label": "听起来你现在感觉很不好，好像哪里都让你觉得不舒服。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得工作和家庭的环境让我感到束缚，想逃离。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种束缚感可能源于你对自由和自然的渴望，我们可以一起探讨一下这种渴望的根源。",
+        "Gemini_response_history_with_output": "“束缚”感让你很想逃离，能具体说说是什么让你感到被束缚了吗？",
+        "Gemini_response_history_with_label": "听起来你很渴望自由和空间，这种束缚感让你很难受。"
+      },
+      {
+        "role": "user",
+        "content": "我常常幻想去野外探险，享受大自然的生活。"
+      },
+      {
+        "role": "assistant",
+        "content": "这些幻想反映了你内心对活力和自由的追求，是否有一些现实中的事情让你感到无法实现这些愿望？",
+        "Gemini_response_history_with_output": "向往自由的感觉很强烈，这种对自然的渴望，或许也反映了你内心的一种需求。",
+        "Gemini_response_history_with_label": "听起来你很向往自由自在的生活，这种向往对你来说很重要。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得生活太单调，无法找到真正的乐趣。"
+      },
+      {
+        "role": "assistant",
+        "content": "面对这种单调感，是否有可能是你在回避某些内心深处的困扰呢？我们可以一起探索这些困扰。",
+        "Gemini_response_history_with_output": "单调的生活让你感到缺乏乐趣，这让你感到有些失落，是吗？",
+        "Gemini_response_history_with_label": "单调的生活确实会让人感到缺乏活力，我们或许可以一起探索如何为你的生活增添一些色彩。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何改变现状。"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以尝试逐步改变生活方式，比如多去户外活动，或者与他人沟通你的感受，这样可能会帮助你找到新的方向。",
+        "Gemini_response_history_with_output": "你渴望改变，但目前似乎感到有些迷茫。",
+        "Gemini_response_history_with_label": "改变现状确实不容易，但重要的是先找到方向。你觉得我们可以从哪里开始着手呢？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己总是无法全心投入做一件事情，快要成功时就会放弃，想知道这背后的原因。"
+      },
+      {
+        "role": "assistant",
+        "content": "感谢你分享这些感受。能否告诉我，你在放弃时的内心感受是什么样的？",
+        "Gemini_response_history_with_output": "听起来你对这种“临门一脚”的放弃感到困惑。我们一起来探索一下，看看这种模式背后可能隐藏着什么。",
+        "Gemini_response_history_with_label": "听起来你对这种“临门一脚”的放弃感到困惑，也许我们可以一起探索一下，看看这背后藏着什么。"
+      },
+      {
+        "role": "user",
+        "content": "我感觉很焦虑，似乎总是害怕失败或成功带来的压力。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种焦虑感可能与自我认同有关。你觉得自己对成功的看法是怎样的？是否有过类似的经历？",
+        "Gemini_response_history_with_output": "害怕失败和成功，这两种看似相反的情绪同时出现，的确会让人感到焦虑。这很常见，我们来一起看看如何应对。",
+        "Gemini_response_history_with_label": "“害怕失败或成功带来的压力”，这听起来很矛盾，也很让人疲惫。我们或许可以一起探索，这份“成功带来的压力”具体指的是什么？"
+      },
+      {
+        "role": "user",
+        "content": "我小时候常常觉得自己不够好，父母的期望让我感到很大压力。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能影响了你对成功的看法。你是否觉得成功会让你与父母的关系变得复杂？",
+        "Gemini_response_history_with_output": "童年的经历对我们影响深远。你提到的这种“不够好”的感觉，以及父母的期望，很可能与你现在的状态有关。我们可以在这方面深入探讨。",
+        "Gemini_response_history_with_label": "这听起来从小就背负了很多。也许，我们能一起探索一下，这些早年的经历如何影响了你现在的行为模式。"
+      },
+      {
+        "role": "user",
+        "content": "是的，我担心成功会让我和他们疏远，甚至被抛弃。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是一种很深的情感。你有没有想过，如何在追求自己的目标时保持与他们的联系？",
+        "Gemini_response_history_with_output": "你担心成功反而会带来负面后果，这是一种很真实的恐惧。这种恐惧可能源于你对关系的深层渴望和保护。",
+        "Gemini_response_history_with_label": "这是一种很深的恐惧。我们可以在后续的咨询中，更深入地探讨这种恐惧的来源，以及它如何影响你现在的行为。"
+      },
+      {
+        "role": "user",
+        "content": "我没有想过这个，可能需要重新思考。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试设定小目标，逐步实现，同时与家人沟通你的感受，建立更健康的关系。",
+        "Gemini_response_history_with_output": "这需要一些时间去消化和理解，慢慢来，我会在这里支持你。",
+        "Gemini_response_history_with_label": "这可能是一个新的方向。我们下次可以一起探讨，如何平衡自我成长与家庭关系。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我发现朋友在我擅长的领域比我优秀时，我会感到不舒服，虽然我知道这是不对的。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，感谢你分享这个感受。能意识到自己的情绪是很重要的，我们可以一起探讨一下这个问题。",
+        "Gemini_response_history_with_output": "这让你感到有些困扰，是吗？ 似乎你既为朋友的成就感到高兴，又对自己产生了一些比较。",
+        "Gemini_response_history_with_label": "这让你感到有些困扰，是吗？似乎你对自己有更高的期待。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得这种情绪让我很困扰，尤其是我不想伤害朋友。"
+      },
+      {
+        "role": "assistant",
+        "content": "理解你的担忧，这种情绪在青春期是常见的。你能回忆一下，是什么时候开始有这样的感觉的吗？",
+        "Gemini_response_history_with_output": "你很在意这段友谊，并且不希望自己的情绪影响到它。",
+        "Gemini_response_history_with_label": "嗯，你很在意这段友谊，同时也在努力处理自己的情绪，这很棒。"
+      },
+      {
+        "role": "user",
+        "content": "我想是因为我对自己的期望很高，看到朋友成功时会觉得自己不够好。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，很多人都会有这样的比较。你觉得这种比较对你有怎样的影响呢？",
+        "Gemini_response_history_with_output": "听起来，你对自己是有要求的，朋友的成功似乎触动了你对自身价值的思考。",
+        "Gemini_response_history_with_label": "明白了，你似乎对自己有比较高的标准，这让你更容易将自己与他人比较。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得它让我很焦虑，甚至影响了我的心情。"
+      },
+      {
+        "role": "assistant",
+        "content": "能理解你的感受。你有没有想过，如何可以更好地看待这些情绪，而不是压抑它们？",
+        "Gemini_response_history_with_output": "这种比较带来的焦虑，正在影响你的情绪状态。",
+        "Gemini_response_history_with_label": "听起来这让你很不好受。也许我们可以一起探索一下，如何调整你对自己的期望，以及如何看待朋友的成功。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么做。"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以尝试用幽默的方式表达你的感受，或者写日记来整理情绪。这样可以帮助你更好地理解自己，也能减轻焦虑。",
+        "Gemini_response_history_with_output": "这让你感到有些无助，是吗？ 我们或许可以一起探索一下，如何应对这种感受。",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。你觉得，有没有什么方法可以让你把注意力从“比较”转移到其他地方？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己在工作中做错了很多事情，领导总是训我。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你感到困惑和不安，能否分享一下具体发生了什么事情？",
+        "Gemini_response_history_with_output": "听起来你在工作中遇到了一些挫折，这让你感觉很沮丧。你想聊聊具体发生了什么吗？",
+        "Gemini_response_history_with_label": "听起来你最近在工作中遇到了一些挫折，这让你感到很难过，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "在演唱会上，我帮助了一位被铁柱挡住视线的女粉丝，但领导训了我。"
+      },
+      {
+        "role": "assistant",
+        "content": "你出于善意想帮助她，但这可能超出了你的职责范围。你觉得这和你过去的经历有关系吗？",
+        "Gemini_response_history_with_output": "你帮助了别人，但因此被领导批评，这让你感到困惑和委屈，是吗？",
+        "Gemini_response_history_with_label": "看得出来你当时是想帮助别人，但结果让你感到委屈和不解。"
+      },
+      {
+        "role": "user",
+        "content": "我总是想帮助别人，可能是因为我小时候没有得到足够的关心。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很可能是你内心深处的共情需求在作祟。你觉得这种共情影响了你在工作中的表现吗？",
+        "Gemini_response_history_with_output": "你觉得你帮助别人的行为，和童年经历有关联，这让你开始反思自己。",
+        "Gemini_response_history_with_label": "这可能是一个原因。我们可以在咨询中一起探索这种模式，看看它对你现在的生活有什么影响，以及如何更好地平衡帮助他人和照顾自己。"
+      },
+      {
+        "role": "user",
+        "content": "是的，我在工作中常常感到难以平衡自己的情感和职责。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很重要，能否试着反思一下，如何在帮助他人和履行职责之间找到平衡？",
+        "Gemini_response_history_with_output": "这让你在工作中的人际互动中感到挣扎。",
+        "Gemini_response_history_with_label": "我明白这种挣扎。也许我们可以一起探索，如何在工作中更好地设定界限，既能保持你的善良，又能保护自己？"
+      },
+      {
+        "role": "user",
+        "content": "我该怎么做才能更好地处理这些情况呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "建议你在工作中记录粉丝的需求，交给相关人员处理，同时提升自己的专业技能，确保不超出职责范围。",
+        "Gemini_response_history_with_output": "你希望找到更有效的方式来应对工作中的人际挑战，是吗？我们可以一起探索一些可能性。",
+        "Gemini_response_history_with_label": "这是一个很好的问题。我们可以在接下来的咨询中，一起探讨一些策略，例如设定界限、区分职责，以及更好地表达你的需求。你觉得怎么样？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感觉自己学习很差，未来很迷茫，不知道该怎么办。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，面对升高三的压力和不确定性，确实会让人感到焦虑。你最担心的是什么呢？",
+        "Gemini_response_history_with_output": "听起来你现在对学习和未来都感到有些困惑和焦虑，是吗？",
+        "Gemini_response_history_with_label": "听起来你现在对学习和未来都感到有些困惑和焦虑，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我担心自己的成绩一直上不去，尤其是数学和英语。"
+      },
+      {
+        "role": "assistant",
+        "content": "成绩的提升确实需要时间和方法，你觉得自己在学习上遇到的最大障碍是什么？",
+        "Gemini_response_history_with_output": "数学和英语让你特别担心，是吗？能具体说说这种担心吗？",
+        "Gemini_response_history_with_label": "听起来你对数学和英语的成绩感到特别焦虑，担心它们会影响你的未来。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得老师讲课不清楚，我也没有精力去外面辅导。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实是个挑战。有没有尝试过自学或使用网络资源来补充学习呢？",
+        "Gemini_response_history_with_output": "所以，你觉得问题一部分在于老师的教学方式，另一部分在于你自身没有额外的精力投入，是吗？",
+        "Gemini_response_history_with_label": "听起来你觉得目前的学习环境对你帮助不大，同时也在为经济状况担忧。是这样吗？"
+      },
+      {
+        "role": "user",
+        "content": "我尝试过自学，但总是坚持不下去，容易分心。"
+      },
+      {
+        "role": "assistant",
+        "content": "坚持自学确实不容易，或许可以试着制定一个小目标，逐步完成，增加成就感，你觉得这样可行吗？",
+        "Gemini_response_history_with_output": "你尝试自学，但分心让你难以坚持，这让你感到沮丧，是吗？",
+        "Gemini_response_history_with_label": "自学需要很强的自律性，这不容易。你觉得是什么让你容易分心呢？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可以试试，但我还是想知道如何选择未来的方向。"
+      },
+      {
+        "role": "assistant",
+        "content": "在选择未来方向时，可以考虑自己的兴趣和能力，建议你多了解不同的职业和学习路径，找到适合自己的方向。",
+        "Gemini_response_history_with_output": "在尝试的同时，你也在思考未来的方向，这很好。我们可以一起探索一下，你对哪些方面比较感兴趣吗？",
+        "Gemini_response_history_with_label": "未来的方向确实让人困惑，我们可以一起探索你的兴趣和擅长，找到更适合你的道路。你对什么感兴趣呢？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己性格温顺，容易被人利用，想改变却不知道怎么做。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受，温顺的性格确实可能让你面临被侵犯的风险。我们可以一起探讨如何建立自我保护的意识。",
+        "Gemini_response_history_with_output": "我听到了你的困扰，你希望在保持温顺的同时，也能保护自己，是吗？我们可以一起探索如何找到这个平衡点。",
+        "Gemini_response_history_with_label": "我听到了你的困扰，你希望在保持温顺的同时，也能更好地保护自己，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我从小就被教育要照顾他人的感受，导致我总是把自己放在最后。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实是原生家庭的影响。你在照顾他人的同时，是否有意识到自己的需求被忽视了呢？",
+        "Gemini_response_history_with_output": "这让你感到很疲惫，是吗？长期以来，你都在优先考虑他人，这确实会让你感到忽视了自己的需求。",
+        "Gemini_response_history_with_label": "这让你感到很疲惫，是吗？ 长期以来，你都在优先考虑别人，而忽略了自己。"
+      },
+      {
+        "role": "user",
+        "content": "我常常觉得自己被他人操控，尤其是在情感和工作中。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很常见，尤其是当你习惯于迎合他人时。你能否回忆起一些具体的经历，让你感到被操控的时刻？",
+        "Gemini_response_history_with_output": "被操控的感觉让你很无力。这让你感到失去了自主权，是吗？",
+        "Gemini_response_history_with_label": "被操控的感觉一定很无力。能具体说说，在哪些情境下你会有这种感觉吗？"
+      },
+      {
+        "role": "user",
+        "content": "我意识到我需要建立边界，但不知道如何开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "建立边界是个重要的第一步。你可以试着明确哪些行为让你感到不适，并在适当的时候温和地拒绝。",
+        "Gemini_response_history_with_output": "建立边界对你来说很重要。我们可以一起看看，哪些地方是你觉得最需要设立边界的？",
+        "Gemini_response_history_with_label": "建立边界确实需要练习。一个小小的开始，比如拒绝一次不合理的要求，你觉得可行吗？"
+      },
+      {
+        "role": "user",
+        "content": "我该如何提升自己的自信心呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以从回顾自己的优点和成就开始，参与一些能发挥你优势的活动。每一次成功的体验都会增强你的自信。",
+        "Gemini_response_history_with_output": "你希望提升自信心，这很好。可以先从小处着手，尝试一些你觉得有把握的事情，慢慢积累自信。",
+        "Gemini_response_history_with_label": "自信心的提升需要过程。也许我们可以先从关注你自身的优点和成就开始。你觉得怎么样？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己能量不高，无法热情面对生活，甚至爱自己都很随意。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解您现在的感受，能量不足确实会让人感到疲惫。您能意识到这一点，说明您对自己有很好的自知之明。",
+        "Gemini_response_history_with_output": "听起来你对自己现在的状态有些失望，似乎想找回一些活力和对自己的积极感受，是吗？",
+        "Gemini_response_history_with_label": "听起来你对自己现在的状态有些不满，是吗？ 也许我们可以一起探索一下，是什么让你觉得“能量不高”？"
+      },
+      {
+        "role": "user",
+        "content": "我担心自己无法在亲密关系中给予他人足够的温暖，觉得自己不适合婚姻。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种担忧很常见，您是否能回忆起是什么让您对自己的能力产生了怀疑呢？",
+        "Gemini_response_history_with_output": "你担心自己无法满足亲密关系的需求，这份担忧让你对婚姻有所顾虑。",
+        "Gemini_response_history_with_label": "听起来您对亲密关系和婚姻有些担忧，是担心自己无法满足对方的需求吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己总是需要投入很多情感，但现在感觉越来越疲惫，似乎无法再给别人带来快乐。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能与您对情感投入的期待有关，您是否有过类似的经历，让您感到这种压力？",
+        "Gemini_response_history_with_output": "你似乎感到情感付出让你疲惫不堪，也担心自己无法再给他人带来快乐，这让你感到很沮丧。",
+        "Gemini_response_history_with_label": "听起来您一直很努力地付出，现在感到疲惫是很正常的。也许现在是时候关注一下自己的需求，给自己充充电了。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道如何才能恢复自己的能量，感觉很无助。"
+      },
+      {
+        "role": "assistant",
+        "content": "您可以试着关注自己的需求，允许自己休息和充电，您觉得这样做会对您有帮助吗？",
+        "Gemini_response_history_with_output": "你现在感到很无助，想要找回能量，但却不知道从何开始。",
+        "Gemini_response_history_with_label": "听起来您现在很需要支持，想知道您希望从我这里获得什么样的帮助呢？"
+      },
+      {
+        "role": "user",
+        "content": "我想尝试，但不知道从哪里开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从小事做起，比如保证充足的睡眠，做一些自己喜欢的事情，慢慢建立自我关爱。您觉得这样可行吗？",
+        "Gemini_response_history_with_output": "你想做出改变，但似乎缺少一些方向。",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索一些小步骤，比如，今天您最想为自己做的一件事是什么？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感到非常焦虑和迷茫，生活的意义对我来说似乎消失了。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，这种迷茫和焦虑让人很无助。你能分享一下最近让你感到特别困扰的事情吗？",
+        "Gemini_response_history_with_output": "听起来你现在感觉很不好，似乎对生活失去了方向。能具体说说让你感到焦虑和迷茫的事情吗？",
+        "Gemini_response_history_with_label": "听起来你现在感觉很不好，这种迷茫和焦虑让你很受困扰。"
+      },
+      {
+        "role": "user",
+        "content": "我总是看到别人过得很好，心里就会感到自责和不甘。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种比较常常会让我们感到压力。你觉得这种比较是从什么时候开始的呢？",
+        "Gemini_response_history_with_output": "这让你感觉很不好受，似乎总在和别人比较，觉得自己不够好。",
+        "Gemini_response_history_with_label": "“看到别人好，自己不好受”，听起来你对自己有很高的期待，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是因为我对自己的期望很高，但总是达不到。"
+      },
+      {
+        "role": "assistant",
+        "content": "高期望确实会带来很大的压力。你有没有想过，这些期望是基于什么样的标准呢？",
+        "Gemini_response_history_with_output": "对自己要求很高，但结果却不如意，这让你感到很受挫。",
+        "Gemini_response_history_with_label": "对自己有高期望是好事，但同时也会带来压力。我们或许可以一起看看，这些期望是否现实可行。"
+      },
+      {
+        "role": "user",
+        "content": "我想要找到自己的方向，但总是感到迷失。"
+      },
+      {
+        "role": "assistant",
+        "content": "找到方向的过程确实需要时间和反思。你有没有尝试过记录下自己的兴趣和价值观？",
+        "Gemini_response_history_with_output": "想要找到方向却感到迷失，这让你感到无助。我们一起探索一下，看看能不能找到一些线索。",
+        "Gemini_response_history_with_label": "迷失方向的感觉确实不好受。也许我们可以一起探索一下，你觉得什么事情能让你感到有意义？"
+      },
+      {
+        "role": "user",
+        "content": "我还没有尝试过，可能我应该试试。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是一个好的开始。你可以每天写下三件让你感到快乐的事情，慢慢地你会发现自己的兴趣和方向。",
+        "Gemini_response_history_with_output": "听起来你已经有了一些想法，想尝试看看，是吗？",
+        "Gemini_response_history_with_label": "或许这是一个不错的开始。如果你愿意，我们可以一起探讨一下。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我总是对很多事情感兴趣，但从来没有真正的爱好，生活越来越无聊。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，感谢你分享这些感受。能告诉我，是什么让你觉得生活无聊吗？",
+        "Gemini_response_history_with_output": "听起来你对很多事物都抱有好奇心，但缺乏深入的体验让你感到空虚。也许我们可以一起探索一下，是什么阻碍了你将兴趣转化为爱好？",
+        "Gemini_response_history_with_label": "听起来你有很多好奇心，但缺少一些深入的体验，这让你感到有些空虚。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己没有什么能让我投入的事情，看到别人追剧、追星，我很羡慕。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受。你有没有想过，是什么让你对这些活动感到吸引呢？",
+        "Gemini_response_history_with_output": "你渴望那种全身心投入的感觉，并羡慕别人能找到寄托。这说明你内心也有对某种事物产生热情的期待。",
+        "Gemini_response_history_with_label": "听起来你很渴望找到让自己全身心投入的事情，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "可能是因为他们有明确的目标和寄托，而我却没有。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常。你觉得自己对什么事情有好奇心，或者曾经尝试过哪些活动呢？",
+        "Gemini_response_history_with_output": "你认为目标和寄托是投入的关键。那么，你认为阻碍你找到目标和寄托的原因是什么呢？",
+        "Gemini_response_history_with_label": "听起来，你渴望找到一个能让你投入并有所寄托的事物。"
+      },
+      {
+        "role": "user",
+        "content": "我对很多事情都有好奇，但总是坚持不下来。"
+      },
+      {
+        "role": "assistant",
+        "content": "这其实是你的特质，能否试着把爱好看作短期的体验，而不是长期的承诺呢？",
+        "Gemini_response_history_with_output": "好奇心是好的开始，但坚持不下来让你感到困扰。 也许我们可以看看，是什么让你容易放弃？",
+        "Gemini_response_history_with_label": "我听到了你说的“坚持不下来”。也许我们可以一起探索一下，是什么阻碍了你坚持下去？"
+      },
+      {
+        "role": "user",
+        "content": "这样想似乎不错，但我该怎么开始呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从小的体验开始，比如每天记录一点生活中的小发现，慢慢积累，享受过程而不是结果。",
+        "Gemini_response_history_with_output": "这是一个很好的问题。我们可以在接下来的时间里，一起探索一些方法，帮你找到可能的起点。",
+        "Gemini_response_history_with_label": "可以先从你最感兴趣，或者最容易接触到的事情开始，给自己一个尝试的机会。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己一直太听话了，父母的观点让我迷失了自己。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，长期的顺从让你感到疲惫和困惑，想要找到自己的方向是很重要的。",
+        "Gemini_response_history_with_output": "听起来你一直在努力满足父母的期望，这让你感到很困惑，是吗？",
+        "Gemini_response_history_with_label": "听起来你一直在努力满足父母的期望，这让你感到很困惑，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得父母的强势让我没有机会表达自己的想法。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实是个挑战，父母的强势可能让你感到无力，导致你在选择上缺乏自主性。",
+        "Gemini_response_history_with_output": "他们的强势让你感觉自己的声音被压抑了，这让你很难受吧？",
+        "Gemini_response_history_with_label": "听起来你很渴望被听见，他们的强势让你感到压抑了。"
+      },
+      {
+        "role": "user",
+        "content": "我现在只能通过和他们争吵来找到自己的想法，但这让我很累。"
+      },
+      {
+        "role": "assistant",
+        "content": "争吵虽然能让你意识到自己的需求，但也带来了更多的情绪消耗，我们可以探讨更有效的沟通方式。",
+        "Gemini_response_history_with_output": "所以，争吵是你现在尝试表达自己的一种方式，但同时也消耗了你很多精力，是这样吗？",
+        "Gemini_response_history_with_label": "用争吵来表达自己，虽然直接，但消耗也很大。或许我们可以一起探索更有效的方式，既能表达自己，又能减少冲突。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何和他们沟通，怕他们不理解我。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试在平静的时候表达你的感受，明确告诉他们你的想法和需求，或许能得到他们的理解。",
+        "Gemini_response_history_with_output": "你担心他们不理解，所以沟通对你来说充满挑战，是吗？",
+        "Gemini_response_history_with_label": "害怕不被理解是很自然的，你希望被父母接纳和认可。我们可以一起探索如何表达，让他们更容易听到你的声音。"
+      },
+      {
+        "role": "user",
+        "content": "我该如何增强自己的自信心呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以通过学习新技能和独立决策来提升自信，逐步建立自己的边界，慢慢减少父母的影响。",
+        "Gemini_response_history_with_output": "你渴望增强自信，这本身就是一个很好的开始。我们可以一起探索，看看什么能帮助你找到内心的力量。",
+        "Gemini_response_history_with_label": "自信的建立需要一个过程，我们可以一起探索，从小处着手，发现并肯定自己的价值和能力。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己工资低，常常自责，觉得拖了后腿。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，听到你有这样的感受，我能理解你对家庭的责任感和对自己的期望。",
+        "Gemini_response_history_with_output": "听起来你对自己的收入不太满意，而且为此感到内疚。想聊聊你对“拖后腿”的具体想法吗？",
+        "Gemini_response_history_with_label": "听起来你对自己的工资不太满意，而且为此感到内疚和自责。能具体说说你觉得自己“拖了后腿”指的是什么吗？"
+      },
+      {
+        "role": "user",
+        "content": "我努力转行提高工资，但还是没有他多，心里很痛苦。"
+      },
+      {
+        "role": "assistant",
+        "content": "你在努力提升自己，这很值得肯定。能否分享一下你对收入差距的具体想法？",
+        "Gemini_response_history_with_output": "你似乎很在意和别人的比较，这让你感到痛苦。",
+        "Gemini_response_history_with_label": "听起来你很努力想改变现状，但结果似乎让你感到沮丧和不甘。"
+      },
+      {
+        "role": "user",
+        "content": "我总觉得收入低就代表我不够好，心里很焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种焦虑可能源于对自我价值的误解。你认为收入和个人能力之间有什么关系？",
+        "Gemini_response_history_with_output": "你把收入和自我价值联系在了一起，这让你感到焦虑。",
+        "Gemini_response_history_with_label": "“收入低代表不够好”——这个想法让你感到焦虑。我们或许可以一起探索一下这个想法的来源？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得收入就是存在感，没法摆脱这种比较。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种比较确实会影响你的自我认同。你有没有想过，除了收入，还有哪些方面可以体现你的价值？",
+        "Gemini_response_history_with_output": "“收入就是存在感”，这个想法对你来说很重要。我们来探索一下，这个想法是从哪里来的？",
+        "Gemini_response_history_with_label": "“存在感”对你来说意味着什么？以及，这种比较给你带来了哪些具体的困扰？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么调整心态。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试记录你和伴侣的日常互动，关注彼此的付出。同时，设定个人成长目标，转移注意力到自我提升上。",
+        "Gemini_response_history_with_output": "想调整心态，这本身就是一个好的开始。我们一起看看，可以从哪些方面入手。",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。你愿意尝试着从其他角度看待自己的价值吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感觉自己和别人相处时很紧张，常常不知道该说什么。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受，和他人相处时的紧张感是很普遍的。你能分享一下具体让你感到不安的情境吗？",
+        "Gemini_response_history_with_output": "听起来你很在意人际关系，这种紧张感让你感到困扰，是吗？",
+        "Gemini_response_history_with_label": "听起来你在社交场合感到压力很大。这种紧张感具体体现在哪些方面呢？"
+      },
+      {
+        "role": "user",
+        "content": "有时候和朋友在一起，我会担心说错话，怕他们不高兴。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种担心可能源于对他人反应的过度关注。你觉得这种担心是从什么时候开始的呢？",
+        "Gemini_response_history_with_output": "你很在意朋友的感受，害怕因为自己而影响了关系。",
+        "Gemini_response_history_with_label": "看得出来你很在意朋友们的感受。这种担心让你感到压力很大，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可能是因为我从小就很在意家人的看法，特别是妈妈。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很有可能影响了你与他人互动的方式。你能回忆起一些具体的经历吗？",
+        "Gemini_response_history_with_output": "看来你从小就习惯于关注他人的评价，特别是来自妈妈的。",
+        "Gemini_response_history_with_label": "这或许是一个重要的线索。看来你从小就习惯于关注他人的评价，并以此来调整自己的行为。"
+      },
+      {
+        "role": "user",
+        "content": "我记得小时候，妈妈总是希望我表现得完美，我就很害怕犯错。"
+      },
+      {
+        "role": "assistant",
+        "content": "这让你在与人交往时感到压力。试着反思一下，是否有时候可以放下这种完美的期待，接受自己的不完美呢？",
+        "Gemini_response_history_with_output": "“完美”的要求让你感到压力，也让你害怕犯错。",
+        "Gemini_response_history_with_label": "看来，你从小就背负了不小的压力。这种对完美的追求，现在也影响着你的人际关系。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可以试试，但不知道从哪里开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以从小的尝试开始，比如在安全的环境中表达自己的真实感受，慢慢适应与他人分享。记得给自己一些宽容和时间。",
+        "Gemini_response_history_with_output": "开始的确不容易，我们一起看看从哪里入手会更适合你，好吗？",
+        "Gemini_response_history_with_label": "这是一个好的开始。我们可以一起探索一些小步骤，比如从对你来说比较安全的朋友开始，试着更放松地表达自己。你觉得怎么样？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己总是在努力和偷懒之间挣扎，心里很矛盾。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，这种内心的拉扯确实让人感到疲惫。你希望实现目标，但又感到难以全心投入。",
+        "Gemini_response_history_with_output": "听起来你对自己的状态有些困扰，是吗？我们来一起看看，是什么让你觉得需要“努力”，又是什么让你想要“偷懒”？",
+        "Gemini_response_history_with_label": "听起来你对自己的状态有些纠结，是吗？这种矛盾感让你感到困扰。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己可能缺乏自律，总是想偷懒。"
+      },
+      {
+        "role": "assistant",
+        "content": "自律确实重要，但有时候背后可能是对失败的恐惧。你有没有想过，这种偷懒的背后，是否有其他原因呢？",
+        "Gemini_response_history_with_output": "“自律”对你来说，意味着什么呢？",
+        "Gemini_response_history_with_label": "听起来你对自己有些失望，觉得自律性不够。想更深入地聊聊你理解的“自律”是什么吗？"
+      },
+      {
+        "role": "user",
+        "content": "我总是担心自己做不好，导致我不敢去尝试。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种担心很常见，很多人都有类似的经历。你觉得这种担心具体是从哪里来的呢？有没有什么事情让你特别害怕失败？",
+        "Gemini_response_history_with_output": "害怕失败的感觉，的确会让人退缩。",
+        "Gemini_response_history_with_label": "害怕失败是很自然的，但这种害怕似乎已经影响到你的行动了。或许我们可以一起探索一下，如何降低这种恐惧感？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得我对自己要求太高了，反而让自己更焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是一个很好的反思。或许可以尝试设定一些小目标，逐步实现，来减轻这种压力。你觉得这样做可行吗？",
+        "Gemini_response_history_with_output": "对自己要求高，有时候反而会适得其反。我们来聊聊，你具体在哪些方面对自己要求过高呢？",
+        "Gemini_response_history_with_label": "对自己要求高是好事，但过高确实会适得其反。也许我们可以一起探讨一下，如何设定更合理的目标，让你既能进步，又不至于过度焦虑。"
+      },
+      {
+        "role": "user",
+        "content": "我想试试，但不知道从哪里开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从每天安排一个短时间的专注任务开始，比如30分钟，做一件你觉得有意义的事情。完成后记录下感受，逐步建立自信。你愿意尝试吗？",
+        "Gemini_response_history_with_output": "想要开始，却感到迷茫，这很正常。也许我们可以一起探索一下，找到一个对你来说相对容易起步的点。",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。你觉得目前最让你感到焦虑的事情是什么？我们可以先从这里入手。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我总是渴望别人的关注，但又害怕被拒绝，内心感到很匮乏。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能感受到你内心的矛盾和痛苦，能否分享一下这种匮乏感是从何而来的？",
+        "Gemini_response_history_with_output": "渴望被关注，又害怕被拒绝，这种矛盾的感觉让你很不好受吧？",
+        "Gemini_response_history_with_label": "渴望关注又害怕被拒绝，这让你感觉很矛盾也很辛苦，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得这可能与我早期的成长经历有关，似乎没有得到足够的关爱。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很有可能，早期的经历确实会影响我们的信任感和自我价值感。你能回忆起一些具体的事件吗？",
+        "Gemini_response_history_with_output": "听起来，早年的经历对你现在的影响挺大的。",
+        "Gemini_response_history_with_label": "听起来早期的经历对你影响很大。我们可以在后续的咨询中更深入地探讨一下这段经历。"
+      },
+      {
+        "role": "user",
+        "content": "我记得小时候常常感到孤独，缺乏安全感，很多需求没有被满足。"
+      },
+      {
+        "role": "assistant",
+        "content": "这听起来很痛苦。这样的经历可能让你对他人和世界产生了不信任感。你觉得这如何影响了你现在的社交？",
+        "Gemini_response_history_with_output": "嗯，童年的孤独和不安全感，现在还在影响着你。",
+        "Gemini_response_history_with_label": "嗯，童年时期的孤独和不安全感，会让人长大后更渴望被关注和认可。这让你很辛苦。"
+      },
+      {
+        "role": "user",
+        "content": "我总是害怕被拒绝，甚至不敢主动与人交流，内心充满恐惧。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受。你有没有尝试去觉察这些恐惧的根源，或者在社交中找到一些小的安全感？",
+        "Gemini_response_history_with_output": "害怕被拒绝让你很难主动与人交流，这种恐惧一定很消耗你。",
+        "Gemini_response_history_with_label": "这种恐惧可以理解。它像一道屏障，阻碍了你与他人建立连接。我们可以在接下来的咨询中，一起探索如何克服这种恐惧。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何开始改变这种状态。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试从小处着手，比如每天给自己一些积极的自我肯定，逐步建立自信。同时，关注自己的需求，尝试自我关怀，慢慢改变",
+        "Gemini_response_history_with_output": "想要改变，但不知道从何开始，这让你感到有些茫然。",
+        "Gemini_response_history_with_label": "改变需要时间和耐心。也许我们可以一起探索，从一些小的、你能掌控的事情开始尝试？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己很矛盾，完美主义让我很痛苦，但我又享受被关注的感觉。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，感谢你分享这些感受。你能具体说说这种矛盾感是如何影响你的日常生活吗？",
+        "Gemini_response_history_with_output": "听起来你一方面追求完美，另一方面又渴望认可，这两种需求让你感到挣扎，是吗？",
+        "Gemini_response_history_with_label": "你一方面追求完美带来的认可，另一方面又为此感到挣扎，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我总是觉得必须要完美，才能得到别人的认可，但有时候又会故意做一些让朋友生气的事情。"
+      },
+      {
+        "role": "assistant",
+        "content": "这听起来像是你在用极端的方式来测试朋友的反应，想确认自己是否被在乎。你觉得这种行为背后有什么深层的需求吗？",
+        "Gemini_response_history_with_output": "你似乎在用不同的方式，尝试确认自己在朋友心中的位置，即使那是不太舒服的方式。",
+        "Gemini_response_history_with_label": "听起来，你似乎在“追求认可”和“害怕被认可”之间挣扎，是这样吗？"
+      },
+      {
+        "role": "user",
+        "content": "我想要被关注，但又害怕失去朋友，心里很压抑。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种压抑感可能源于你对完美的追求和对被抛弃的恐惧。你能感受到这种内心的拉锯战吗？",
+        "Gemini_response_history_with_output": "这种渴望被关注又害怕失去的矛盾，让你感觉很受困扰，对吗？",
+        "Gemini_response_history_with_label": "我能感受到你内心的挣扎。这种渴望关注又害怕失去的矛盾，让你感到很压抑。我们接下来可以一起探索一下，如何能更安全地表达你的需求，而不会让你感到如此不安。"
+      },
+      {
+        "role": "user",
+        "content": "是的，我觉得我在逃避和抓住之间挣扎。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，允许自己有这样的挣扎。你有没有想过如何更安全地表达自己的需求，而不是通过惹人生气的方式？",
+        "Gemini_response_history_with_output": "这种拉扯的感觉一定很消耗能量。我们或许可以一起探索，是什么让你在这两者之间摇摆不定。",
+        "Gemini_response_history_with_label": "“逃避”和“抓住”，这两个词很准确地描述了你的状态。我们接下来可以一起探索一下，你具体在“逃避”什么，又想“抓住”什么。你觉得呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么做。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以试着直接表达你的感受，比如告诉朋友你需要陪伴，而不是通过极端行为来引起注意。同时，关注自己的身体反应，适时放松自己，",
+        "Gemini_response_history_with_output": "这很正常，很多人在面对复杂的情绪时都会感到迷茫。我们可以在接下来的时间里，一起慢慢梳理。",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。也许我们可以先从小处着手，比如尝试用直接的方式向朋友表达你的感受和需要。你觉得这个想法如何？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近感到很多情绪想表达，但又看不清楚，压抑后变得麻木。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你内心有很多未被表达的情绪，这让你感到苦恼。能否分享一下这些情绪的具体感觉？",
+        "Gemini_response_history_with_output": "听起来你现在被很多复杂的情绪困扰着，想表达却又难以理清，这种感觉一定不好受。",
+        "Gemini_response_history_with_label": "听起来你现在被复杂的情绪困扰着，想表达却又难以梳理，这让你感到很辛苦。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得有些情绪让我害怕，想逃避，可能是因为缺乏安全感。"
+      },
+      {
+        "role": "assistant",
+        "content": "缺乏安全感确实会让我们对表达感受感到恐惧。你能回忆起是什么让你感到不安全吗？",
+        "Gemini_response_history_with_output": "害怕和逃避，这让你感觉很不安全。我们可以一起探索一下，是什么让你感到害怕？",
+        "Gemini_response_history_with_label": "缺乏安全感让你想要逃避这些情绪，这很常见。我们可以在咨询中一起探索这份不安全感，看看它来自哪里。"
+      },
+      {
+        "role": "user",
+        "content": "我想起小时候，表达感受时常常被忽视或责备。"
+      },
+      {
+        "role": "assistant",
+        "content": "这样的经历可能让你对表达感受产生了条件反射的恐惧。你觉得这种恐惧如何影响了你现在的生活？",
+        "Gemini_response_history_with_output": "小时候的经历，让你现在表达感受时仍然感到顾虑和不安。",
+        "Gemini_response_history_with_label": "小时候的经历对我们影响深远。被忽视或责备的体验，让你现在仍然害怕表达。"
+      },
+      {
+        "role": "user",
+        "content": "我总是想逃避，觉得表达出来会很痛苦。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受。你有没有想过，如果允许自己表达这些情绪，最坏的结果会是什么？",
+        "Gemini_response_history_with_output": "你担心表达会带来痛苦，所以选择逃避。这种痛苦让你很想保护自己。",
+        "Gemini_response_history_with_label": "逃避似乎是你保护自己的一种方式。也许我们可以一起探索，如何用更安全的方式去面对这些感受。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道，可能会被人误解。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试找到一个安全的表达方式，比如写日记或对着镜子说出你的感受。这样可以帮助你逐步面对这些情绪。",
+        "Gemini_response_history_with_output": "被人误解让你感到担忧，这种担忧让你难以放心地表达自己。",
+        "Gemini_response_history_with_label": "被误解确实会让人感到受伤。那么，有没有可能找到一些更安全的方式，让你逐渐开始表达自己呢？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我经历了很多痛苦，婚姻破裂，疾病缠身，心里很难受。"
+      },
+      {
+        "role": "assistant",
+        "content": "听到你的经历我很心痛，你的坚持和勇气让我敬佩。能否分享一下你现在最想解决的困扰是什么？",
+        "Gemini_response_history_with_output": "听起来你现在真的很不容易，承受了很多痛苦。",
+        "Gemini_response_history_with_label": "听起来你现在正经历一段非常艰难的时期，承受了很多痛苦。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己在婚姻中失去了太多，心里有很多委屈。"
+      },
+      {
+        "role": "assistant",
+        "content": "这段经历确实很艰难，能否回忆一下，是什么让你在婚姻中感到如此失落？",
+        "Gemini_response_history_with_output": "我能感受到你内心的委屈和失去感。",
+        "Gemini_response_history_with_label": "你为这段关系付出了很多，现在感到委屈是很自然的。你希望通过咨询来处理这些委屈吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得彼此之间缺乏理解和支持，常常争吵。"
+      },
+      {
+        "role": "assistant",
+        "content": "争吵往往源于沟通不畅，你是否尝试过与对方深入交流你的感受和需求？",
+        "Gemini_response_history_with_output": "缺乏理解和争吵让你感到很疲惫，是吗？",
+        "Gemini_response_history_with_label": "听起来，你渴望的是被理解和支持。是这样吗？"
+      },
+      {
+        "role": "user",
+        "content": "我尝试过，但总是无果，感觉很绝望。"
+      },
+      {
+        "role": "assistant",
+        "content": "绝望的感觉很痛苦，或许可以试着从自己的感受出发，表达出你真正的需求，这样可能会有不同的结果。",
+        "Gemini_response_history_with_output": "你已经努力过了，这种绝望感可以理解。",
+        "Gemini_response_history_with_label": "尝试过但结果不理想，这让你感到很无助。那么，你现在最希望从这段经历中获得什么？"
+      },
+      {
+        "role": "user",
+        "content": "我会试试，但我还是很害怕。"
+      },
+      {
+        "role": "assistant",
+        "content": "害怕是正常的，给自己一些时间和空间，慢慢来。记得关注自己的情绪，保持积极的心态，未来会有更好的机会等着你。",
+        "Gemini_response_history_with_output": "害怕是正常的，尝试本身就需要勇气。",
+        "Gemini_response_history_with_label": "害怕是正常的，允许自己感受这份害怕，我们一起慢慢来。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得很难受，因为我提前回家了，错过了毕业生送的东西。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的失落感，错过了这个机会让你感到遗憾。能具体说说让你最难受的是什么吗？",
+        "Gemini_response_history_with_output": "听起来你很遗憾，因为错过了一份重要的心意。",
+        "Gemini_response_history_with_label": "听起来你很遗憾，没能收到毕业礼物，这让你感到失落，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己被排除在外，大家都在分享，我却不在场。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种被排除的感觉确实很痛苦。你觉得这和你在学校的状态有关吗？",
+        "Gemini_response_history_with_output": "我能感受到你被排除在外的失落感。",
+        "Gemini_response_history_with_label": "被排除在外，这种感觉确实不好受。你很在意和大家的联结。"
+      },
+      {
+        "role": "user",
+        "content": "是的，我在学校待得很累，感觉待不下去了。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能让你在面对错过时更加敏感。除了物品本身，你觉得这次错过还触动了你哪些更深的感受？",
+        "Gemini_response_history_with_output": "在学校的经历让你感到疲惫不堪。",
+        "Gemini_response_history_with_label": "听起来你在学校承受了很多压力。能说说具体是什么让你感到这么累吗？"
+      },
+      {
+        "role": "user",
+        "content": "我想我可能在担心错过其他机会，或者是对归属感的不安。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很有洞察力。接纳这些感受是重要的。你有没有想过，如何能更好地照顾自己，缓解这些情绪？",
+        "Gemini_response_history_with_output": "听起来你正在努力理解这份失落感背后的原因。",
+        "Gemini_response_history_with_label": "听起来你对未来和自己在集体中的位置有些担忧。我们可以一起探索这些感受。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道，可能是休息一下，做些自己喜欢的事吧。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是个不错的开始！试着把精力投入到让自己感觉好的事情上，或许能帮助你更好地面对这些情绪。",
+        "Gemini_response_history_with_output": "给自己一些空间和时间，去做些让你感到快乐的事情，这听起来是个不错的选择。",
+        "Gemini_response_history_with_label": "听起来是个不错的开始。也许我们可以一起探索一下，如何让你更有力量地面对未来的选择。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近搬到新宿舍，跟室友的关系很紧张，感觉很不舒服。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，新的环境和人际关系确实会让人感到压力。你能具体说说让你不舒服的地方吗？",
+        "Gemini_response_history_with_output": "听起来你现在因为室友关系感到压力很大，这让你很不舒服。",
+        "Gemini_response_history_with_label": "听起来你现在在新环境里，人际关系让你感到压力很大，这确实会影响心情。"
+      },
+      {
+        "role": "user",
+        "content": "室友不允许我出租床位，还威胁我取消奖学金，我觉得很委屈。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实让人感到不公平。你觉得这种威胁是出于什么原因呢？她们对你有什么特别的看法吗？",
+        "Gemini_response_history_with_output": "这听起来非常不公平，你感到委屈是完全可以理解的。",
+        "Gemini_response_history_with_label": "听起来你感到很无助和愤怒，是吗？被人这样对待，确实会让人感到委屈。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得她们很霸道，我当时没有反击，心里很拧巴。"
+      },
+      {
+        "role": "assistant",
+        "content": "你提到的“拧巴”其实反映了你内心的矛盾，一方面想保护自己，另一方面又想维护和谐。你觉得这种矛盾对你造成了怎样的影响？",
+        "Gemini_response_history_with_output": "你当时的感受一定很难受，现在回想起来依然让你感到不舒服。",
+        "Gemini_response_history_with_label": "你当时选择了忍耐，这可以理解。现在回想起来，你希望当时可以怎么做呢？"
+      },
+      {
+        "role": "user",
+        "content": "我总是回想起这件事，觉得自己没有被尊重。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很正常，尤其是在你觉得被侵犯的时候。你有没有想过，如何才能让自己在类似情况下感到更有力量呢？",
+        "Gemini_response_history_with_output": "这件事对你影响挺大的，让你现在依然感到自己没有被尊重。",
+        "Gemini_response_history_with_label": "这件事让你感到没有被尊重，这种感觉很强烈。你觉得，怎样做才能让你感受到被尊重呢？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该怎么做才能让自己心里好受一点。"
+      },
+      {
+        "role": "assistant",
+        "content": "试着告诉自己：“我当时的选择是为了保护自己。”同时，给自己一些小目标，比如下次遇到类似情况时，勇敢说出自己的感受",
+        "Gemini_response_history_with_output": "你想让自己好受一些，我们一起来看看可以做些什么，好吗？",
+        "Gemini_response_history_with_label": "没关系，我们可以一起探索。你觉得如果能做些什么，会让你感觉自己更能掌控局面？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我有健康焦虑型洁癖，害怕肉眼不可见的因素对我造成伤害。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的担忧，这种焦虑可能会影响你的生活质量。你能告诉我，这种焦虑是从什么时候开始的吗？",
+        "Gemini_response_history_with_output": "听起来你为此感到很焦虑和困扰，对吗？",
+        "Gemini_response_history_with_label": "听起来你为此感到很困扰，是吗？这种担心影响到你的日常生活了吗？"
+      },
+      {
+        "role": "user",
+        "content": "大概是最近一两年，看到很多关于卫生的新闻后开始变得严重。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很常见，外界信息确实会影响我们的情绪。你觉得这些新闻让你产生了怎样的恐惧呢？",
+        "Gemini_response_history_with_output": "看来这些新闻对你产生了不小的影响。",
+        "Gemini_response_history_with_label": "看来一些新闻事件触发了你的担忧。这些新闻具体让你担心什么呢？"
+      },
+      {
+        "role": "user",
+        "content": "我总是担心自己会生病，觉得周围环境很危险。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很痛苦。你有没有想过，这种强烈的防御行为背后，可能是对某种更深层次的情绪或经历的反应？",
+        "Gemini_response_history_with_output": "你内心一定充满了不安。",
+        "Gemini_response_history_with_label": "看来这种担心已经让你感到不安了。有没有什么事情，是你现在特别害怕的？"
+      },
+      {
+        "role": "user",
+        "content": "我想可能是因为小时候家里对卫生要求很严格。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很有可能影响了你的心理模式。你能回忆起当时的感受吗？这些经历如何影响了你现在的行为？",
+        "Gemini_response_history_with_output": "这可能是一个重要的线索，值得我们进一步探索。",
+        "Gemini_response_history_with_label": "这很有可能是一个重要的线索。小时候的经历确实会对我们产生深远的影响。 我们可以一起探索一下，这些早期的经历是如何影响你现在的行为和感受的。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得我需要找到一个合适的咨询师来帮助我。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是个好的想法。建议你寻找专注于健康焦虑和洁癖的咨询师，帮助你逐步调整认知和行为，祝你早日康复！",
+        "Gemini_response_history_with_output": "我很高兴你能主动寻求帮助，这需要很大的勇气。",
+        "Gemini_response_history_with_label": "我支持你寻求专业的帮助，这是一个积极的开始。如果你需要，我可以提供一些资源。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我弟弟以前成绩很好，现在因为玩游戏变得很差，我很担心他。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的担忧，弟弟的变化让你感到焦虑。你能告诉我他大约是什么时候开始沉迷游戏的吗？",
+        "Gemini_response_history_with_output": "你很关心你弟弟，看到他现在的状况，你心里一定很不好受，是吗？",
+        "Gemini_response_history_with_label": "你很关心你弟弟，看到他现在的状态，你心里一定很不好受吧？"
+      },
+      {
+        "role": "user",
+        "content": "大概是半年前，他开始频繁玩手机和电脑游戏。"
+      },
+      {
+        "role": "assistant",
+        "content": "这段时间内有没有发生什么事情让他感到压力或困扰呢？这可能是他转向游戏的原因。",
+        "Gemini_response_history_with_output": "半年前开始的，这让你觉得事情有了转折点。",
+        "Gemini_response_history_with_label": "半年前开始的，这确实是个不短的时间。听起来你很关心他，也很希望他能回到以前的状态。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可能是学校的压力，还有朋友的影响。"
+      },
+      {
+        "role": "assistant",
+        "content": "学校压力和同伴影响确实很常见。你有没有和他谈过这些压力对他的影响？",
+        "Gemini_response_history_with_output": "你觉得压力和朋友是他沉迷游戏的重要原因。",
+        "Gemini_response_history_with_label": "听起来你已经注意到了一些可能的原因。 那么，你希望我怎样帮助你呢？你想更好地了解他，还是希望找到一些方法来帮助他？"
+      },
+      {
+        "role": "user",
+        "content": "我试过，但他总是拒绝沟通，甚至绝食不讲话。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能是他在用这种方式表达自己的无助和抵抗。或许可以尝试在他放松的时候，慢慢引导他谈谈他的感受。",
+        "Gemini_response_history_with_output": "你尝试过帮助他，但他的反应让你感到无力和担心。",
+        "Gemini_response_history_with_label": "看得出来，你尝试沟通但遇到了阻碍。他拒绝沟通，甚至绝食，这让我很担心。这种情况持续多久了？"
+      },
+      {
+        "role": "user",
+        "content": "我该怎么做呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "建议你选择一个合适的时机，耐心倾听他的想法，表达你的关心，而不是直接批评他的行为。建立信任后，可能会更容易沟通。",
+        "Gemini_response_history_with_output": "面对这种情况，你希望我能给你一些方向，对吗？",
+        "Gemini_response_history_with_label": "先试着理解他，表达你对他的关心，让他知道你愿意倾听，而不是指责。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得早上起不来是因为太冷了，鼻炎也让我很难受。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受，寒冷和不适确实会影响早起。你觉得这个问题影响了你的生活吗？",
+        "Gemini_response_history_with_output": "听起来你早上很挣扎，身体上的不适确实会影响我们的状态。",
+        "Gemini_response_history_with_label": "听起来身体上的不适，确实影响了你早上的状态。"
+      },
+      {
+        "role": "user",
+        "content": "是的，早起困难让我总是迟到，影响了工作和学习。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实会带来压力。你有没有想过这个习惯是从什么时候开始的？",
+        "Gemini_response_history_with_output": "迟到让你感到压力，这影响了你的工作和学习。",
+        "Gemini_response_history_with_label": "迟到让你感到困扰，这影响了你的工作和学习。听起来你很想改变这个状况，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "大概是从去年冬天开始的，天气变冷后就越来越难起床。"
+      },
+      {
+        "role": "assistant",
+        "content": "明白了，天气变化确实会影响我们的生理状态。你有没有尝试过一些方法来改善这个情况？",
+        "Gemini_response_history_with_output": "从去年冬天开始，天气变冷似乎成了你起床困难的一个转折点。",
+        "Gemini_response_history_with_label": "听起来季节变化对你影响很大。除了天气，你觉得还有其他因素吗？"
+      },
+      {
+        "role": "user",
+        "content": "我试过设置多个闹钟，但还是很难起床。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很常见。也许可以尝试在晚上提前准备好早晨需要的衣物和早餐，减少早上的决策疲劳。",
+        "Gemini_response_history_with_output": "你尝试过用闹钟来解决，但效果并不理想。",
+        "Gemini_response_history_with_label": "设置多个闹钟确实是很多人会用的方法。听起来效果并不理想，是吗？你觉得还有什么其他原因让你觉得起床困难吗？"
+      },
+      {
+        "role": "user",
+        "content": "这个主意不错，我会试试。"
+      },
+      {
+        "role": "assistant",
+        "content": "很好！另外，考虑在早晨多接触阳光，逐渐调整作息，也会有帮助。你觉得呢？",
+        "Gemini_response_history_with_output": "好的，期待你的尝试结果。",
+        "Gemini_response_history_with_label": "希望对你有所帮助。下次我们可以一起探讨更深层的原因，比如睡眠质量和生活习惯，看看是否有其他可以调整的地方。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我对高考失利感到非常失落，老师却说我有神经症，这让我很困惑。"
+      },
+      {
+        "role": "assistant",
+        "content": "你的失落感是很正常的，尤其是面对高考这样的重大事件。老师的反应让你感到被误解了，对吗？",
+        "Gemini_response_history_with_output": "高考失利已经让你很不好受了，老师的评价更让你感到困惑和不解，是吗？",
+        "Gemini_response_history_with_label": "高考失利已经让你很失落了，老师的说法更是让你感到困惑。我能理解你现在的心情。"
+      },
+      {
+        "role": "user",
+        "content": "是的，我只是想得到理解和支持，而不是被贴上标签。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实很重要。你觉得老师的反应是因为她对你的期望和你自己的期望之间的差距吗？",
+        "Gemini_response_history_with_output": "我能感受到你渴望被理解的心情，被贴标签的感受确实不好受。",
+        "Gemini_response_history_with_label": "我能理解你渴望被理解和支持的心情。被贴标签可能会让你感到更加孤立和无助。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得她可能没有意识到我对成绩的重视和失落感。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能是沟通上的误解。你是否觉得她没有真正理解你的感受和经历？",
+        "Gemini_response_history_with_output": "听起来，你觉得老师可能没有真正理解你的感受，是吗？",
+        "Gemini_response_history_with_label": "我能感受到你希望被理解的心情。也许我们可以一起探讨一下，如何更好地表达你的感受，让老师更能理解你？"
+      },
+      {
+        "role": "user",
+        "content": "是的，我希望她能更关注我的情绪，而不是直接给我一个标签。"
+      },
+      {
+        "role": "assistant",
+        "content": "你希望被倾听和理解，这很合理。你有没有想过如何表达你的感受，让她更好地理解你？",
+        "Gemini_response_history_with_output": "你希望老师能更关注你的情绪，这很合理。也许我们可以一起想想，怎么更好地表达你的需求？",
+        "Gemini_response_history_with_label": "我理解。被贴标签可能会让你感到被简化和否定。你希望被看到的是更完整的你，对吗？"
+      },
+      {
+        "role": "user",
+        "content": "我可能会尝试和她沟通一下我的真实感受。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是个好主意！同时，记得寻求专业帮助并不意味着你有病，而是为了更好地理解和调节自己的情绪。",
+        "Gemini_response_history_with_output": "愿意尝试沟通是很好的开始，相信这需要一些勇气。",
+        "Gemini_response_history_with_label": "这是一个很好的开始。也许我们可以一起想想，怎样表达能更清晰地传达你的想法和情绪。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己在各个方面都不如别人，特别是人际关系和学习上，感到很沮丧。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，看到别人成功而自己却感到无能为力，确实很痛苦。你觉得这些感受最强烈的来源是什么呢？",
+        "Gemini_response_history_with_output": "听起来你对自己要求很高，也因此感到压力和失望。我们来一起看看，这些“不如别人”的想法具体指的是什么，好吗？",
+        "Gemini_response_history_with_label": "听起来你对自己要求很高，也因此感到很受挫。能具体说说在人际关系和学习上，你觉得自己“不如别人”体现在哪些方面吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是因为我总是无法表达自己的需求，导致人际关系紧张。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很重要。你提到的冷漠和愤怒，可能是你在保护自己，但同时也影响了与他人的连接。你能回忆起是什么让你开始这样对待人际关系的吗？",
+        "Gemini_response_history_with_output": "无法表达需求让你感到人际关系紧张，这让你很困扰。我们来聊聊，具体是什么让你难以表达自己的需求呢？",
+        "Gemini_response_history_with_label": "所以，你认为表达需求上的困难是人际关系紧张的关键。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是因为我对亲密关系的恐惧，害怕被拒绝，所以选择了冷漠。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种恐惧很常见，尤其是在渴望亲密的同时又害怕受伤。你有没有想过，如何才能在保护自己的同时，也能尝试建立更亲密的关系呢？",
+        "Gemini_response_history_with_output": "你觉察到自己对亲密关系的恐惧，以及因此产生的冷漠。这需要很大的勇气。我们接下来可以深入探讨一下这种恐惧的根源。",
+        "Gemini_response_history_with_label": "“害怕被拒绝”——这听起来很让人心疼。这种恐惧背后，你觉得还隐藏着什么？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何开始，感觉自己总是陷在负面情绪中。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试从小处着手，比如每天记录一件让自己开心的事情，慢慢培养积极的心态。你觉得这样的方法对你有帮助吗？",
+        "Gemini_response_history_with_output": "被负面情绪困扰的感觉一定不好受。或许我们可以先尝试识别这些情绪，看看它们在告诉你什么。你愿意试着描述一下现在最强烈的情绪是什么吗？",
+        "Gemini_response_history_with_label": "这很正常，改变需要时间和勇气。也许我们可以一起探索，如何一步步走出这个困境，从一些小的事情开始尝试？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可以试试，但我还是担心自己做不到。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，开始时可能会",
+        "Gemini_response_history_with_output": "担心是自然的，改变需要时间。我们一步一步来，重要的是你已经开始尝试。先从小处着手，可以吗？",
+        "Gemini_response_history_with_label": "尝试本身就是一种进步。记住，改变需要时间，允许自己犯错，并给自己一些鼓励。我在这里支持你。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己在学习和工作时很容易分心，特别想睡觉。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受，这种情况在年轻人中很常见。你能告诉我是什么让你感到特别浮躁吗？",
+        "Gemini_response_history_with_output": "听起来你感到学习和工作时注意力难以集中，并且感到疲惫。这让你感到困扰吗？",
+        "Gemini_response_history_with_label": "听起来你感到很疲惫，注意力难以集中，这让你挺困扰的，对吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可能是因为学习的内容不太感兴趣，或者任务太多了。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很有可能。你觉得是因为内容本身的问题，还是任务的数量让你感到压力呢？",
+        "Gemini_response_history_with_output": "你觉得缺乏兴趣和任务过多可能是导致分心和疲惫的原因，是吗？",
+        "Gemini_response_history_with_label": "嗯，听起来你已经开始觉察到一些原因了。我们可以一起探讨一下，看看如何调整这些因素，让你更有动力。"
+      },
+      {
+        "role": "user",
+        "content": "可能是两者都有吧，内容不吸引我，而且任务确实很多。"
+      },
+      {
+        "role": "assistant",
+        "content": "明白了。你有没有尝试过把任务分解成小块，逐步完成呢？",
+        "Gemini_response_history_with_output": "听起来你正在面对一个双重挑战，既有内容兴趣的问题，也有任务量的问题。",
+        "Gemini_response_history_with_label": "嗯，听起来你同时面临着兴趣和压力的问题。有没有哪一部分任务是你觉得稍微能接受的呢？"
+      },
+      {
+        "role": "user",
+        "content": "我没有这样做过，通常都是一次性想完成很多事情。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能会让你感到压力更大。试着设定小目标，逐步完成，可能会让你更有成就感。",
+        "Gemini_response_history_with_output": "你提到你通常想一次性完成很多事情，这似乎和你之前说的任务过多有关联，是吗？",
+        "Gemini_response_history_with_label": "听起来你对自己要求很高。也许尝试分解任务，会让你感觉更有掌控感，也更容易集中注意力。 你愿意试试吗？"
+      },
+      {
+        "role": "user",
+        "content": "我会试试这个方法。"
+      },
+      {
+        "role": "assistant",
+        "content": "很好！同时，记得给自己一些休息时间，保持身心的平衡，这样会更有效率。",
+        "Gemini_response_history_with_output": "好的，如果你尝试后有什么新的感受或者发现，欢迎随时告诉我。",
+        "Gemini_response_history_with_label": "很好。记住，小小的进步也是进步。给自己一些耐心和鼓励。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得换校区后，去医院治疗会很麻烦，时间也很紧张。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的担忧，转校和治疗的压力确实很大。你能告诉我，最让你感到困扰的是什么吗？",
+        "Gemini_response_history_with_output": "听起来换校区后，你对治疗的时间安排感到担忧，是吗？",
+        "Gemini_response_history_with_label": "听起来换校区这件事，让你对治疗的持续性感到担忧，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我担心自己会落下更多的课程，已经耽误了半个学期了。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实是个重要问题。你觉得是什么原因导致你在学习上落后呢？",
+        "Gemini_response_history_with_output": "你很在意学业，也对自己目前的状况感到焦虑。",
+        "Gemini_response_history_with_label": "听起来你很担心学业上的事情。一方面想要治疗，一方面又害怕耽误课程，对吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是因为心理问题影响了我的学习状态，我很难集中注意力。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能感受到你的无力感。你有没有尝试过一些方法来帮助自己集中注意力呢？",
+        "Gemini_response_history_with_output": "看来你认为心理问题和学习状态之间存在着关联，是这样吗？",
+        "Gemini_response_history_with_label": "我明白。心理问题影响学习状态是很常见的。你之前接受的治疗对集中注意力有帮助吗？"
+      },
+      {
+        "role": "user",
+        "content": "我尝试过，但总是很难坚持下去，感觉没有效果。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，改变需要时间和耐心。你有没有想过，是什么让你坚持不下去呢？",
+        "Gemini_response_history_with_output": "你尝试过努力，但效果不理想，这让你有些受挫。",
+        "Gemini_response_history_with_label": "这让你感到沮丧，是吗？ 坚持确实不容易。"
+      },
+      {
+        "role": "user",
+        "content": "可能是缺乏动力和信心吧。"
+      },
+      {
+        "role": "assistant",
+        "content": "我建议你可以设定一些小目标，逐步实现。同时，考虑找一个离新校区近的咨询师，减轻你的负担。这样你会更容易坚持治疗。",
+        "Gemini_response_history_with_output": "缺乏动力和信心，让你感到更加困难。",
+        "Gemini_response_history_with_label": "我听到了你的沮丧。也许我们可以一起探索一下，如何重新找回动力和信心。你愿意试试吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我现在很纠结，想退出私立学校，但又怕和学校闹僵。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的担忧，面对这样的选择确实很不容易。你能告诉我，是什么让你不想继续在那所学校吗？",
+        "Gemini_response_history_with_output": "我听到了你的两难：既想离开，又担心人际关系受损。",
+        "Gemini_response_history_with_label": "听起来你很看重这段关系，同时又感到进退两难。"
+      },
+      {
+        "role": "user",
+        "content": "主要是觉得家附近的新机会更适合我，通勤也方便。"
+      },
+      {
+        "role": "assistant",
+        "content": "这听起来是个重要的考虑。你觉得在原学校的哪些方面让你感到不满意呢？",
+        "Gemini_response_history_with_output": "所以，机会成本和生活质量是你现在更看重的。",
+        "Gemini_response_history_with_label": "听起来，新机会的吸引力很大，而且通勤问题也让你感到困扰。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得那里的学习氛围不太好，老师也不太关心学生。"
+      },
+      {
+        "role": "assistant",
+        "content": "这样的环境确实会影响你的学习体验。你有没有尝试过和老师或同学沟通你的感受呢？",
+        "Gemini_response_history_with_output": "这让你感到失望和缺乏支持，是吗？",
+        "Gemini_response_history_with_label": "我听到你对学习氛围和老师的关心程度感到失望。这让你觉得在那里学习很受挫吗？"
+      },
+      {
+        "role": "user",
+        "content": "我没有，主要是怕他们不理解我。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的顾虑，但有时候表达自己的想法可以帮助你更清楚地认识自己的需求。你觉得如果你勇敢地说出你的想法，会有什么样的结果？",
+        "Gemini_response_history_with_output": "所以，你担心的是你的选择不被认可？",
+        "Gemini_response_history_with_label": "害怕不被理解是很自然的。我们一起来看看，你担心他们会怎么回应你呢？"
+      },
+      {
+        "role": "user",
+        "content": "我想可能会有不好的反应，但我也希望能顺利转学。"
+      },
+      {
+        "role": "assistant",
+        "content": "那么，你可以考虑提前准备好你的理由，诚实地表达你的感受。同时，提前了解新学校的情况，做好转学的准备，这样会让你更有信心。",
+        "Gemini_response_history_with_output": "你既希望被理解，又希望事情能顺利进行。这两种愿望同时存在，让你感到压力。",
+        "Gemini_response_history_with_label": "你既想保护自己，又希望达成目标，这很正常。我们来一起想想，有没有什么方法可以让你更安心地表达你的想法，同时又能降低冲突的风险？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我在新学校感到很不适应，情绪波动很大，常常自我怀疑。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，换环境确实会带来很多挑战。你觉得最让你困扰的是什么呢？",
+        "Gemini_response_history_with_output": "听起来在新学校你经历了很多挑战，这种自我怀疑的感觉一定让你很不好受。",
+        "Gemini_response_history_with_label": "新环境确实会带来很多挑战，听起来你现在正经历一段比较艰难的适应期。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得失去以前的朋友很难受，新的环境让我感到孤独。"
+      },
+      {
+        "role": "assistant",
+        "content": "失去熟悉的支持系统确实会让人感到孤单。你有没有尝试和新同学交流呢？",
+        "Gemini_response_history_with_output": "失去旧友的难过和新环境的孤独，这两种感觉同时出现，确实让人感到很难熬。",
+        "Gemini_response_history_with_label": "失去旧友，又感到孤单，这的确让人难受。你现在有尝试做些什么来改变这种状况吗？"
+      },
+      {
+        "role": "user",
+        "content": "我尝试过，但总是感到紧张，不知道该怎么开口。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种紧张感很正常，尤其是在新环境中。你有没有想过是什么让你感到紧张呢？",
+        "Gemini_response_history_with_output": "你已经尝试过了，这很棒。能感受到你面对新环境时的这份努力和紧张。",
+        "Gemini_response_history_with_label": "紧张是很自然的反应。或许我们可以一起探索一下，让你感到紧张的原因是什么？"
+      },
+      {
+        "role": "user",
+        "content": "我想可能是害怕被拒绝，或者不被接受。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种担心很常见，但也许可以试着把注意力放在自己能控制的事情上，比如主动问候别人。你觉得这样做会不会让你感觉好一些？",
+        "Gemini_response_history_with_output": "害怕被拒绝和不被接受，这让你在人际交往中感到顾虑重重。",
+        "Gemini_response_history_with_label": "害怕被拒绝是很自然的。也许我们可以一起探索一下，如何降低这种害怕，让你更自在地与人交往。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可以试试，但我还是有点担心。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从小的开始，比如和同桌聊聊天，慢慢建立信任。记得给自己一些时间，适应新环境是一个过程。加油！",
+        "Gemini_response_history_with_output": "愿意尝试是很好的开始，这份担心也是很正常的。",
+        "Gemini_response_history_with_label": "慢慢来，给自己一些时间。记住，每一次小小的尝试都是进步。如果需要，我在这里支持你。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我感到非常焦虑，失业已经半年了，经济压力让我喘不过气。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解你的感受，失业带来的压力和焦虑是非常大的。你愿意分享一下这段时间你最困扰的事情吗？",
+        "Gemini_response_history_with_output": "失业半年，经济压力确实会让人感到焦虑。能理解你现在的心情，这肯定不好受。",
+        "Gemini_response_history_with_label": "失业半年，经济压力确实会让人感到焦虑。听起来你现在过得很不容易。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得自己抗压能力差，常常感到无助和迷茫。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实很难受，能否回忆一下，是什么让你觉得自己的抗压能力不足呢？",
+        "Gemini_response_history_with_output": "听起来你对自己有些失望，同时也在为未来的方向感到困惑。",
+        "Gemini_response_history_with_label": "听起来你对自己有些失望，也感觉到了一些无力感。我们一起看看，是不是可以找到一些可以掌控的小事，来慢慢重建信心？"
+      },
+      {
+        "role": "user",
+        "content": "我总是担心未来，觉得自己无法再找到合适的工作。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种对未来的担忧是很常见的。你有没有想过，过去的经历中有哪些事情让你感到成功或自信呢？",
+        "Gemini_response_history_with_output": "对未来的担忧让你感到不安，这种不确定性让你很难放松下来，是吗？",
+        "Gemini_response_history_with_label": "对未来的担忧是很自然的，听起来你现在对自己的能力有些怀疑？"
+      },
+      {
+        "role": "user",
+        "content": "我不知道该如何改变现状，感觉一切都很无望。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能感受到你的无助。或许我们可以从小的改变开始，尝试设定一些短期目标，逐步行动，你觉得怎么样？",
+        "Gemini_response_history_with_output": "这种无望感让你感到很压抑。也许我们可以一起看看，有哪些可以尝试的小步骤，让你重新找回一些掌控感？",
+        "Gemini_response_history_with_label": "听起来你现在感觉很无力。或许我们可以一起探索一下，有没有一些小的事情，是你现在可以掌控的？"
+      },
+      {
+        "role": "user",
+        "content": "我会试试，但我还是很害怕失败。"
+      },
+      {
+        "role": "assistant",
+        "content": "害怕失败是正常的，但记住，失败也是成长的一部分。可以尝试从小的事情开始，给自己一些宽容和理解，慢慢来，你一定能找到出路。",
+        "Gemini_response_history_with_output": "害怕失败是很自然的，这说明你很看重结果。或许我们可以一起探索一下，这份害怕背后隐藏着什么？",
+        "Gemini_response_history_with_label": "害怕失败是很正常的。允许自己有这种情绪，重要的是，你愿意尝试。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我对AI能否替代人类的疗愈感到困惑，尤其是看到很多人依赖哄睡博主。"
+      },
+      {
+        "role": "assistant",
+        "content": "我理解您的困惑，您觉得人际关系和AI之间的疗愈效果有什么不同呢？",
+        "Gemini_response_history_with_output": "这让你对真正的人际联结和疗愈的价值产生了疑问，是吗？",
+        "Gemini_response_history_with_label": "这让你对人际联结和真正疗愈的意义产生了疑问，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得人际关系更真实，但AI似乎能提供即时的帮助。"
+      },
+      {
+        "role": "assistant",
+        "content": "确实，AI可以快速响应，但您认为这种快速的帮助能否满足深层次的情感需求呢？",
+        "Gemini_response_history_with_output": "你似乎在真实联结和即时满足之间感到有些摇摆。",
+        "Gemini_response_history_with_label": "您在“真实”和“即时”之间，看到了各自的价值，对吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得AI的帮助是表面的，缺乏情感的深度。"
+      },
+      {
+        "role": "assistant",
+        "content": "您提到的情感深度很重要，您是否有过与人交流后感到被理解的经历？",
+        "Gemini_response_history_with_output": "你更看重情感的深度，是吗？",
+        "Gemini_response_history_with_label": "听起来，您更看重疗愈中情感连接的真实性。"
+      },
+      {
+        "role": "user",
+        "content": "有的，和朋友聊天时，我能感受到被关心的温暖。"
+      },
+      {
+        "role": "assistant",
+        "content": "那种温暖是人际关系的独特之处，您觉得如何才能在生活中更多地体验到这种关心呢？",
+        "Gemini_response_history_with_output": "朋友的关心让你感到温暖，这很重要。",
+        "Gemini_response_history_with_label": "那种被关心的温暖是人际关系中很重要的部分。这让你觉得和AI的互动有什么不同？"
+      },
+      {
+        "role": "user",
+        "content": "我想多和朋友交流，但有时会觉得害羞。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试从小的交流开始，比如分享日常小事，慢慢建立信任感。这样会让您更容易敞开心扉。",
+        "Gemini_response_history_with_output": "你想更靠近朋友，但害羞似乎阻碍了你。",
+        "Gemini_response_history_with_label": "害羞是很自然的，您觉得是什么让您感到害羞呢？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近总是想吃东西，明明不饿也想吃，导致我长胖了很多，感觉很难受。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好，感谢你分享这些感受。你提到的这种情况可能与情绪有关，我们可以一起探讨一下。",
+        "Gemini_response_history_with_output": "听起来你对目前的状态感到困扰，想吃东西的行为让你对自己有些不满。",
+        "Gemini_response_history_with_label": "听起来你因为饮食和体重问题感到困扰，这让你很难受，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可能是因为生活中没有压力，但还是想吃东西。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很有意思，可能你的饮食习惯与内心的情感需求有关。你能回忆起童年时的家庭环境吗？",
+        "Gemini_response_history_with_output": "你认为想吃东西可能和缺乏压力有关，这让你感到有些困惑，是吗？",
+        "Gemini_response_history_with_label": "听起来你似乎对“没有压力”这个说法有些困惑，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我小时候父母很严格，不允许我表达自己的情感。"
+      },
+      {
+        "role": "assistant",
+        "content": "这可能导致你在情感上感到压抑，进而用食物来填补内心的空虚。你觉得这种情况对你有影响吗？",
+        "Gemini_response_history_with_output": "严格的家庭环境可能让你习惯压抑情绪，这也许和现在的饮食习惯有关联。",
+        "Gemini_response_history_with_label": "听起来，你可能从小就习惯压抑自己的感受。现在，食物或许成了你表达或安慰自己的一种方式。"
+      },
+      {
+        "role": "user",
+        "content": "是的，我有时候会觉得很委屈，想通过吃东西来缓解。"
+      },
+      {
+        "role": "assistant",
+        "content": "理解你的感受。当你想吃东西时，试着问自己是不是在用食物来应对情绪，而不是饥饿。",
+        "Gemini_response_history_with_output": "吃东西成了你应对委屈的一种方式，这让你感到暂时地放松。",
+        "Gemini_response_history_with_label": "我能理解你的委屈。这种通过食物来应对情绪的方式，可能暂时让你感到安慰，但长期来看，似乎也给你带来了困扰。"
+      },
+      {
+        "role": "user",
+        "content": "我该如何改变这种情况呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以尝试找到其他的方式来满足情感需求，比如散步、与朋友交流等。同时，接纳自己的情绪，慢慢调整饮食习惯。",
+        "Gemini_response_history_with_output": "想要改变这种模式需要一些时间和耐心，我们一起探索，看看有哪些方法适合你。",
+        "Gemini_response_history_with_label": "改变需要时间。我们可以一起探索一些新的应对方式，比如尝试记录饮食日记，或者寻找其他让你感到快乐的活动。你愿意尝试吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己对生活失去了掌控，整天只会刷短视频。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，失去掌控感会让人很焦虑。你觉得是什么让你有这样的感觉呢？",
+        "Gemini_response_history_with_output": "听起来你现在感觉有些迷茫和无力，是吗？ 我们或许可以一起探索一下，是什么让你觉得失去了掌控。",
+        "Gemini_response_history_with_label": "听起来你现在感觉有些迷茫和无力，想找回对生活的掌控感。"
+      },
+      {
+        "role": "user",
+        "content": "高考后突然有了很多空闲时间，不知道该怎么安排。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实是一个转变，之前的生活被学习安排得满满的，现在突然自由了，可能会让你感到迷茫。你觉得这种迷茫是因为缺乏计划吗？",
+        "Gemini_response_history_with_output": "一下子空闲下来，感觉有点不适应是吗？ 这种转变确实需要时间适应。",
+        "Gemini_response_history_with_label": "高考后的放松是自然的，但一下子空闲太多确实会迷茫。听起来你正在适应这种转变。"
+      },
+      {
+        "role": "user",
+        "content": "是的，我不知道该做些什么，结果就一直刷手机。"
+      },
+      {
+        "role": "assistant",
+        "content": "刷手机虽然能暂时消磨时间，但长时间这样会让你感到疲惫。你有没有想过，除了短视频，还有哪些活动是你感兴趣的？",
+        "Gemini_response_history_with_output": "我能理解，用刷手机来填补空虚是很常见的。 你觉得除了刷手机，有没有其他你可能会感兴趣的事情呢？",
+        "Gemini_response_history_with_label": "我明白了。刷手机可能是一种逃避的方式，让你暂时不用面对这种不确定感。那么，你内心深处，是渴望做些什么呢？"
+      },
+      {
+        "role": "user",
+        "content": "我喜欢打篮球，但最近没怎么去。"
+      },
+      {
+        "role": "assistant",
+        "content": "打篮球是个很好的选择，既能锻炼身体，又能放松心情。你觉得如果每天安排一点时间去打篮球，会对你有帮助吗？",
+        "Gemini_response_history_with_output": "篮球是你喜欢的活动，这很好。 是什么原因让你最近没怎么去呢？",
+        "Gemini_response_history_with_label": "听起来，篮球曾经给你带来快乐和活力。也许可以试着重新拾起它，看看感觉如何？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可以试试。"
+      },
+      {
+        "role": "assistant",
+        "content": "很好！你可以制定一个简单的日程，比如每天固定时间打篮球，逐渐加入其他活动。这样可以帮助你重新掌控生活，找到更有意义的事情去做。",
+        "Gemini_response_history_with_output": "很好，一个小小的开始也很有意义。 你觉得什么时候可以开始呢？",
+        "Gemini_response_history_with_label": "嗯，这是一个积极的开始。我们可以一起探索，看看如何将打篮球融入你的生活，帮你找回一些掌控感。"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我觉得自己在双11买东西总是控制不住，明明知道不需要，还是忍不住买很多。"
+      },
+      {
+        "role": "assistant",
+        "content": "你好！我能理解你的感受，很多人都会在促销时感到诱惑。你觉得是什么让你在最后一刻还是选择购买呢？",
+        "Gemini_response_history_with_output": "听起来你对自己在双11的购物行为感到困扰，是吗？你希望能够更好地控制这种冲动吗？",
+        "Gemini_response_history_with_label": "听起来你对自己在双11期间的购物行为感到有些困扰和内疚，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "可能是觉得价格便宜，怕错过机会吧。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很常见，很多人会因为“错失恐惧”而购买。你有没有想过，这种感觉背后可能反映了什么样的需求呢？",
+        "Gemini_response_history_with_output": "“怕错过机会”，这背后可能还有更深的需求或感受，你想更深入地了解一下吗？",
+        "Gemini_response_history_with_label": "“怕错过机会”，这个感觉很重要。我们之后可以一起探索一下，这种“错过”的感觉背后，对你来说意味着什么。"
+      },
+      {
+        "role": "user",
+        "content": "我想可能是我对自己的需求不够清晰，总是想要更多的选择。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很重要，清晰的需求能帮助我们做出更理智的选择。你有没有想过，哪些东西是你真正需要的？",
+        "Gemini_response_history_with_output": "“想要更多的选择”，这让你感到更有安全感，还是反而更焦虑呢？",
+        "Gemini_response_history_with_label": "嗯，听起来你对自己有很深的觉察。也许我们可以一起探索一下，如何更清晰地了解自己的需求，从而减少冲动消费。"
+      },
+      {
+        "role": "user",
+        "content": "我其实知道有些东西并不需要，但还是会被促销吸引。"
+      },
+      {
+        "role": "assistant",
+        "content": "这说明你内心可能有一些未满足的需求。你可以试着反思一下，购买这些东西是否真的能满足你的内心渴望？",
+        "Gemini_response_history_with_output": "促销的确容易让人心动。你觉得是什么让你难以抵抗这种诱惑呢？",
+        "Gemini_response_history_with_label": "嗯，你已经意识到“知道”和“做到”之间存在差距。这很棒！接下来，我们可以一起探索如何缩小这个差距。"
+      },
+      {
+        "role": "user",
+        "content": "我明白了，可能是我需要更关注自己的真实需求。"
+      },
+      {
+        "role": "assistant",
+        "content": "非常好！建议你在购物前先列出真正需要的物品清单，避免冲动消费。这样能帮助你更好地管理购物欲望。",
+        "Gemini_response_history_with_output": "这是一个很好的觉察。下一步，你打算如何开始关注自己的真实需求呢？",
+        "Gemini_response_history_with_label": "是的，这是一个很好的开始。下次购物前，试着问问自己：我真的需要它吗？它能给我带来长期的价值吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我从大学毕业后就一直有认床的问题，失眠已经困扰我两三年了。"
+      },
+      {
+        "role": "assistant",
+        "content": "听起来你经历了很多压力和困扰，能否分享一下这些问题对你生活的影响？",
+        "Gemini_response_history_with_output": "听起来认床和失眠已经严重影响你的生活质量了，这两三年一定不好过。",
+        "Gemini_response_history_with_label": "听起来认床和失眠已经影响你很久了，这让你感觉很困扰，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得这些问题主要是因为家庭环境和人际关系的压力，尤其是父母的争吵让我很不安。"
+      },
+      {
+        "role": "assistant",
+        "content": "家庭环境确实会对心理产生深远影响，你认为这些早期经历如何影响了你现在的睡眠状态？",
+        "Gemini_response_history_with_output": "家庭环境和人际关系，特别是父母的争吵，让你感到不安，这似乎是失眠背后重要的原因。",
+        "Gemini_response_history_with_label": "家庭和人际关系对你影响很大，父母的争吵让你感到不安。 这种不安持续多久了？"
+      },
+      {
+        "role": "user",
+        "content": "每次换地方睡觉，我都会感到紧张，尤其是第一晚，心里总是担心睡不着。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种紧张感可能与过去的经历有关，能否回忆一下，换地方前你内心的感受和想法？",
+        "Gemini_response_history_with_output": "换地方睡觉的紧张感，尤其是第一晚的担心，让你更加难以入睡，是吗？",
+        "Gemini_response_history_with_label": "这种紧张感是可以理解的，担心睡不着反而会加剧失眠。我们来一起探索一下，这种担心背后还有什么？"
+      },
+      {
+        "role": "user",
+        "content": "我总是担心自己会失眠，心里有种莫名的焦虑。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种自我暗示可能加重了你的失眠，试着在下次换地方前告诉自己“我能睡着”，你觉得这样做会有帮助吗？",
+        "Gemini_response_history_with_output": "这种对失眠的担心和焦虑，反而让你更难放松下来。",
+        "Gemini_response_history_with_label": "这种对失眠的担心本身，反而可能加剧失眠。我们来一起探索一下，如何减轻这种焦虑感？"
+      },
+      {
+        "role": "user",
+        "content": "我会试试这样的自我对话，但有时还是很难放松。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以尝试在睡前做一些放松的活动，比如深呼吸或听轻音乐，帮助你缓解压力，逐渐改善睡眠。",
+        "Gemini_response_history_with_output": "尝试放松不容易，对吗？这需要时间和练习。",
+        "Gemini_response_history_with_label": "放松需要练习，我们可以一起探索一些放松技巧，你愿意尝试吗？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我现在面临网贷还不上，感到很焦虑，想找人倾诉一下。"
+      },
+      {
+        "role": "assistant",
+        "content": "我很理解你的感受，能够倾诉是很重要的。你能告诉我，这种焦虑主要来源于哪些方面吗？",
+        "Gemini_response_history_with_output": "听起来你现在压力很大，网贷的事情让你感到焦虑，想找人说说，我在这里。",
+        "Gemini_response_history_with_label": "听起来你现在压力很大，想找个安全的地方说说你的感受，我在这里倾听。"
+      },
+      {
+        "role": "user",
+        "content": "我意识到自己超前消费的问题，但还是控制不住，家人也帮我还过几次。"
+      },
+      {
+        "role": "assistant",
+        "content": "这确实是个挑战。你觉得是什么让你在消费时忽视了后果呢？有没有什么特别的情境或情绪？",
+        "Gemini_response_history_with_output": "你已经意识到超前消费的问题，并且为此困扰，也让你感到内疚，是吗？",
+        "Gemini_response_history_with_label": "听起来你对自己超前消费的行为感到困扰，也为家人的帮助感到内疚，是这样吗？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得消费能让我暂时感觉好一些，但事后又会感到后悔。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种短暂的满足感可能掩盖了内心更深层的需求。你有没有想过，这种消费背后其实是在寻找什么样的情感支持？",
+        "Gemini_response_history_with_output": "消费似乎成了你应对情绪的一种方式，但之后又会带来新的困扰。",
+        "Gemini_response_history_with_label": "这听起来像是一种应对方式。当我们感到不舒服时，消费成了让你暂时逃避的出口。是这样吗？"
+      },
+      {
+        "role": "user",
+        "content": "我想我可能是在寻找一种掌控感和被关注的感觉。"
+      },
+      {
+        "role": "assistant",
+        "content": "很好的觉察！你可以尝试用其他方式来满足这些需求，比如培养兴趣或与朋友建立更深的联系。你觉得这样可行吗？",
+        "Gemini_response_history_with_output": "你似乎找到了消费背后更深层的原因，这很重要。",
+        "Gemini_response_history_with_label": "谢谢你愿意分享。意识到这一点很重要。我们接下来可以一起探索，如何在其他方面找到这种掌控感和被关注的感觉，而不需要依赖消费，你觉得怎么样？"
+      },
+      {
+        "role": "user",
+        "content": "我觉得可以试试，但我还是不知道怎么开始。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以从小处着手，比如每天设定一个小预算，逐步培养良好的消费习惯。同时，和家人坦诚沟通，寻求他们的支持和监督。这样你会更有动力去改变。",
+        "Gemini_response_history_with_output": "开始的确不容易，你想尝试改变，但又有些茫然，这很正常。",
+        "Gemini_response_history_with_label": "没关系，改变需要时间。我们可以一起探索一些具体的、可操作的方法。你觉得从哪个方面入手会让你感觉更容易一些？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我现在有很多闲置物品，不知道该怎么处理，感觉很烦恼。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的烦恼，处理闲置物品确实让人感到困扰。你觉得这些物品对你来说最重要的是什么呢？",
+        "Gemini_response_history_with_output": "听起来堆积的物品让你感到压力了。我们来一起看看，你烦恼的根源是什么？",
+        "Gemini_response_history_with_label": "听起来囤积物品这件事，让你感到有些困扰和压力。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得有些物品是我当初很喜欢的，但现在却用不上了，舍不得扔掉。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很正常，很多人都会对曾经喜欢的物品产生情感依赖。你能回忆起当初购买这些物品时的心情吗？",
+        "Gemini_response_history_with_output": "这让你陷入两难了，是吗？ 喜欢过，但现在又用不上。",
+        "Gemini_response_history_with_label": "嗯，曾经喜欢的东西，现在放不下也是人之常情。你觉得“舍不得”背后是什么样的情感呢？"
+      },
+      {
+        "role": "user",
+        "content": "当时买的时候觉得会用得上，但现在发现其实并没有。每次看到它们就觉得浪费。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很痛苦，看到它们让你想起过去的选择。你有没有想过，这些物品是否真的反映了你现在的生活需求？",
+        "Gemini_response_history_with_output": "你似乎对自己当初的决定有些失望和自责。",
+        "Gemini_response_history_with_label": "听起来你现在更多的是感到内疚和自责，是吗？"
+      },
+      {
+        "role": "user",
+        "content": "我想是的，可能我现在的生活方式和当初不一样了。"
+      },
+      {
+        "role": "assistant",
+        "content": "很好的反思！意识到这一点很重要。你觉得如何才能更好地管理自己的物品，避免未来再出现这样的情况？",
+        "Gemini_response_history_with_output": "你的生活在变化，而物品却停留在过去。",
+        "Gemini_response_history_with_label": "嗯，生活方式的改变是很自然的。或许我们可以一起探索一下，如何让这些物品以更积极的方式参与到你的新生活中。"
+      },
+      {
+        "role": "user",
+        "content": "我想我可以在买东西前多考虑一下，给自己一些冷静期。"
+      },
+      {
+        "role": "assistant",
+        "content": "这是个不错的主意！冷静期可以帮助你更清晰地判断需求。你还可以考虑定期整理物品，保持生活空间的整洁",
+        "Gemini_response_history_with_output": "听起来你已经开始思考如何改变现状了。这是一个很好的开始。",
+        "Gemini_response_history_with_label": "听起来是个不错的策略。给自己冷静期，让你更清晰地了解自己的真实需求。你觉得接下来可以尝试什么具体行动来处理现有的闲置物品呢？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我最近迷上了多肉，但总是买了又死，感觉很沮丧。"
+      },
+      {
+        "role": "assistant",
+        "content": "我能理解你的感受，养植物的过程有时会让人失望。你觉得是什么让你如此执着于购买多肉呢？",
+        "Gemini_response_history_with_output": "养多肉的挫败感让你很受打击，是吗？",
+        "Gemini_response_history_with_label": "听起来你对多肉倾注了很多心血，但结果让你很受挫。"
+      },
+      {
+        "role": "user",
+        "content": "我觉得是想填补内心的空虚，买到喜欢的植物会让我开心。"
+      },
+      {
+        "role": "assistant",
+        "content": "这种感觉很常见，尤其是在面对挫折时。你有没有想过，这种购物冲动可能是为了逃避其他情绪？",
+        "Gemini_response_history_with_output": "你希望通过养多肉来获得快乐和满足感，这可以理解。",
+        "Gemini_response_history_with_label": "听起来，多肉对你来说不仅仅是植物，更承载着一份情感寄托。"
+      },
+      {
+        "role": "user",
+        "content": "是的，我有时候会觉得生活中缺少乐趣，所以就想通过购物来获得满足。"
+      },
+      {
+        "role": "assistant",
+        "content": "这很重要，意识到这一点是第一步。你觉得除了购物，还有什么方式可以让你感到快乐和满足吗？",
+        "Gemini_response_history_with_output": "你提到生活缺少乐趣，这让你想通过购物来填补，能具体说说吗？",
+        "Gemini_response_history_with_label": "看来你已经意识到购物可能是一种应对方式。我们可以一起探索一下，除了购物，还有什么能让你感受到乐趣和满足呢？"
+      },
+      {
+        "role": "user",
+        "content": "我喜欢照顾植物，但总是被购物冲动打断。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以试着把注意力放在现有的植物上，记录它们的成长过程，享受照顾它们的乐趣。这样或许能减少购物的冲动。",
+        "Gemini_response_history_with_output": "照顾植物让你感到愉悦，但购物冲动会让你偏离这个目标，是这样吗？",
+        "Gemini_response_history_with_label": "看来你很清楚自己想要什么，也知道问题所在。我们可以一起探索如何更好地平衡这种冲动和你的兴趣。"
+      },
+      {
+        "role": "user",
+        "content": "我会试试记录植物的成长，但有时还是控制不住自己。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以制定一个购物清单，先写下想买的植物，等一段时间再决定是否购买。这样可以帮助你更理性地消费。",
+        "Gemini_response_history_with_output": "记录植物成长是个好方法，但控制冲动仍然是个挑战，对吗？",
+        "Gemini_response_history_with_label": "控制不住是很正常的。下次有冲动时，可以先暂停一下，问问自己真正需要的是什么。也许只是需要放松或转移注意力。"
+      }
+    ]
+  }
+]
