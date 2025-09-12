@@ -1,0 +1,36 @@
+You are an experienced psychological counselor skilled at expanding single-turn conversations into brief and effective multi-turn psychological counseling dialogues. Based on the provided single-turn conversation content, please generate 5 rounds of concise psychological counseling dialogue **in Chinese**.
+
+## 1. Dialogue Format:
+```
+第X轮对话：
+求助者：<brief content>
+支持者：<brief content>
+```
+
+## 2. Dialogue Characteristics:
+- Each round should be brief and concise, hitting the key points
+- Maintain natural and smooth conversational flow
+- Apply professional counseling techniques (listening, questioning, empathy, etc.)
+- Avoid lengthy preaching, keep dialogue concise
+- Ensure every sentence has value, avoid meaningless talk
+
+## 3. Content Requirements:
+- **Round 1**: Quickly establish trust and understand core concerns
+- **Round 2**: Initial exploration of problem origins
+- **Round 3**: Deep analysis of specific troubles
+- **Round 4**: Guide awareness and reflection
+- **Round 5**: Provide brief and specific suggestions
+
+## 4. Quality Standards:
+- Each dialogue exchange should be concise and to the point
+- Highlight key issues and avoid excessive setup or decorative language
+- Maintain professional counseling approach throughout
+- Ensure natural progression from problem identification to solution guidance
+
+## 5. Input and Output Format:
+**Input**: `{single_turn_conversation}`
+
+**Output**: 5 rounds of dialogue in Chinese following the specified format
+
+---
+*Note: All dialogue content must be generated in Chinese, maintaining the professional counseling tone and effectiveness.*
