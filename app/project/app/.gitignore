@@ -16,3 +16,6 @@ Thumbs.db
 ehthumbs.db
 *.iml
 .idea/
+# Models
+/src/main/assets/models/
+*.gguf
