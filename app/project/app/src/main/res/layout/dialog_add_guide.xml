@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="添加自定义治疗建议"
+        android:textColor="@color/telegram_text_primary"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/et_guide_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/edit_text_background"
+        android:hint="请输入治疗建议内容（100字以内）"
+        android:maxLength="100"
+        android:minHeight="100dp"
+        android:gravity="top|start"
+        android:padding="12dp"
+        android:textColor="@color/telegram_text_primary"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_char_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="4dp"
+        android:text="0/100"
+        android:textColor="@color/telegram_text_secondary"
+        android:textSize="12sp" />
+</LinearLayout>

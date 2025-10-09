@@ -1,0 +1,91 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# IDE project files
+.idea/
+*.iml
+
+# Android release artifacts and keystore
+apk/
+app/release/
+*.jks
+*.keystore
+
+# Installer / binary artifacts
+*.msi
+*.exe
+
+# Large model archives and workspaces
+models/*.zip
+quantize_workspace/models/
+quantize_workspace/llama.cpp/
+AutoAWQ/
+
+# Logs, metrics and test data
+logcat_export.txt
+login_test.json
+eval_data_judgment.json
+combined_performance_data.csv
+combined_performance_data.backup.csv
+performance_metrics.csv
+performance_stats.csv
+
+# Server uploads (user-generated content)
+server/uploads/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+.cxx/
+*.cxx
+
+# Android Profiling
+*.hprof
+
+# Spring Boot (for server module)
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Configuration files with sensitive information
+server/src/main/resources/application.yml
+server/src/main/resources/application.properties
+server/src/main/resources/application-*.yml
+server/src/main/resources/application-*.properties
