@@ -1,0 +1,21 @@
+# Android app module ignores
+/build/
+/.externalNativeBuild/
+/.cxx/
+/captures/
+*.apk
+*.aab
+*.ap_
+*.keystore
+*.hprof
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.iml
+.idea/
+# Models
+/src/main/assets/models/
+*.gguf
