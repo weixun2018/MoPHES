@@ -52,8 +52,8 @@ The base model used in this study is an LLM for end-side devices:[MiniCPM4-0.5B]
 - `classify_prompt.txt`: Used for classification tasks, categorizing input content into corresponding categories.  
 - `filter_prompt.txt`: Used to filter out low-quality or irrelevant content.  
 - `single_to_multi_prompt.txt`: Expands single-turn dialogue data into multi-turn dialogue data.  
-- `user_state_prompt_cn.txt`: Dialogue prompts carrying user state in a Chinese environment.  
-- `user_state_prompt.txt`: Dialogue prompts carrying user state in an English environment.
+- `user_state_prompt_cn.txt`: Prompt of mental disorder labeling(Chinese).  
+- `user_state_prompt.txt`: Prompt of mental disorder labeling(English).
 
 ## Train
 ### SFT
