@@ -1,2 +1,10 @@
 */.DS_store/*
-.DS_store
+.DS_store# Ignore Gradle wrapper and directories
+/gradle/
+/gradlew
+/gradlew.bat
+/gradle.properties
+/app/project/gradle/
+/app/project/gradlew
+/app/project/gradlew.bat
+/app/project/gradle.properties
